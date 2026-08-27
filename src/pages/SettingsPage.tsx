@@ -20,8 +20,6 @@ function Card({ title, icon, children }: { title: string; icon: React.ReactNode;
 }
 
 export function SettingsPage() {
-  const { t } = useTranslation()
-
   return (
     <div className="space-y-4">
       <BackupCard />
@@ -29,7 +27,6 @@ export function SettingsPage() {
       <FileImportCard />
       <MonographSeedCard />
       <StockIntegrityCard />
-      <p className="px-1 text-xs leading-relaxed text-ink-3">{t('phase.settings')}</p>
     </div>
   )
 }

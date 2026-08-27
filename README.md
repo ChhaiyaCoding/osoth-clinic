@@ -185,9 +185,9 @@ the orange first column is decoration, not a marker.
       full drug monograph (8 sections)
 - [x] **Phase 2** — Batches, expiry dates, receiving stock, alerts
 - [x] **Phase 3** — Patients, prescriptions, dispensing (FEFO)
-- [ ] **Phase 4** — Alerts dashboard (low stock / expiring) and reports
+- [x] **Phase 4** — Alerts dashboard (low stock / expiring) and reports
 - [x] **Phase 5 (brought forward)** — Backup and restore
-- [ ] Excel export of reports
+- [x] Spreadsheet export of reports
 
 ## ស្តុក / Stock
 
@@ -227,6 +227,26 @@ Three rules the code enforces rather than trusts the user with:
   against the drug's generic name, brands and classes with a deliberately loose
   substring match, so "Penicillin" catches "Amoxicillin". Dispensing stays
   disabled until someone ticks that they have checked it.
+
+## របាយការណ៍ / Reports
+
+**Reports** covers today, 7, 30 or 365 days: dispensing volume, revenue, cost,
+profit and margin; a daily bar chart; the most-dispensed medicines; stock
+movements; and the value of stock on hand at both cost and sell price, with the
+portion sitting in expired or soon-to-expire batches called out separately.
+
+Two decisions worth knowing:
+
+- **Nothing is aggregated at write time.** Every figure is derived from the
+  dispense records and the movement ledger on demand, so a corrected stock count
+  or a restored backup changes the reports with no totals to rebuild.
+- **Cost of goods comes from the batch each line was taken from**, not the
+  drug's current cost price — the point of batch tracking is that what was
+  dispensed in March cost what March's delivery cost.
+
+The chart is hand-drawn SVG rather than a charting library, so the offline
+bundle carries nothing extra. Export writes CSV with a UTF-8 BOM so Excel opens
+the Khmer text correctly.
 
 ## ការបម្រុងទុក / Backup and restore
 

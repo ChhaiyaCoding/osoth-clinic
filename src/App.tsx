@@ -8,7 +8,7 @@ import { DrugStockPage } from './pages/DrugStockPage'
 import { PatientsPage } from './pages/PatientsPage'
 import { PatientDetailPage } from './pages/PatientDetailPage'
 import { DispensePage } from './pages/DispensePage'
-import { PhasePlaceholder } from './pages/PhasePlaceholder'
+import { ReportsPage } from './pages/ReportsPage'
 import { SettingsPage } from './pages/SettingsPage'
 
 /**
@@ -30,7 +30,7 @@ export default function App() {
           <Route path="/patients/:id" element={<PatientDetailPage />} />
           <Route path="/dispense" element={<DispensePage />} />
           <Route path="/dispense/:patientId" element={<DispensePage />} />
-          <Route path="/reports" element={<PhasePlaceholder messageKey="reports" />} />
+          <Route path="/reports" element={<ReportsPage />} />
           <Route path="/settings" element={<SettingsPage />} />
           <Route path="*" element={<Navigate to="/drugs" replace />} />
         </Route>
