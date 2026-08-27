@@ -5,6 +5,9 @@ import { DrugDetailPage } from './pages/DrugDetailPage'
 import { MonographSectionPage } from './pages/MonographSectionPage'
 import { StockPage } from './pages/StockPage'
 import { DrugStockPage } from './pages/DrugStockPage'
+import { PatientsPage } from './pages/PatientsPage'
+import { PatientDetailPage } from './pages/PatientDetailPage'
+import { DispensePage } from './pages/DispensePage'
 import { PhasePlaceholder } from './pages/PhasePlaceholder'
 import { SettingsPage } from './pages/SettingsPage'
 
@@ -23,7 +26,10 @@ export default function App() {
           <Route path="/drugs/:id/:section" element={<MonographSectionPage />} />
           <Route path="/stock" element={<StockPage />} />
           <Route path="/stock/:id" element={<DrugStockPage />} />
-          <Route path="/patients" element={<PhasePlaceholder messageKey="patients" />} />
+          <Route path="/patients" element={<PatientsPage />} />
+          <Route path="/patients/:id" element={<PatientDetailPage />} />
+          <Route path="/dispense" element={<DispensePage />} />
+          <Route path="/dispense/:patientId" element={<DispensePage />} />
           <Route path="/reports" element={<PhasePlaceholder messageKey="reports" />} />
           <Route path="/settings" element={<SettingsPage />} />
           <Route path="*" element={<Navigate to="/drugs" replace />} />

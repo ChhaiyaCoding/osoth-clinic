@@ -184,7 +184,7 @@ the orange first column is decoration, not a marker.
 - [x] **Phase 1** — PWA shell, offline storage, i18n, medicine list + CRUD,
       full drug monograph (8 sections)
 - [x] **Phase 2** — Batches, expiry dates, receiving stock, alerts
-- [ ] **Phase 3** — Patients, prescriptions, dispensing (FEFO)
+- [x] **Phase 3** — Patients, prescriptions, dispensing (FEFO)
 - [ ] **Phase 4** — Alerts dashboard (low stock / expiring) and reports
 - [x] **Phase 5 (brought forward)** — Backup and restore
 - [ ] Excel export of reports
@@ -207,6 +207,26 @@ so a drug never stocked does not shout.
 
 Dates are handled as local calendar dates, never `toISOString()` — at UTC+7 that
 would report yesterday's date all evening and expire batches a day early.
+
+## អ្នកជំងឺ និងការចេញឱសថ / Patients and dispensing
+
+**Patients → patient → New visit** runs the whole encounter on one screen:
+symptoms and diagnosis, then medicines with dose × times/day × days, and one
+Dispense button that writes visit, prescription, dispense and stock movements in
+a single transaction.
+
+Three rules the code enforces rather than trusts the user with:
+
+- **Expired stock is never allocated.** A batch past its date is invisible to
+  the allocator regardless of quantity on it; it has to be written off.
+- **Over-dispensing is impossible.** The shortfall is shown live while
+  prescribing, and `recordDispense` recomputes the allocation inside the
+  transaction — if stock moved since the screen rendered, the whole thing aborts
+  rather than dispensing part of a prescription.
+- **Allergies block the button.** `allergyMatches` compares recorded allergies
+  against the drug's generic name, brands and classes with a deliberately loose
+  substring match, so "Penicillin" catches "Amoxicillin". Dispensing stays
+  disabled until someone ticks that they have checked it.
 
 ## ការបម្រុងទុក / Backup and restore
 
