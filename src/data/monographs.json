@@ -1,0 +1,4776 @@
+{
+ "source": "Starter monographs — drafted for this app, NOT yet reviewed by a pharmacist",
+ "seeds": [
+  {
+   "match": [
+    "Paracetamol",
+    "Acetaminophen"
+   ],
+   "dosageAdult": {
+    "Fever / mild to moderate pain": [
+     "500–1000 mg PO every 4–6 hours as needed",
+     "Maximum 4 g in 24 hours from all sources",
+     "Maximum 2 g/day if low body weight, malnutrition, chronic alcohol use or liver disease"
+    ]
+   },
+   "dosagePediatric": {
+    "Fever / pain (over 3 months)": [
+     "10–15 mg/kg PO every 4–6 hours as needed",
+     "Maximum 4 doses in 24 hours; maximum 60 mg/kg/day",
+     "Syrup 125 mg/5 mL: give 0.5 mL/kg per dose",
+     "Syrup 250 mg/5 mL: give 0.25 mL/kg per dose"
+    ],
+    "Under 3 months": [
+     "Use only on medical advice; 10 mg/kg per dose",
+     "Fever in an infant under 3 months needs assessment, not just antipyretic"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "Warfarin — regular high-dose paracetamol may raise INR; monitor"
+    ],
+    "Monitor": [
+     "Carbamazepine, phenytoin, rifampicin, isoniazid — raise the risk of liver injury",
+     "Other paracetamol-containing products (cold remedies, Tramacet) — risk of accidental overdose"
+    ]
+   },
+   "adverseEffects": {
+    "Uncommon": [
+     "Rash",
+     "Nausea"
+    ],
+    "Rare but serious": [
+     "Hepatotoxicity in overdose — may have no symptoms for the first 24 hours",
+     "Severe skin reactions (SJS/TEN)",
+     "Blood dyscrasias"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Hypersensitivity to paracetamol",
+     "Severe hepatic impairment"
+    ],
+    "Cautions": [
+     "Chronic alcohol use, malnutrition, dehydration and low body weight all lower the toxic threshold",
+     "Check every other medicine the patient takes for hidden paracetamol",
+     "Overdose is treatable with N-acetylcysteine — refer early, do not wait for symptoms"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "The analgesic/antipyretic of choice in pregnancy",
+     "Use the lowest effective dose for the shortest time"
+    ]
+   },
+   "pregnancyCategory": "B",
+   "lactation": "Compatible with breastfeeding. Amounts in milk are far below an infant dose.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Central inhibition of prostaglandin synthesis; acts on the hypothalamic heat-regulating centre. Weak anti-inflammatory activity."
+    ],
+    "Pharmacokinetics": [
+     "Onset 30–60 min PO",
+     "Peak 0.5–2 h",
+     "Half-life 2–3 h",
+     "Hepatic metabolism; toxic metabolite NAPQI cleared by glutathione"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "May be given with or without food",
+     "Shake syrup before measuring",
+     "Use a dosing syringe, not a kitchen spoon"
+    ],
+    "Counselling": [
+     "Do not exceed the stated daily dose",
+     "Do not combine with other paracetamol-containing medicines"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — oral, suppository and injection forms stocked"
+    ],
+    "Storage": [
+     "Below 30 °C, protect from moisture"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Ibuprofen"
+   ],
+   "dosageAdult": {
+    "Pain / fever": [
+     "200–400 mg PO every 4–6 hours as needed",
+     "Maximum 1.2 g/day without supervision"
+    ],
+    "Inflammatory conditions": [
+     "400–800 mg PO three times daily",
+     "Maximum 2.4 g/day under supervision"
+    ]
+   },
+   "dosagePediatric": {
+    "Fever / pain (over 6 months)": [
+     "5–10 mg/kg PO every 6–8 hours as needed",
+     "Maximum 40 mg/kg/day",
+     "Syrup 100 mg/5 mL: give 0.25–0.5 mL/kg per dose"
+    ],
+    "Not recommended": [
+     "Under 6 months",
+     "Any child who is dehydrated, vomiting or has poor urine output"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "Anticoagulants and antiplatelets — increased bleeding risk",
+     "Other NSAIDs including aspirin — do not combine",
+     "Methotrexate — reduced clearance, increased toxicity"
+    ],
+    "Monitor": [
+     "ACE inhibitors, ARBs and diuretics — the \"triple whammy\" of acute kidney injury",
+     "Lithium — raised levels",
+     "Corticosteroids — increased GI bleeding risk"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Dyspepsia",
+     "Nausea",
+     "Abdominal pain"
+    ],
+    "Serious": [
+     "GI ulceration and bleeding",
+     "Acute kidney injury, especially if dehydrated",
+     "Bronchospasm in aspirin-sensitive asthma",
+     "Fluid retention, raised blood pressure"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Active peptic ulcer or GI bleeding",
+     "Severe heart failure",
+     "Severe renal impairment",
+     "Third trimester of pregnancy",
+     "Aspirin/NSAID-induced asthma or urticaria"
+    ],
+    "Cautions": [
+     "Avoid in dengue and in undifferentiated fever with bleeding risk — use paracetamol",
+     "Avoid in dehydration or diarrhoeal illness; risk of kidney injury",
+     "Take with food to reduce GI upset",
+     "Use the lowest effective dose for the shortest time"
+    ]
+   },
+   "pregnancy": {
+    "By trimester": [
+     "First and second trimester: avoid unless clearly needed",
+     "Third trimester: contraindicated — premature closure of the ductus arteriosus, oligohydramnios, delayed labour"
+    ]
+   },
+   "pregnancyCategory": "C",
+   "lactation": "Considered compatible; very little passes into milk and it is a preferred NSAID while breastfeeding.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Non-selective inhibition of COX-1 and COX-2, reducing prostaglandin synthesis. Analgesic, antipyretic and anti-inflammatory."
+    ],
+    "Pharmacokinetics": [
+     "Onset 30–60 min",
+     "Peak 1–2 h",
+     "Half-life 2 h",
+     "Highly protein bound; hepatic metabolism, renal excretion"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "Give with or after food",
+     "Ensure the patient is well hydrated",
+     "Shake the syrup before measuring"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — tablet and syrup"
+    ],
+    "Storage": [
+     "Below 30 °C"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Diclofenac"
+   ],
+   "dosageAdult": {
+    "Pain / inflammation": [
+     "50 mg PO two to three times daily with food",
+     "Maximum 150 mg/day",
+     "Limit to the shortest course that controls symptoms"
+    ]
+   },
+   "dosagePediatric": {
+    "Not recommended": [
+     "Not for use under 18 years in this formulary"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "Anticoagulants and antiplatelets — bleeding",
+     "Other NSAIDs — do not combine",
+     "Methotrexate — increased toxicity"
+    ],
+    "Monitor": [
+     "ACE inhibitors, ARBs, diuretics — renal impairment",
+     "Ciclosporin, tacrolimus — nephrotoxicity",
+     "Corticosteroids — GI bleeding"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Dyspepsia",
+     "Nausea",
+     "Diarrhoea",
+     "Headache",
+     "Injection site pain"
+    ],
+    "Serious": [
+     "GI ulceration and bleeding",
+     "Raised transaminases; hepatotoxicity",
+     "Thrombotic cardiovascular events",
+     "Acute kidney injury"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Active peptic ulcer or GI bleeding",
+     "Ischaemic heart disease, cerebrovascular or peripheral arterial disease",
+     "Heart failure (NYHA II–IV)",
+     "Severe renal or hepatic impairment",
+     "Third trimester of pregnancy"
+    ],
+    "Cautions": [
+     "Carries the highest cardiovascular risk of the common NSAIDs — prefer ibuprofen where a choice exists",
+     "Avoid in dengue and in undifferentiated febrile illness",
+     "Not for children in this formulary"
+    ]
+   },
+   "pregnancy": {
+    "By trimester": [
+     "Avoid throughout unless clearly necessary",
+     "Third trimester: contraindicated"
+    ]
+   },
+   "pregnancyCategory": "C",
+   "lactation": "Small amounts in milk; short courses are generally considered acceptable, but ibuprofen is preferred.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Non-selective COX inhibitor with relative COX-2 preference; potent anti-inflammatory and analgesic."
+    ],
+    "Pharmacokinetics": [
+     "Peak 1–2 h PO",
+     "Half-life 1–2 h",
+     "Extensive first-pass metabolism"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "Swallow whole with food",
+     "Do not crush enteric-coated tablets"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — tablet; injection also available"
+    ],
+    "Storage": [
+     "Below 30 °C, protect from light"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Tramadol"
+   ],
+   "dosageAdult": {
+    "Moderate to severe pain": [
+     "50–100 mg PO every 4–6 hours as needed",
+     "Maximum 400 mg/day",
+     "Elderly over 75: maximum 300 mg/day",
+     "Start at the low end and titrate"
+    ],
+    "Renal / hepatic impairment": [
+     "CrCl under 30 mL/min: extend the interval to every 12 hours, maximum 200 mg/day",
+     "Cirrhosis: 50 mg every 12 hours"
+    ]
+   },
+   "dosagePediatric": {
+    "Not recommended": [
+     "Not for use under 17 years in this formulary",
+     "Contraindicated under 12 years and after tonsillectomy/adenoidectomy in children"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "SSRIs, SNRIs, TCAs, MAOIs, linezolid — serotonin syndrome",
+     "MAOIs within 14 days — contraindicated",
+     "Benzodiazepines, alcohol, other CNS depressants — respiratory depression",
+     "Carbamazepine — reduced tramadol effect"
+    ],
+    "Monitor": [
+     "Any drug lowering the seizure threshold",
+     "Warfarin — raised INR"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Nausea and vomiting",
+     "Dizziness",
+     "Constipation",
+     "Dry mouth",
+     "Somnolence",
+     "Headache"
+    ],
+    "Serious": [
+     "Seizures, particularly above 400 mg/day",
+     "Respiratory depression",
+     "Serotonin syndrome",
+     "Dependence with prolonged use"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Acute intoxication with alcohol, hypnotics, opioids or psychotropics",
+     "MAOI use within 14 days",
+     "Uncontrolled epilepsy",
+     "Severe respiratory depression",
+     "Children under 12 years"
+    ],
+    "Cautions": [
+     "Controlled drug — record every issue in the register",
+     "Effect depends on CYP2D6; some patients get little analgesia and some get an exaggerated opioid effect",
+     "Taper rather than stop abruptly after prolonged use"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Avoid; prolonged use near term causes neonatal withdrawal",
+     "Not recommended during labour"
+    ]
+   },
+   "pregnancyCategory": "C",
+   "lactation": "Not recommended — passes into milk and infant CYP2D6 status is unpredictable.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Weak mu-opioid agonist plus inhibition of noradrenaline and serotonin reuptake. The active metabolite M1 provides most opioid activity."
+    ],
+    "Pharmacokinetics": [
+     "Onset 1 h",
+     "Peak 2 h",
+     "Half-life 6 h",
+     "CYP2D6 and CYP3A4 metabolism, renal excretion"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "With or without food",
+     "Do not crush prolonged-release forms"
+    ],
+    "Controlled drug": [
+     "Two-person check and register entry at every issue"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — non-narcotic opioid; injection also available"
+    ],
+    "Storage": [
+     "Locked cupboard, below 30 °C"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Amoxicillin"
+   ],
+   "dosageAdult": {
+    "Common infections": [
+     "500 mg PO every 8 hours",
+     "Severe infection: 1 g every 8 hours",
+     "Typical course 5–7 days"
+    ],
+    "Renal impairment": [
+     "CrCl 10–30 mL/min: 500 mg every 12 hours",
+     "CrCl under 10 mL/min: 500 mg every 24 hours"
+    ]
+   },
+   "dosagePediatric": {
+    "Standard": [
+     "40–50 mg/kg/day PO divided every 8–12 hours",
+     "Syrup 125 mg/5 mL or 250 mg/5 mL"
+    ],
+    "Pneumonia / otitis media (high dose)": [
+     "80–90 mg/kg/day PO divided every 12 hours",
+     "Maximum 3 g/day"
+    ]
+   },
+   "interactions": {
+    "Monitor": [
+     "Warfarin — raised INR",
+     "Methotrexate — reduced clearance",
+     "Allopurinol — increased rash",
+     "Oral typhoid vaccine — reduced response"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Diarrhoea",
+     "Nausea",
+     "Rash"
+    ],
+    "Serious": [
+     "Anaphylaxis",
+     "Clostridioides difficile colitis",
+     "Severe cutaneous reactions",
+     "Cholestatic jaundice (more with clavulanate)"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Penicillin hypersensitivity",
+     "History of penicillin-associated cholestatic jaundice"
+    ],
+    "Cautions": [
+     "Ask specifically about previous penicillin reactions and what happened",
+     "A widespread rash appears in most patients with infectious mononucleosis given amoxicillin — this is not necessarily allergy but avoid the drug",
+     "Cross-reactivity with cephalosporins is low but not zero"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Considered safe; one of the preferred antibiotics in pregnancy"
+    ]
+   },
+   "pregnancyCategory": "B",
+   "lactation": "Compatible. Watch the infant for diarrhoea, thrush or rash.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Aminopenicillin. Binds penicillin-binding proteins and blocks cell wall cross-linking; bactericidal."
+    ],
+    "Pharmacokinetics": [
+     "Well absorbed orally, unaffected by food",
+     "Peak 1–2 h",
+     "Half-life 1 h",
+     "Mainly renal excretion"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "With or without food",
+     "Reconstituted syrup: keep refrigerated and discard after 7–14 days per the label",
+     "Shake well before each dose"
+    ],
+    "Counselling": [
+     "Finish the whole course even once feeling better"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — capsule, powder sachet and syrup"
+    ],
+    "Storage": [
+     "Dry powder below 30 °C; reconstituted syrup refrigerated"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Amoxicillin + Clavulanic acid",
+    "Co-amoxiclav"
+   ],
+   "dosageAdult": {
+    "Standard": [
+     "625 mg (500/125) PO every 8 hours",
+     "Severe: 1 g (875/125) every 12 hours",
+     "Course 5–7 days"
+    ]
+   },
+   "dosagePediatric": {
+    "Standard": [
+     "25–45 mg/kg/day of the amoxicillin component PO divided every 12 hours",
+     "Otitis media / pneumonia: up to 90 mg/kg/day of amoxicillin, using a high-ratio formulation"
+    ],
+    "Important": [
+     "Dose is always calculated on the amoxicillin component",
+     "Do not combine two different ratio products to make a dose"
+    ]
+   },
+   "interactions": {
+    "Monitor": [
+     "Warfarin — raised INR",
+     "Methotrexate — reduced clearance",
+     "Allopurinol — increased rash"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Diarrhoea — noticeably more than plain amoxicillin",
+     "Nausea",
+     "Rash",
+     "Vaginal candidiasis"
+    ],
+    "Serious": [
+     "Cholestatic hepatitis, may appear up to 6 weeks after the course",
+     "C. difficile colitis",
+     "Anaphylaxis"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Penicillin hypersensitivity",
+     "Previous co-amoxiclav-associated jaundice or hepatic dysfunction"
+    ],
+    "Cautions": [
+     "Reserve for infections where beta-lactamase producers are likely; plain amoxicillin first otherwise",
+     "Take with the first mouthful of food to reduce GI upset"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Generally considered safe",
+     "Avoid in preterm premature rupture of membranes — associated with necrotising enterocolitis"
+    ]
+   },
+   "pregnancyCategory": "B",
+   "lactation": "Compatible. Watch the infant for diarrhoea and thrush.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Amoxicillin inhibits cell wall synthesis; clavulanic acid irreversibly inhibits beta-lactamase, restoring activity against resistant organisms."
+    ],
+    "Pharmacokinetics": [
+     "Peak 1–2 h",
+     "Half-life about 1 h for both components",
+     "Renal excretion"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "Give at the start of a meal",
+     "Shake the syrup; keep refrigerated after reconstitution"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — tablet, powder and syrup"
+    ],
+    "Storage": [
+     "Dry form below 25 °C; reconstituted syrup refrigerated, discard after 7 days"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Cephalexin",
+    "Cefalexin"
+   ],
+   "dosageAdult": {
+    "Standard": [
+     "500 mg PO every 8 hours",
+     "Skin and soft tissue: 500 mg every 6 hours",
+     "Course 5–7 days"
+    ]
+   },
+   "dosagePediatric": {
+    "Standard": [
+     "25–50 mg/kg/day PO divided every 6–12 hours",
+     "Severe: up to 100 mg/kg/day",
+     "Maximum 4 g/day"
+    ]
+   },
+   "interactions": {
+    "Monitor": [
+     "Probenecid — raised cephalexin levels",
+     "Metformin — raised metformin levels",
+     "Warfarin — occasional raised INR"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Diarrhoea",
+     "Nausea",
+     "Rash"
+    ],
+    "Serious": [
+     "Anaphylaxis",
+     "C. difficile colitis",
+     "Interstitial nephritis"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Cephalosporin hypersensitivity"
+    ],
+    "Cautions": [
+     "Use with care in severe penicillin allergy — cross-reactivity is low but real",
+     "Reduce the dose in renal impairment"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Considered safe; widely used for urinary infection in pregnancy"
+    ]
+   },
+   "pregnancyCategory": "B",
+   "lactation": "Compatible.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "First-generation cephalosporin; inhibits bacterial cell wall synthesis. Good Gram-positive cover including most staphylococci and streptococci."
+    ],
+    "Pharmacokinetics": [
+     "Peak 1 h",
+     "Half-life 1 h",
+     "Renal excretion, largely unchanged"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "With or without food; food reduces nausea",
+     "Shake syrup well; refrigerate after reconstitution"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — tablet, capsule, powder and syrup"
+    ],
+    "Storage": [
+     "Below 30 °C; reconstituted syrup refrigerated for 14 days"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Cefixime"
+   ],
+   "dosageAdult": {
+    "Standard": [
+     "200 mg PO every 12 hours, or 400 mg once daily",
+     "Course 5–7 days"
+    ]
+   },
+   "dosagePediatric": {
+    "Standard": [
+     "8 mg/kg/day PO once daily, or divided every 12 hours",
+     "Maximum 400 mg/day",
+     "Syrup 100 mg/5 mL"
+    ]
+   },
+   "interactions": {
+    "Monitor": [
+     "Warfarin — raised INR",
+     "Carbamazepine — raised levels"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Diarrhoea — common with this agent",
+     "Abdominal pain",
+     "Nausea",
+     "Rash"
+    ],
+    "Serious": [
+     "C. difficile colitis",
+     "Anaphylaxis",
+     "Severe cutaneous reactions"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Cephalosporin hypersensitivity"
+    ],
+    "Cautions": [
+     "Broad-spectrum oral cephalosporin — reserve it, do not use where amoxicillin would do",
+     "Reduce dose if CrCl under 20 mL/min"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Considered safe when indicated"
+    ]
+   },
+   "pregnancyCategory": "B",
+   "lactation": "Compatible; little detected in milk.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Third-generation oral cephalosporin; broad Gram-negative activity, stable to many beta-lactamases. Poor staphylococcal cover."
+    ],
+    "Pharmacokinetics": [
+     "Peak 3–4 h",
+     "Half-life 3–4 h",
+     "Renal and biliary excretion"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "With or without food",
+     "Shake syrup well before each dose"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — tablet and syrup"
+    ],
+    "Storage": [
+     "Below 30 °C; reconstituted syrup per label"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Ceftriaxone"
+   ],
+   "dosageAdult": {
+    "Standard": [
+     "1–2 g IV or IM once daily",
+     "Severe infection / meningitis: 2 g every 12 hours"
+    ],
+    "Gonorrhoea": [
+     "500 mg IM as a single dose, with azithromycin per local guidance"
+    ]
+   },
+   "dosagePediatric": {
+    "Standard": [
+     "50–75 mg/kg IV/IM once daily",
+     "Maximum 2 g/day"
+    ],
+    "Meningitis": [
+     "100 mg/kg/day IV divided every 12 hours",
+     "Maximum 4 g/day"
+    ],
+    "Neonates": [
+     "Avoid — displaces bilirubin and can cause kernicterus",
+     "Contraindicated with any calcium-containing IV fluid"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "Calcium-containing IV solutions including Ringer's lactate — fatal precipitates in neonates; never co-administer in any patient through the same line"
+    ],
+    "Monitor": [
+     "Warfarin — raised INR"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Pain at the injection site",
+     "Diarrhoea",
+     "Rash",
+     "Transient rise in transaminases"
+    ],
+    "Serious": [
+     "C. difficile colitis",
+     "Biliary pseudolithiasis (\"biliary sludge\")",
+     "Haemolytic anaemia",
+     "Anaphylaxis"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Cephalosporin hypersensitivity",
+     "Neonates under 28 days needing calcium-containing IV fluids",
+     "Hyperbilirubinaemic neonates"
+    ],
+    "Cautions": [
+     "Flush the line thoroughly between ceftriaxone and any calcium-containing fluid",
+     "No dose reduction needed in mild renal impairment"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Considered safe; commonly used for serious infection in pregnancy"
+    ]
+   },
+   "pregnancyCategory": "B",
+   "lactation": "Compatible; low levels in milk.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Third-generation cephalosporin, bactericidal via cell wall synthesis inhibition. Long half-life allows once-daily dosing."
+    ],
+    "Pharmacokinetics": [
+     "Half-life 6–9 h",
+     "Highly protein bound",
+     "Dual renal and biliary elimination"
+    ]
+   },
+   "administration": {
+    "IV": [
+     "Reconstitute and dilute; infuse over 30 minutes",
+     "Never mix with calcium-containing solutions"
+    ],
+    "IM": [
+     "Reconstitute with 1% lidocaine to reduce pain where local practice allows",
+     "Lidocaine-containing solution must never be given IV"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — injection"
+    ],
+    "Storage": [
+     "Dry vial below 25 °C, protect from light; use reconstituted solution promptly"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Azithromycin"
+   ],
+   "dosageAdult": {
+    "Standard course": [
+     "500 mg PO once daily for 3 days",
+     "Or 500 mg on day 1 then 250 mg daily on days 2–5"
+    ],
+    "Gonorrhoea / chlamydia": [
+     "1 g PO as a single dose, per local guidance"
+    ]
+   },
+   "dosagePediatric": {
+    "Standard": [
+     "10 mg/kg PO once daily for 3 days",
+     "Or 10 mg/kg on day 1 then 5 mg/kg daily on days 2–5",
+     "Maximum 500 mg/day"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "Other QT-prolonging drugs — additive risk of torsades de pointes",
+     "Ergot alkaloids — avoid"
+    ],
+    "Monitor": [
+     "Warfarin — raised INR",
+     "Digoxin — raised levels",
+     "Antacids containing aluminium or magnesium — separate by 2 hours"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Nausea",
+     "Abdominal pain",
+     "Diarrhoea"
+    ],
+    "Serious": [
+     "QT prolongation",
+     "Cholestatic hepatitis",
+     "C. difficile colitis",
+     "Infantile hypertrophic pyloric stenosis when used in the first weeks of life"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Macrolide hypersensitivity",
+     "History of cholestatic jaundice with azithromycin"
+    ],
+    "Cautions": [
+     "Avoid with known QT prolongation, hypokalaemia or bradycardia",
+     "Tissue levels persist for days after the last dose — the short course is a full course"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Considered acceptable when a macrolide is needed"
+    ]
+   },
+   "pregnancyCategory": "B",
+   "lactation": "Compatible; monitor the infant for GI upset.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Macrolide; binds the 50S ribosomal subunit and blocks protein synthesis. Bacteriostatic, concentrates inside tissue and phagocytes."
+    ],
+    "Pharmacokinetics": [
+     "Peak 2–3 h",
+     "Terminal half-life 68 h",
+     "Mainly biliary excretion"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "With or without food; food reduces nausea",
+     "Keep antacids 2 hours apart"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — tablet"
+    ],
+    "Storage": [
+     "Below 30 °C"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Ciprofloxacin"
+   ],
+   "dosageAdult": {
+    "Urinary tract infection": [
+     "250–500 mg PO every 12 hours for 3–7 days"
+    ],
+    "Other infections": [
+     "500–750 mg PO every 12 hours"
+    ],
+    "Renal impairment": [
+     "CrCl under 30 mL/min: halve the dose or double the interval"
+    ]
+   },
+   "dosagePediatric": {
+    "Restricted": [
+     "Generally avoided in children; reserve for specific indications on specialist advice",
+     "If used: 10–20 mg/kg every 12 hours, maximum 750 mg per dose"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "Tizanidine — contraindicated",
+     "QT-prolonging drugs — additive risk",
+     "Theophylline — toxicity"
+    ],
+    "Separate dosing": [
+     "Antacids, iron, zinc, calcium, sucralfate and dairy bind ciprofloxacin — give 2 hours before or 6 hours after"
+    ],
+    "Monitor": [
+     "Warfarin — raised INR",
+     "NSAIDs — increased seizure risk",
+     "Corticosteroids — increased tendon rupture risk"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Nausea",
+     "Diarrhoea",
+     "Headache",
+     "Dizziness"
+    ],
+    "Serious": [
+     "Tendinitis and tendon rupture, especially Achilles",
+     "Peripheral neuropathy, sometimes irreversible",
+     "CNS effects: confusion, seizures",
+     "Aortic aneurysm and dissection",
+     "QT prolongation",
+     "C. difficile colitis"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Fluoroquinolone hypersensitivity",
+     "History of tendon disorder with a quinolone",
+     "Concurrent tizanidine"
+    ],
+    "Cautions": [
+     "Reserve for infections with no alternative — the serious adverse effects can be disabling and permanent",
+     "Stop at the first sign of tendon pain, paraesthesia or psychiatric change",
+     "Avoid in myasthenia gravis",
+     "Higher risk in the elderly and with corticosteroids"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Avoid unless no alternative — animal data show cartilage damage"
+    ]
+   },
+   "pregnancyCategory": "C",
+   "lactation": "Present in milk; usually avoided, though single doses are generally tolerated.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Fluoroquinolone; inhibits DNA gyrase and topoisomerase IV, blocking DNA replication. Bactericidal, strong Gram-negative activity."
+    ],
+    "Pharmacokinetics": [
+     "Peak 1–2 h",
+     "Half-life 4 h",
+     "Renal excretion; inhibits CYP1A2"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "With or without food, but keep away from dairy and mineral supplements",
+     "Maintain good fluid intake to prevent crystalluria"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — tablet, eye/ear drop; injection also stocked"
+    ],
+    "Storage": [
+     "Below 30 °C, protect from light"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Metronidazole"
+   ],
+   "dosageAdult": {
+    "Anaerobic infection": [
+     "400–500 mg PO every 8 hours for 7 days"
+    ],
+    "Amoebiasis": [
+     "800 mg PO every 8 hours for 5–10 days"
+    ],
+    "Giardiasis": [
+     "2 g PO once daily for 3 days, or 400 mg three times daily for 5 days"
+    ],
+    "Bacterial vaginosis / trichomoniasis": [
+     "400 mg every 12 hours for 7 days, or 2 g as a single dose"
+    ]
+   },
+   "dosagePediatric": {
+    "Anaerobic infection": [
+     "22.5–40 mg/kg/day PO divided every 8 hours",
+     "Maximum 1.5 g/day"
+    ],
+    "Amoebiasis": [
+     "35–50 mg/kg/day PO divided every 8 hours for 7–10 days"
+    ],
+    "Giardiasis": [
+     "15 mg/kg/day PO divided every 8 hours for 5–7 days"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "Alcohol — disulfiram-like reaction; avoid during treatment and for 48 hours after",
+     "Warfarin — markedly raised INR",
+     "Disulfiram — psychosis"
+    ],
+    "Monitor": [
+     "Lithium — raised levels",
+     "Phenytoin, phenobarbital — altered metabolism"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Metallic taste",
+     "Nausea",
+     "Anorexia",
+     "Dark urine — harmless, warn the patient"
+    ],
+    "Serious": [
+     "Peripheral neuropathy with prolonged use",
+     "Seizures",
+     "Encephalopathy",
+     "Neutropenia"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Hypersensitivity to nitroimidazoles",
+     "First trimester for high-dose regimens"
+    ],
+    "Cautions": [
+     "Warn every patient about alcohol before they leave",
+     "Avoid courses longer than 10 days where possible",
+     "Reduce the dose in severe hepatic impairment"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Avoid high single doses in the first trimester",
+     "Standard courses are used in the second and third trimester when indicated"
+    ]
+   },
+   "pregnancyCategory": "B",
+   "lactation": "Enters milk. For a single 2 g dose, some sources advise interrupting feeds for 12–24 hours; standard divided doses are usually acceptable.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Reduced within anaerobic organisms to reactive intermediates that break DNA strands. Active against anaerobes and protozoa only."
+    ],
+    "Pharmacokinetics": [
+     "Almost complete oral absorption",
+     "Peak 1–2 h",
+     "Half-life 8 h",
+     "Hepatic metabolism"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "With or after food to reduce nausea",
+     "Complete the full course"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — tablet and syrup; infusion also stocked"
+    ],
+    "Storage": [
+     "Below 30 °C, protect from light"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Sulfamethoxazole + Trimetoprim",
+    "Sulfamethoxazole + Trimethoprim",
+    "Co-trimoxazole"
+   ],
+   "dosageAdult": {
+    "Standard": [
+     "960 mg (800/160) PO every 12 hours",
+     "Course 5–14 days depending on indication"
+    ],
+    "PCP treatment": [
+     "Trimethoprim 15–20 mg/kg/day IV or PO divided every 6–8 hours for 21 days"
+    ],
+    "PCP prophylaxis": [
+     "960 mg once daily, or three times weekly"
+    ]
+   },
+   "dosagePediatric": {
+    "Standard": [
+     "Trimethoprim 6–12 mg/kg/day PO divided every 12 hours",
+     "Syrup 240 mg/5 mL (200 + 40)"
+    ],
+    "Not for": [
+     "Infants under 6 weeks",
+     "Any neonate — risk of kernicterus"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "Warfarin — markedly raised INR",
+     "Methotrexate — severe myelosuppression",
+     "ACE inhibitors, ARBs, spironolactone — dangerous hyperkalaemia",
+     "Phenytoin — raised levels"
+    ],
+    "Monitor": [
+     "Sulfonylureas — hypoglycaemia",
+     "Digoxin — raised levels"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Nausea",
+     "Rash",
+     "Anorexia"
+    ],
+    "Serious": [
+     "Stevens-Johnson syndrome and toxic epidermal necrolysis",
+     "Agranulocytosis, aplastic anaemia",
+     "Hyperkalaemia",
+     "Acute kidney injury",
+     "Haemolysis in G6PD deficiency"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Sulfonamide hypersensitivity",
+     "Severe hepatic or renal impairment",
+     "Megaloblastic anaemia from folate deficiency",
+     "Infants under 6 weeks",
+     "Pregnancy at term"
+    ],
+    "Cautions": [
+     "Stop immediately if any rash appears — early SJS looks trivial",
+     "Check potassium in the elderly and in renal impairment",
+     "G6PD deficiency is common in this region — ask before prescribing"
+    ]
+   },
+   "pregnancy": {
+    "By trimester": [
+     "First trimester: avoid — folate antagonism, neural tube defects",
+     "Third trimester and at term: avoid — kernicterus risk",
+     "If unavoidable, give with folic acid supplementation"
+    ]
+   },
+   "pregnancyCategory": "D",
+   "lactation": "Avoid in the first 2 months, in jaundiced or premature infants, and in G6PD deficiency.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Sequential blockade of folate synthesis: sulfamethoxazole inhibits dihydropteroate synthase, trimethoprim inhibits dihydrofolate reductase. Synergistic and bactericidal."
+    ],
+    "Pharmacokinetics": [
+     "Peak 1–4 h",
+     "Half-life 10 h (sulfamethoxazole) and 8–10 h (trimethoprim)",
+     "Renal excretion"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "With food and a full glass of water",
+     "Maintain good fluid intake"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — tablet and syrup"
+    ],
+    "Storage": [
+     "Below 30 °C, protect from light"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Albendazole"
+   ],
+   "dosageAdult": {
+    "Soil-transmitted helminths": [
+     "400 mg PO as a single dose"
+    ],
+    "Strongyloidiasis / taeniasis": [
+     "400 mg PO once daily for 3 days"
+    ],
+    "Neurocysticercosis": [
+     "15 mg/kg/day divided every 12 hours for 8–30 days, with corticosteroid cover"
+    ]
+   },
+   "dosagePediatric": {
+    "Over 2 years": [
+     "400 mg PO as a single dose"
+    ],
+    "1 to 2 years": [
+     "200 mg PO as a single dose"
+    ],
+    "Under 1 year": [
+     "Not routinely recommended"
+    ]
+   },
+   "interactions": {
+    "Monitor": [
+     "Dexamethasone, praziquantel, cimetidine — raise albendazole levels",
+     "Carbamazepine, phenytoin, phenobarbital — lower albendazole levels"
+    ]
+   },
+   "adverseEffects": {
+    "Common (single dose)": [
+     "Abdominal pain",
+     "Nausea",
+     "Headache",
+     "Dizziness"
+    ],
+    "With prolonged courses": [
+     "Raised transaminases",
+     "Reversible alopecia",
+     "Leukopenia, rarely agranulocytosis"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Hypersensitivity to benzimidazoles",
+     "First trimester of pregnancy"
+    ],
+    "Cautions": [
+     "Prolonged courses need liver function and full blood count monitoring",
+     "In heavy Ascaris burden, treatment can provoke worm migration",
+     "Exclude pregnancy before treating women of childbearing age"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Avoid in the first trimester",
+     "WHO supports use after the first trimester in endemic areas for deworming"
+    ]
+   },
+   "pregnancyCategory": "C",
+   "lactation": "Minimal amounts in milk; single doses considered acceptable.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Binds parasite beta-tubulin, blocking microtubule assembly and glucose uptake; the worm is immobilised and dies."
+    ],
+    "Pharmacokinetics": [
+     "Poorly absorbed; absorption rises up to fivefold with fatty food",
+     "Active metabolite albendazole sulfoxide",
+     "Half-life 8–12 h"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "For intestinal worms, food is not required",
+     "For tissue infection (cysticercosis, hydatid), give with a fatty meal to raise absorption",
+     "Tablets may be chewed or crushed for children"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — tablet; also combined with ivermectin"
+    ],
+    "Storage": [
+     "Below 30 °C"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Salbutamol",
+    "Albuterol"
+   ],
+   "dosageAdult": {
+    "Acute bronchospasm — inhaler": [
+     "100–200 mcg (1–2 puffs) inhaled every 4–6 hours as needed",
+     "Acute attack: 4–10 puffs via spacer, repeat every 20 minutes for the first hour"
+    ],
+    "Acute bronchospasm — nebuliser": [
+     "2.5–5 mg nebulised every 20 minutes for 3 doses, then every 1–4 hours as needed"
+    ]
+   },
+   "dosagePediatric": {
+    "Nebuliser": [
+     "Under 5 years: 2.5 mg per dose",
+     "5 years and over: 2.5–5 mg per dose",
+     "Repeat every 20 minutes for 3 doses in acute asthma"
+    ],
+    "Inhaler with spacer": [
+     "2–10 puffs of 100 mcg via spacer, titrated to response",
+     "A spacer is as effective as a nebuliser in mild to moderate attacks and is preferred"
+    ]
+   },
+   "interactions": {
+    "Monitor": [
+     "Beta-blockers — antagonise the effect; non-selective ones may provoke bronchospasm",
+     "Diuretics, corticosteroids, theophylline — additive hypokalaemia",
+     "Digoxin — reduced levels"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Tremor",
+     "Palpitations",
+     "Headache",
+     "Muscle cramps"
+    ],
+    "Serious": [
+     "Hypokalaemia after repeated doses",
+     "Tachyarrhythmias",
+     "Lactic acidosis after heavy nebulised use",
+     "Paradoxical bronchospasm"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Hypersensitivity to salbutamol"
+    ],
+    "Cautions": [
+     "Increasing reliever use signals poor asthma control — review the preventer, do not simply refill",
+     "Check potassium after repeated nebulised doses in acute severe asthma",
+     "Caution in ischaemic heart disease, arrhythmia, thyrotoxicosis and diabetes"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Preferred reliever in pregnancy — uncontrolled asthma is more dangerous to the fetus than the drug"
+    ]
+   },
+   "pregnancyCategory": "C",
+   "lactation": "Compatible; inhaled doses give negligible milk levels.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Selective beta-2 adrenergic agonist; relaxes bronchial smooth muscle."
+    ],
+    "Pharmacokinetics": [
+     "Inhaled onset 5 min",
+     "Peak effect 30–60 min",
+     "Duration 4–6 h"
+    ]
+   },
+   "administration": {
+    "Inhaler": [
+     "Shake, exhale, actuate and inhale slowly, hold 10 seconds",
+     "Always use a spacer in children",
+     "Rinse the mouth afterwards"
+    ],
+    "Nebuliser": [
+     "Dilute to 4 mL with 0.9% sodium chloride",
+     "Drive with oxygen in acute asthma where available"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — nebulising suspension and oral inhalation"
+    ],
+    "Storage": [
+     "Below 30 °C; do not freeze or puncture the canister"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Prednisolone"
+   ],
+   "dosageAdult": {
+    "Acute asthma / COPD exacerbation": [
+     "40–50 mg PO once daily for 5 days",
+     "No taper needed for courses under 3 weeks"
+    ],
+    "Inflammatory conditions": [
+     "5–60 mg/day depending on indication, usually as a single morning dose"
+    ]
+   },
+   "dosagePediatric": {
+    "Acute asthma": [
+     "1–2 mg/kg PO once daily for 3–5 days",
+     "Maximum 40 mg/day"
+    ],
+    "Croup": [
+     "1–2 mg/kg PO as a single dose (dexamethasone is usually preferred)"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "Live vaccines — avoid during high-dose therapy",
+     "NSAIDs — GI ulceration"
+    ],
+    "Monitor": [
+     "Rifampicin, phenytoin, carbamazepine — reduced steroid effect",
+     "Warfarin — variable INR",
+     "Diuretics — hypokalaemia",
+     "Antidiabetic drugs — hyperglycaemia"
+    ]
+   },
+   "adverseEffects": {
+    "Short course": [
+     "Increased appetite",
+     "Insomnia",
+     "Mood change",
+     "Hyperglycaemia",
+     "Fluid retention"
+    ],
+    "Prolonged use": [
+     "Adrenal suppression",
+     "Osteoporosis",
+     "Cushingoid features",
+     "Cataract and glaucoma",
+     "Growth suppression in children",
+     "Increased infection risk"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Systemic fungal infection",
+     "Live vaccines during immunosuppressive doses"
+    ],
+    "Cautions": [
+     "Can unmask or worsen untreated tuberculosis, strongyloidiasis and other latent infections — a real concern in this region",
+     "Do not stop abruptly after more than 3 weeks of treatment; taper",
+     "Give as a single morning dose to limit adrenal suppression"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Used when clearly needed; prednisolone crosses the placenta poorly compared with dexamethasone",
+     "Long-term use is associated with fetal growth restriction"
+    ]
+   },
+   "pregnancyCategory": "C",
+   "lactation": "Compatible. With doses above 40 mg/day, waiting 4 hours before feeding limits infant exposure.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Glucocorticoid receptor agonist; suppresses inflammatory gene transcription and cell-mediated immunity."
+    ],
+    "Pharmacokinetics": [
+     "Peak 1–2 h",
+     "Biological half-life 18–36 h",
+     "Hepatic metabolism"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "With or after food, in the morning",
+     "Complete the prescribed course"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — tablet"
+    ],
+    "Storage": [
+     "Below 30 °C"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Dexamethasone"
+   ],
+   "dosageAdult": {
+    "Anti-inflammatory": [
+     "0.5–10 mg/day PO or IV depending on indication"
+    ],
+    "Severe COVID-19 / oxygen requirement": [
+     "6 mg PO or IV once daily for up to 10 days"
+    ],
+    "Cerebral oedema": [
+     "10 mg IV loading, then 4 mg every 6 hours"
+    ]
+   },
+   "dosagePediatric": {
+    "Croup": [
+     "0.15–0.6 mg/kg PO or IM as a single dose",
+     "Maximum 16 mg"
+    ],
+    "Anti-inflammatory": [
+     "0.08–0.3 mg/kg/day divided every 6–12 hours"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "Live vaccines during immunosuppressive doses"
+    ],
+    "Monitor": [
+     "Rifampicin, phenytoin, carbamazepine — reduced effect",
+     "NSAIDs — GI ulceration",
+     "Antidiabetic drugs — hyperglycaemia"
+    ]
+   },
+   "adverseEffects": {
+    "Short course": [
+     "Hyperglycaemia",
+     "Insomnia",
+     "Mood change",
+     "Increased appetite"
+    ],
+    "Prolonged use": [
+     "Adrenal suppression",
+     "Immunosuppression",
+     "Osteoporosis",
+     "Myopathy",
+     "Growth suppression in children"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Systemic fungal infection",
+     "Live vaccines during immunosuppressive doses"
+    ],
+    "Cautions": [
+     "Potency is roughly 7 times prednisolone — check which steroid a dose refers to before dispensing",
+     "Crosses the placenta readily, unlike prednisolone",
+     "Can unmask latent tuberculosis and strongyloidiasis"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Crosses the placenta; used deliberately for fetal lung maturation in preterm labour",
+     "For maternal conditions prednisolone is usually preferred"
+    ]
+   },
+   "pregnancyCategory": "C",
+   "lactation": "Limited data; short courses are generally considered acceptable.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Long-acting synthetic glucocorticoid with negligible mineralocorticoid activity."
+    ],
+    "Pharmacokinetics": [
+     "Biological half-life 36–54 h",
+     "Hepatic metabolism via CYP3A4"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "With food"
+    ],
+    "IV": [
+     "May be given by slow injection or short infusion"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — tablet, injection and eye preparations"
+    ],
+    "Storage": [
+     "Below 30 °C, protect from light"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Omeprazole"
+   ],
+   "dosageAdult": {
+    "GORD / peptic ulcer": [
+     "20 mg PO once daily for 4–8 weeks"
+    ],
+    "H. pylori eradication": [
+     "20 mg twice daily with two antibiotics for 14 days"
+    ],
+    "Maintenance": [
+     "10–20 mg once daily"
+    ]
+   },
+   "dosagePediatric": {
+    "By weight": [
+     "5 to 10 kg: 5 mg once daily",
+     "10 to 20 kg: 10 mg once daily",
+     "Over 20 kg: 20 mg once daily"
+    ],
+    "Duration": [
+     "Typically 4–8 weeks; review the need to continue"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "Clopidogrel — reduced antiplatelet effect; pantoprazole is preferred",
+     "Rilpivirine, atazanavir — markedly reduced absorption"
+    ],
+    "Monitor": [
+     "Drugs needing gastric acid: ketoconazole, itraconazole, iron salts",
+     "Methotrexate — reduced clearance at high dose",
+     "Digoxin, warfarin, phenytoin — raised levels"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Headache",
+     "Diarrhoea",
+     "Abdominal pain",
+     "Nausea"
+    ],
+    "Long-term use": [
+     "Hypomagnesaemia",
+     "Vitamin B12 deficiency",
+     "Increased fracture risk",
+     "Increased C. difficile and enteric infection risk",
+     "Rebound acid hypersecretion on stopping"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Hypersensitivity to substituted benzimidazoles"
+    ],
+    "Cautions": [
+     "Can mask the symptoms of gastric cancer — investigate alarm features before treating",
+     "Review long-term prescriptions; many continue without indication",
+     "Check magnesium if used beyond a year"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Considered acceptable when antacids and lifestyle measures fail"
+    ]
+   },
+   "pregnancyCategory": "C",
+   "lactation": "Small amounts in milk; considered compatible.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Irreversibly inhibits the gastric H+/K+ ATPase proton pump in parietal cells."
+    ],
+    "Pharmacokinetics": [
+     "Peak 1–2 h",
+     "Plasma half-life 1 h but the effect lasts 72 h",
+     "CYP2C19 metabolism; effect varies with genotype"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "30–60 minutes before the first meal of the day",
+     "Swallow capsules whole; do not crush enteric-coated granules"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — capsule; injection also available"
+    ],
+    "Storage": [
+     "Below 30 °C, protect from moisture"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Ondansetron"
+   ],
+   "dosageAdult": {
+    "Postoperative nausea and vomiting": [
+     "4 mg IV or 8 mg PO"
+    ],
+    "Chemotherapy-induced": [
+     "8 mg PO or IV before chemotherapy, then every 12 hours",
+     "Maximum 16 mg per IV dose"
+    ],
+    "Hepatic impairment": [
+     "Severe: maximum 8 mg/day"
+    ]
+   },
+   "dosagePediatric": {
+    "Gastroenteritis with vomiting (oral)": [
+     "8 to 15 kg: 2 mg",
+     "15 to 30 kg: 4 mg",
+     "Over 30 kg: 8 mg",
+     "Single dose to allow oral rehydration to succeed"
+    ],
+    "IV": [
+     "0.15 mg/kg per dose, maximum 8 mg, every 8 hours"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "Apomorphine — contraindicated, profound hypotension",
+     "Other QT-prolonging drugs — additive risk",
+     "Serotonergic drugs — serotonin syndrome"
+    ],
+    "Monitor": [
+     "Tramadol — reduced analgesic effect",
+     "Rifampicin, phenytoin, carbamazepine — reduced ondansetron levels"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Headache",
+     "Constipation",
+     "Flushing",
+     "Raised transaminases"
+    ],
+    "Serious": [
+     "QT prolongation and torsades de pointes",
+     "Serotonin syndrome",
+     "Hypersensitivity reactions"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Concurrent apomorphine",
+     "Congenital long QT syndrome"
+    ],
+    "Cautions": [
+     "Correct potassium and magnesium before use where QT risk exists",
+     "Relieving vomiting can mask a surgical abdomen or raised intracranial pressure — examine first",
+     "Constipation is common; warn the patient"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Widely used for hyperemesis; a small absolute increase in cleft palate has been reported with first-trimester exposure",
+     "Weigh against the harm of uncontrolled vomiting"
+    ]
+   },
+   "pregnancyCategory": "B",
+   "lactation": "Limited data; considered probably compatible.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Selective 5-HT3 receptor antagonist, acting at vagal afferents and the chemoreceptor trigger zone."
+    ],
+    "Pharmacokinetics": [
+     "Onset 30 min PO, minutes IV",
+     "Half-life 3–6 h",
+     "Hepatic CYP metabolism"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "With or without food"
+    ],
+    "IV": [
+     "Give over 2–5 minutes; dilute for infusion",
+     "Avoid rapid single doses above 16 mg"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — tablet and injection"
+    ],
+    "Storage": [
+     "Below 30 °C, protect from light"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Oral rehydration Salt",
+    "Oral rehydration salts",
+    "ORS"
+   ],
+   "dosageAdult": {
+    "Diarrhoeal dehydration": [
+     "Dissolve one sachet in the stated volume of clean water",
+     "After each loose stool: 200–400 mL",
+     "Drink slowly and continuously rather than in large gulps"
+    ]
+   },
+   "dosagePediatric": {
+    "Some dehydration (WHO Plan B)": [
+     "75 mL/kg over 4 hours, given by spoon or syringe",
+     "Reassess after 4 hours"
+    ],
+    "No dehydration (WHO Plan A)": [
+     "Under 2 years: 50–100 mL after each loose stool",
+     "2 to 10 years: 100–200 mL after each loose stool",
+     "Over 10 years: as much as wanted"
+    ],
+    "Alongside": [
+     "Continue breastfeeding and normal feeding throughout",
+     "Add zinc 20 mg daily for 10–14 days (10 mg if under 6 months)"
+    ]
+   },
+   "interactions": {
+    "Note": [
+     "No clinically significant drug interactions"
+    ]
+   },
+   "adverseEffects": {
+    "Uncommon": [
+     "Vomiting if drunk too quickly",
+     "Hypernatraemia if mixed with too little water"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Severe dehydration with shock — needs IV fluid first",
+     "Intestinal obstruction or ileus",
+     "Persistent vomiting preventing oral intake"
+    ],
+    "Cautions": [
+     "Mix with the exact stated volume of clean water — never make it stronger",
+     "Use only water, never milk, juice or soft drinks",
+     "Discard any solution unused after 24 hours",
+     "Refer urgently for lethargy, sunken eyes with poor skin turgor, or inability to drink"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Safe and recommended"
+    ]
+   },
+   "pregnancyCategory": "NA",
+   "lactation": "Safe. Continue breastfeeding during diarrhoeal illness.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Sodium-glucose co-transport in the small intestine remains intact during most diarrhoea, so glucose drives sodium and water absorption. The WHO low-osmolarity formula reduces stool output and vomiting compared with the older solution."
+    ],
+    "Composition": [
+     "Low-osmolarity ORS: sodium 75, chloride 65, glucose 75, potassium 20, citrate 10 mmol/L; total osmolarity 245 mOsm/L"
+    ]
+   },
+   "administration": {
+    "Preparation": [
+     "Wash hands, use clean or boiled cooled water",
+     "Add the whole sachet to the stated volume and stir until dissolved",
+     "Give small sips frequently; continue after each stool"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — powder for dilution"
+    ],
+    "Storage": [
+     "Dry sachets below 30 °C; solution discarded after 24 hours"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Zinc Sulphate",
+    "Zinc sulfate"
+   ],
+   "dosageAdult": {
+    "Deficiency": [
+     "Doses vary by preparation; follow local protocol"
+    ]
+   },
+   "dosagePediatric": {
+    "Acute diarrhoea (WHO)": [
+     "Under 6 months: 10 mg elemental zinc once daily for 10–14 days",
+     "6 months and over: 20 mg elemental zinc once daily for 10–14 days",
+     "Give alongside ORS, not instead of it"
+    ]
+   },
+   "interactions": {
+    "Separate dosing": [
+     "Quinolone and tetracycline antibiotics — zinc binds them; separate by 2 hours",
+     "Iron and calcium supplements — reduced zinc absorption"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Vomiting, especially on an empty stomach",
+     "Metallic taste"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Hypersensitivity to zinc salts"
+    ],
+    "Cautions": [
+     "Give with or after a feed to reduce vomiting",
+     "If the child vomits within 30 minutes, repeat the dose",
+     "Complete the full 10–14 days even after the diarrhoea stops — this is what reduces the next episode"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Safe at supplementation doses"
+    ]
+   },
+   "pregnancyCategory": "NA",
+   "lactation": "Safe at supplementation doses.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Restores zinc lost in diarrhoeal stool; supports intestinal mucosal repair and immune function. Shortens the episode by about 25% and reduces stool volume."
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "Dispersible tablets may be dissolved in breast milk, ORS or clean water",
+     "Give with food"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list"
+    ],
+    "Storage": [
+     "Below 30 °C, protect from moisture"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Chlorpheniramine",
+    "Chlorphenamine"
+   ],
+   "dosageAdult": {
+    "Allergy / urticaria": [
+     "4 mg PO every 4–6 hours as needed",
+     "Maximum 24 mg/day"
+    ]
+   },
+   "dosagePediatric": {
+    "By age": [
+     "2 to 5 years: 1 mg every 4–6 hours, maximum 6 mg/day",
+     "6 to 11 years: 2 mg every 4–6 hours, maximum 12 mg/day",
+     "12 years and over: adult dose"
+    ],
+    "Not for": [
+     "Children under 2 years"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "Alcohol and CNS depressants — additive sedation",
+     "MAOIs — prolonged and intensified anticholinergic effects"
+    ],
+    "Monitor": [
+     "Other anticholinergic drugs — additive burden"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Sedation",
+     "Dry mouth",
+     "Blurred vision",
+     "Urinary retention",
+     "Constipation"
+    ],
+    "In children": [
+     "Paradoxical excitation rather than sedation is common"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Narrow-angle glaucoma",
+     "Bladder neck obstruction / prostatic hypertrophy with retention",
+     "Neonates and premature infants"
+    ],
+    "Cautions": [
+     "Warn about driving and operating machinery",
+     "A non-sedating antihistamine such as cetirizine is preferable for daytime allergy",
+     "Avoid in the elderly where possible — falls and confusion"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "One of the better-studied antihistamines; considered acceptable when needed"
+    ]
+   },
+   "pregnancyCategory": "B",
+   "lactation": "Small amounts in milk; may cause infant drowsiness or irritability, and may reduce milk supply. Non-sedating alternatives preferred.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "First-generation H1 receptor antagonist with anticholinergic activity; crosses the blood-brain barrier, hence sedation."
+    ],
+    "Pharmacokinetics": [
+     "Onset 30 min",
+     "Peak 2–3 h",
+     "Duration 4–6 h",
+     "Half-life 20 h"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "With or without food",
+     "Take the largest dose at night if sedation is troublesome"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — tablet; injection also available"
+    ],
+    "Storage": [
+     "Below 30 °C, protect from light"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Cetirizine"
+   ],
+   "dosageAdult": {
+    "Allergic rhinitis / urticaria": [
+     "10 mg PO once daily",
+     "Renal impairment: 5 mg once daily"
+    ]
+   },
+   "dosagePediatric": {
+    "By age": [
+     "6 to 12 months: 2.5 mg once daily",
+     "1 to 2 years: 2.5 mg once or twice daily",
+     "2 to 5 years: 2.5–5 mg once daily",
+     "6 years and over: 5–10 mg once daily"
+    ]
+   },
+   "interactions": {
+    "Monitor": [
+     "Alcohol and CNS depressants — additive sedation, though less than with older antihistamines",
+     "Theophylline — reduced cetirizine clearance"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Somnolence — more than other second-generation agents",
+     "Dry mouth",
+     "Headache",
+     "Fatigue"
+    ],
+    "Uncommon": [
+     "Pruritus on abrupt withdrawal after long-term use"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Hypersensitivity to cetirizine or hydroxyzine",
+     "Severe renal impairment (CrCl under 10 mL/min)"
+    ],
+    "Cautions": [
+     "Reduce the dose in renal impairment",
+     "Sedating in some patients despite being second-generation — advise caution when driving initially"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Considered acceptable; among the preferred antihistamines in pregnancy"
+    ]
+   },
+   "pregnancyCategory": "B",
+   "lactation": "Small amounts in milk; considered compatible and preferred over sedating antihistamines.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Selective peripheral H1 receptor antagonist; minimal anticholinergic activity and limited CNS penetration."
+    ],
+    "Pharmacokinetics": [
+     "Onset 20–60 min",
+     "Peak 1 h",
+     "Half-life 8–9 h",
+     "Largely renal excretion, mostly unchanged"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "With or without food",
+     "Take in the evening if drowsiness occurs"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list"
+    ],
+    "Storage": [
+     "Below 30 °C"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Amlodipine"
+   ],
+   "dosageAdult": {
+    "Hypertension": [
+     "Start 5 mg PO once daily",
+     "Increase to 10 mg once daily after 1–2 weeks if needed",
+     "Elderly or hepatic impairment: start 2.5 mg"
+    ],
+    "Angina": [
+     "5–10 mg once daily"
+    ]
+   },
+   "dosagePediatric": {
+    "6 to 17 years": [
+     "2.5–5 mg PO once daily",
+     "Doses above 5 mg have not been studied in children"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "Simvastatin — limit simvastatin to 20 mg/day",
+     "Strong CYP3A4 inhibitors (clarithromycin, ketoconazole, ritonavir) — raised amlodipine levels"
+    ],
+    "Monitor": [
+     "Other antihypertensives — additive hypotension",
+     "Ciclosporin, tacrolimus — raised levels",
+     "Grapefruit juice — modest rise in levels"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Ankle and lower leg oedema — dose-related, the usual reason for stopping",
+     "Flushing",
+     "Headache",
+     "Palpitations",
+     "Dizziness"
+    ],
+    "Uncommon": [
+     "Gingival hyperplasia",
+     "Fatigue"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Hypersensitivity to dihydropyridines",
+     "Cardiogenic shock",
+     "Severe aortic stenosis",
+     "Unstable angina"
+    ],
+    "Cautions": [
+     "Peripheral oedema is not fluid overload — adding a diuretic does not fix it; reduce the dose or combine with an ACE inhibitor",
+     "Full effect takes 1–2 weeks; do not titrate faster",
+     "Start low in hepatic impairment — the half-life roughly doubles"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Not first line; labetalol, methyldopa and nifedipine have more data",
+     "Used when other agents fail"
+    ]
+   },
+   "pregnancyCategory": "C",
+   "lactation": "Present in milk in small amounts; considered acceptable with infant monitoring.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Dihydropyridine calcium channel blocker; relaxes vascular smooth muscle with little effect on cardiac conduction."
+    ],
+    "Pharmacokinetics": [
+     "Peak 6–12 h",
+     "Half-life 30–50 h — hence once-daily dosing and slow onset",
+     "Hepatic CYP3A4 metabolism"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "With or without food, at the same time each day"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — tablet"
+    ],
+    "Storage": [
+     "Below 30 °C, protect from light"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Furosemide",
+    "Frusemide"
+   ],
+   "dosageAdult": {
+    "Oedema": [
+     "20–80 mg PO once or twice daily, titrated to response"
+    ],
+    "Acute pulmonary oedema": [
+     "20–40 mg IV slowly, repeated as needed"
+    ],
+    "Note": [
+     "The oral dose is roughly double the equivalent IV dose"
+    ]
+   },
+   "dosagePediatric": {
+    "Standard": [
+     "1–2 mg/kg PO per dose, once or twice daily",
+     "IV: 0.5–1 mg/kg per dose",
+     "Maximum 6 mg/kg/day"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "Aminoglycosides — additive ototoxicity and nephrotoxicity",
+     "Digoxin — hypokalaemia precipitates toxicity",
+     "Lithium — raised levels"
+    ],
+    "Monitor": [
+     "NSAIDs — reduced diuretic effect and renal impairment",
+     "ACE inhibitors — first-dose hypotension",
+     "Other QT-prolonging drugs via hypokalaemia"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Increased urination",
+     "Hypokalaemia",
+     "Hyponatraemia",
+     "Hypomagnesaemia",
+     "Postural hypotension",
+     "Dehydration"
+    ],
+    "Serious": [
+     "Ototoxicity with rapid IV injection or high doses",
+     "Acute kidney injury from over-diuresis",
+     "Gout",
+     "Hyperglycaemia"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Anuria",
+     "Severe hypokalaemia or hyponatraemia",
+     "Hypovolaemia and dehydration",
+     "Hepatic coma"
+    ],
+    "Cautions": [
+     "Check electrolytes and renal function before and during treatment",
+     "Give IV doses slowly — no faster than 4 mg/minute — to avoid ototoxicity",
+     "Take the morning dose early so diuresis does not disturb sleep"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Avoid for gestational hypertension — reduces plasma volume",
+     "Used for cardiac or renal indications when needed"
+    ]
+   },
+   "pregnancyCategory": "C",
+   "lactation": "Present in milk and may suppress lactation. Use with caution.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Loop diuretic; inhibits the Na-K-2Cl co-transporter in the thick ascending limb of the loop of Henle."
+    ],
+    "Pharmacokinetics": [
+     "Oral onset 30–60 min, IV onset 5 min",
+     "Duration 6–8 h oral",
+     "Half-life 2 h, prolonged in renal failure"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "Morning dose, and any second dose by early afternoon"
+    ],
+    "IV": [
+     "Slow injection, no faster than 4 mg/minute"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — tablet and injection"
+    ],
+    "Storage": [
+     "Below 30 °C, protect from light; do not use discoloured solution"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Acyclovir",
+    "Aciclovir"
+   ],
+   "dosageAdult": {
+    "Herpes zoster": [
+     "800 mg PO five times daily for 7 days",
+     "Start within 72 hours of rash onset"
+    ],
+    "Herpes simplex — first episode": [
+     "400 mg PO three times daily for 7–10 days"
+    ],
+    "Herpes simplex — recurrence": [
+     "400 mg three times daily for 5 days"
+    ],
+    "Renal impairment": [
+     "CrCl under 10 mL/min: reduce dose and extend the interval"
+    ]
+   },
+   "dosagePediatric": {
+    "Chickenpox (over 2 years)": [
+     "20 mg/kg PO four times daily for 5 days",
+     "Maximum 800 mg per dose"
+    ],
+    "Herpes simplex": [
+     "Doses vary by site and severity; follow local protocol"
+    ]
+   },
+   "interactions": {
+    "Monitor": [
+     "Probenecid — raised acyclovir levels",
+     "Nephrotoxic drugs — additive renal risk",
+     "Ciclosporin, tacrolimus — nephrotoxicity"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Nausea",
+     "Headache",
+     "Diarrhoea"
+    ],
+    "Serious": [
+     "Acute kidney injury from crystal nephropathy, especially IV or when dehydrated",
+     "Neurotoxicity: confusion, tremor, hallucinations — usually in renal impairment"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Hypersensitivity to acyclovir or valacyclovir"
+    ],
+    "Cautions": [
+     "Maintain good hydration throughout the course — this is what prevents kidney injury",
+     "Reduce the dose in renal impairment and in the elderly",
+     "Most effective when started within 72 hours of rash onset"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Extensive experience; no increase in birth defects observed",
+     "Used for significant maternal herpes infection"
+    ]
+   },
+   "pregnancyCategory": "B",
+   "lactation": "Compatible; concentrated in milk but the infant dose remains far below therapeutic.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Activated by viral thymidine kinase, then inhibits viral DNA polymerase and terminates the DNA chain. Selective for infected cells."
+    ],
+    "Pharmacokinetics": [
+     "Oral bioavailability only 15–30%",
+     "Half-life 2–3 h",
+     "Renal excretion, largely unchanged"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "With or without food",
+     "Drink plenty of water throughout",
+     "Space the five daily doses through waking hours"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — tablet; injection and eye ointment also available"
+    ],
+    "Storage": [
+     "Below 30 °C, protect from moisture"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Morphine sulfate",
+    "Morphine"
+   ],
+   "dosageAdult": {
+    "Opioid-naive, immediate release": [
+     "5–10 mg PO every 4 hours, titrated to effect",
+     "Oral solution 10 mg/5 mL is useful for fine titration"
+    ],
+    "Prolonged release": [
+     "Total daily immediate-release requirement divided into two 12-hourly doses",
+     "Never crush or chew"
+    ],
+    "Breakthrough pain": [
+     "One sixth of the total 24-hour dose, as immediate release, as needed"
+    ],
+    "Renal impairment": [
+     "Active metabolites accumulate — reduce the dose and extend the interval; consider an alternative opioid"
+    ]
+   },
+   "dosagePediatric": {
+    "Oral (over 1 year)": [
+     "0.2–0.5 mg/kg every 4 hours, titrated",
+     "Specialist advice for infants under 1 year"
+    ],
+    "Safety": [
+     "Weight-based calculation and a second-person check are mandatory"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "Benzodiazepines and other CNS depressants — fatal respiratory depression",
+     "MAOIs within 14 days — avoid",
+     "Alcohol — additive depression"
+    ],
+    "Monitor": [
+     "Rifampicin — reduced morphine effect",
+     "Anticholinergics — severe constipation, ileus"
+    ]
+   },
+   "adverseEffects": {
+    "Very common": [
+     "Constipation — does not improve with time; prescribe a laxative from day one",
+     "Nausea and vomiting",
+     "Drowsiness"
+    ],
+    "Serious": [
+     "Respiratory depression",
+     "Hypotension",
+     "Urinary retention",
+     "Dependence and withdrawal",
+     "Opioid-induced hyperalgesia"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Acute respiratory depression",
+     "Paralytic ileus",
+     "Raised intracranial pressure or head injury where consciousness must be assessed",
+     "Acute severe asthma"
+    ],
+    "Cautions": [
+     "Narcotic — two-person check, register entry and secure storage every time",
+     "Naloxone must be immediately available wherever morphine is given",
+     "Prescribe a stimulant laxative alongside, routinely",
+     "Reduce the starting dose in the elderly, in renal impairment and in cachexia"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Use only if clearly needed",
+     "Prolonged use causes neonatal opioid withdrawal",
+     "Given near delivery it can depress the newborn's breathing — have naloxone ready"
+    ]
+   },
+   "pregnancyCategory": "C",
+   "lactation": "Occasional single doses are acceptable. Repeated dosing risks infant sedation — watch for poor feeding and drowsiness.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Mu-opioid receptor agonist in the CNS and periphery; alters both the perception of and the emotional response to pain."
+    ],
+    "Pharmacokinetics": [
+     "Oral onset 30 min, peak 1 h",
+     "Half-life 2–4 h",
+     "Hepatic glucuronidation; morphine-6-glucuronide is active and renally cleared"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "Immediate release every 4 hours; prolonged release every 12 hours",
+     "Measure oral solution with a syringe",
+     "Do not crush prolonged-release tablets — a fatal dose is released at once"
+    ],
+    "Counselling": [
+     "Do not drive",
+     "Expect constipation and treat it",
+     "Never share this medicine"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — narcotic; capsule, tablet, syrup and injection"
+    ],
+    "Storage": [
+     "Controlled drug cupboard, register maintained"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Fentanyl"
+   ],
+   "dosageAdult": {
+    "Transdermal patch": [
+     "Only for stable chronic pain in an opioid-tolerant patient",
+     "Convert from the existing 24-hour oral morphine dose using an equianalgesic table",
+     "Change every 72 hours, rotating the site"
+    ],
+    "Never": [
+     "Do not start an opioid-naive patient on a patch",
+     "Not for acute or postoperative pain"
+    ]
+   },
+   "dosagePediatric": {
+    "Restricted": [
+     "Only under specialist supervision in an opioid-tolerant child"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "CYP3A4 inhibitors — ketoconazole, clarithromycin, ritonavir — raise fentanyl levels and can be fatal",
+     "Benzodiazepines and CNS depressants — respiratory depression",
+     "MAOIs within 14 days — avoid"
+    ],
+    "Monitor": [
+     "CYP3A4 inducers — rifampicin, carbamazepine — loss of analgesia"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Nausea",
+     "Constipation",
+     "Drowsiness",
+     "Application site reaction"
+    ],
+    "Serious": [
+     "Respiratory depression, which may be delayed and prolonged",
+     "Serotonin syndrome",
+     "Adrenal insufficiency with long-term use"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Opioid-naive patients",
+     "Acute or intermittent pain",
+     "Severe respiratory depression"
+    ],
+    "Cautions": [
+     "Heat raises absorption dramatically — fever, hot weather, hot baths or heat pads can cause overdose from an unchanged patch",
+     "A used patch still holds most of its drug; fold it inward and dispose of it safely, out of reach of children",
+     "Full effect takes 12–24 hours after the first patch and persists for many hours after removal",
+     "Narcotic — register and secure storage"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Avoid; prolonged use causes neonatal withdrawal"
+    ]
+   },
+   "pregnancyCategory": "C",
+   "lactation": "Not recommended with patch therapy.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Potent synthetic mu-opioid agonist, roughly 100 times the potency of morphine."
+    ],
+    "Pharmacokinetics": [
+     "Patch forms a skin depot; steady state at 12–24 h",
+     "Half-life after removal 17 h or more"
+    ]
+   },
+   "administration": {
+    "Patch": [
+     "Apply to clean, dry, non-irritated, non-hairy skin on the upper body",
+     "Press for 30 seconds",
+     "Remove the old patch before applying a new one and record the site",
+     "Do not cut a patch"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — narcotic patch; injection also available"
+    ],
+    "Storage": [
+     "Controlled drug cupboard"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Oxycodone"
+   ],
+   "dosageAdult": {
+    "Immediate release": [
+     "5 mg PO every 4–6 hours, titrated to effect"
+    ],
+    "Prolonged release": [
+     "10 mg PO every 12 hours, adjusted to requirement",
+     "Swallow whole"
+    ],
+    "Renal or hepatic impairment": [
+     "Start at one third to one half the usual dose"
+    ]
+   },
+   "dosagePediatric": {
+    "Restricted": [
+     "Specialist use only"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "Benzodiazepines and CNS depressants — respiratory depression",
+     "MAOIs within 14 days",
+     "Strong CYP3A4 inhibitors — raised levels"
+    ],
+    "Monitor": [
+     "CYP3A4 inducers — reduced effect"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Constipation",
+     "Nausea",
+     "Drowsiness",
+     "Pruritus"
+    ],
+    "Serious": [
+     "Respiratory depression",
+     "Hypotension",
+     "Dependence"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Acute respiratory depression",
+     "Paralytic ileus",
+     "Acute abdomen"
+    ],
+    "Cautions": [
+     "Narcotic — register, two-person check, secure storage",
+     "Prescribe a laxative alongside",
+     "Do not crush prolonged-release forms",
+     "Keep naloxone available"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Avoid; neonatal withdrawal with prolonged use"
+    ]
+   },
+   "pregnancyCategory": "C",
+   "lactation": "Not recommended; infant sedation reported.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Semi-synthetic mu-opioid agonist, roughly 1.5–2 times as potent as oral morphine."
+    ],
+    "Pharmacokinetics": [
+     "Peak 1–1.5 h immediate release",
+     "Half-life 3–4 h",
+     "CYP3A4 and CYP2D6 metabolism"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "Powder sachets may be given with water",
+     "Prolonged-release tablets must be swallowed whole"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — narcotic, donated stock"
+    ],
+    "Storage": [
+     "Controlled drug cupboard"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Diazepam"
+   ],
+   "dosageAdult": {
+    "Acute anxiety": [
+     "2–10 mg PO two to four times daily, for the shortest possible period"
+    ],
+    "Status epilepticus": [
+     "10 mg IV slowly at 5 mg/minute, or 10–20 mg rectally",
+     "May repeat once after 10–15 minutes"
+    ],
+    "Alcohol withdrawal": [
+     "10 mg three or four times in the first 24 hours, then reduce"
+    ]
+   },
+   "dosagePediatric": {
+    "Seizure": [
+     "IV 0.15–0.2 mg/kg, maximum 10 mg per dose",
+     "Rectal 0.5 mg/kg (under 3 years) or 0.3 mg/kg (over 3 years)",
+     "May repeat once after 5–10 minutes"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "Opioids — profound sedation and respiratory depression; avoid the combination or reduce both doses",
+     "Alcohol and other CNS depressants"
+    ],
+    "Monitor": [
+     "CYP3A4 and CYP2C19 inhibitors — prolonged sedation",
+     "Phenytoin — altered levels"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Drowsiness",
+     "Ataxia",
+     "Confusion, particularly in the elderly"
+    ],
+    "Serious": [
+     "Respiratory depression, especially IV or with opioids",
+     "Paradoxical agitation, more common in children and the elderly",
+     "Dependence within weeks",
+     "Withdrawal seizures on abrupt stopping"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Severe respiratory insufficiency",
+     "Sleep apnoea syndrome",
+     "Myasthenia gravis",
+     "Severe hepatic impairment",
+     "Acute narrow-angle glaucoma"
+    ],
+    "Cautions": [
+     "Have resuscitation equipment and flumazenil available for IV use",
+     "Give IV slowly — rapid injection causes apnoea and hypotension",
+     "Limit courses to 2–4 weeks including tapering",
+     "Halve the dose in the elderly"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Avoid regular use",
+     "Third trimester or labour: floppy infant syndrome and neonatal withdrawal"
+    ]
+   },
+   "pregnancyCategory": "D",
+   "lactation": "Avoid repeated doses; long half-life leads to infant accumulation, sedation and poor feeding.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Enhances GABA-A receptor activity, increasing chloride conductance and neuronal inhibition."
+    ],
+    "Pharmacokinetics": [
+     "IV onset 1–3 min, oral 15–60 min",
+     "Half-life 20–100 h including the active metabolite desmethyldiazepam"
+    ]
+   },
+   "administration": {
+    "IV": [
+     "Give into a large vein at no more than 5 mg/minute; do not mix with other drugs"
+    ],
+    "Rectal": [
+     "Insert the tube fully, squeeze, and hold the buttocks together for a minute"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — tablet and injection"
+    ],
+    "Storage": [
+     "Controlled storage, protect from light"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Phenobarbital",
+    "Phenobarbitone"
+   ],
+   "dosageAdult": {
+    "Status epilepticus": [
+     "15–20 mg/kg IV loading at no more than 100 mg/minute"
+    ],
+    "Maintenance": [
+     "1–3 mg/kg/day PO, usually as a single night-time dose"
+    ]
+   },
+   "dosagePediatric": {
+    "Neonatal seizures": [
+     "Loading 20 mg/kg IV slowly; a further 10 mg/kg may be given",
+     "Maintenance 3–5 mg/kg/day"
+    ],
+    "Children": [
+     "Loading 15–20 mg/kg IV",
+     "Maintenance 3–5 mg/kg/day PO"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "Potent CYP inducer — reduces the effect of warfarin, hormonal contraceptives, corticosteroids, many antiretrovirals and antiepileptics",
+     "Opioids and other CNS depressants — respiratory depression"
+    ],
+    "Monitor": [
+     "Valproate — raised phenobarbital levels"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Sedation",
+     "Ataxia",
+     "Cognitive slowing",
+     "Paradoxical hyperactivity in children"
+    ],
+    "Serious": [
+     "Respiratory depression with IV loading",
+     "Severe cutaneous reactions including SJS/TEN",
+     "Hepatotoxicity",
+     "Dependence and withdrawal seizures"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Porphyria",
+     "Severe respiratory depression",
+     "Severe hepatic impairment"
+    ],
+    "Cautions": [
+     "Give IV loading slowly with airway support ready",
+     "Warn women that it makes hormonal contraception unreliable",
+     "Never stop abruptly — withdrawal can precipitate status epilepticus",
+     "Controlled substance in many jurisdictions; store and record accordingly"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Teratogenic risk; use only when the seizure risk outweighs it",
+     "Give folic acid before and during pregnancy",
+     "Neonate needs vitamin K at birth"
+    ]
+   },
+   "pregnancyCategory": "D",
+   "lactation": "Enters milk and can cause marked infant sedation and poor feeding. Monitor closely; feed before dosing where possible.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Barbiturate; prolongs GABA-A chloride channel opening and at higher doses acts directly on the channel."
+    ],
+    "Pharmacokinetics": [
+     "Half-life 50–140 h in adults, longer in neonates",
+     "Steady state takes 2–3 weeks",
+     "Hepatic metabolism with renal excretion"
+    ]
+   },
+   "administration": {
+    "IV": [
+     "Dilute and give slowly; monitor respiration and blood pressure"
+    ],
+    "Oral": [
+     "Single evening dose improves tolerance"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — tablet and injection"
+    ],
+    "Storage": [
+     "Secure storage, protect from light"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Adrenaline",
+    "Epinephrine"
+   ],
+   "dosageAdult": {
+    "Anaphylaxis": [
+     "0.5 mg (0.5 mL of 1:1000) IM into the anterolateral thigh",
+     "Repeat every 5 minutes if no improvement",
+     "IM is the route — IV adrenaline is for cardiac arrest or specialist settings only"
+    ],
+    "Cardiac arrest": [
+     "1 mg (10 mL of 1:10 000) IV every 3–5 minutes"
+    ]
+   },
+   "dosagePediatric": {
+    "Anaphylaxis IM (1:1000)": [
+     "Under 6 years: 0.15 mg (0.15 mL)",
+     "6 to 12 years: 0.3 mg (0.3 mL)",
+     "Over 12 years: 0.5 mg (0.5 mL)",
+     "Or 0.01 mg/kg, maximum 0.5 mg"
+    ],
+    "Cardiac arrest": [
+     "0.01 mg/kg IV of 1:10 000, maximum 1 mg"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "Non-selective beta-blockers — resistant anaphylaxis; glucagon may be needed",
+     "Tricyclic antidepressants and MAOIs — exaggerated pressor response"
+    ],
+    "Monitor": [
+     "Halogenated anaesthetics — arrhythmia risk"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Palpitations",
+     "Tremor",
+     "Anxiety",
+     "Headache",
+     "Pallor"
+    ],
+    "Serious": [
+     "Arrhythmia",
+     "Hypertensive crisis",
+     "Myocardial ischaemia",
+     "Tissue necrosis if extravasated"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "None in anaphylaxis — it is the treatment and delay is what kills"
+    ],
+    "Cautions": [
+     "Concentration errors are the main hazard: 1:1000 is 1 mg/mL for IM, 1:10 000 is 0.1 mg/mL for IV",
+     "Give IM into the anterolateral thigh, not the deltoid or buttock",
+     "Never give 1:1000 intravenously",
+     "Observe for at least 6 hours after anaphylaxis — biphasic reactions occur"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Use without hesitation in anaphylaxis — untreated anaphylaxis is far more dangerous"
+    ]
+   },
+   "pregnancyCategory": "C",
+   "lactation": "Compatible; poorly absorbed orally by the infant.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Alpha-1 vasoconstriction reverses hypotension and mucosal oedema; beta-1 raises cardiac output; beta-2 relaxes bronchial smooth muscle and suppresses mast cell mediator release."
+    ],
+    "Pharmacokinetics": [
+     "IM onset 3–5 min",
+     "Half-life 2–3 min"
+    ]
+   },
+   "administration": {
+    "IM": [
+     "Anterolateral thigh, needle long enough to reach muscle",
+     "Record time and dose; repeat at 5 minutes if needed"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — ampoule; must be immediately available wherever injections or vaccines are given"
+    ],
+    "Storage": [
+     "Below 25 °C, protect from light; discard if discoloured"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Magnesium sulfate",
+    "Magnesium sulphate"
+   ],
+   "dosageAdult": {
+    "Eclampsia / severe pre-eclampsia": [
+     "Loading 4 g IV over 15–20 minutes",
+     "Maintenance 1 g/hour IV for 24 hours after delivery or the last fit",
+     "Recurrent fit: a further 2 g IV over 5 minutes"
+    ],
+    "Severe asthma": [
+     "1.2–2 g IV over 20 minutes as a single dose"
+    ]
+   },
+   "dosagePediatric": {
+    "Severe asthma": [
+     "40 mg/kg IV over 20 minutes, maximum 2 g"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "Calcium channel blockers — profound hypotension",
+     "Neuromuscular blockers — prolonged paralysis"
+    ],
+    "Monitor": [
+     "Aminoglycosides — additive neuromuscular blockade"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Flushing",
+     "Warmth",
+     "Nausea",
+     "Injection site pain"
+    ],
+    "Serious": [
+     "Loss of deep tendon reflexes",
+     "Respiratory depression",
+     "Cardiac arrest with severe overdose"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Heart block",
+     "Myasthenia gravis",
+     "Severe renal impairment without dose adjustment"
+    ],
+    "Cautions": [
+     "Monitor patellar reflex, respiratory rate and urine output hourly during infusion",
+     "Stop if reflexes are lost, respiration is under 16/min, or urine output is under 30 mL/hour",
+     "Calcium gluconate 1 g IV is the antidote — keep it at the bedside",
+     "Accumulates in renal impairment"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "First-line for eclampsia and severe pre-eclampsia; also used for fetal neuroprotection in preterm birth"
+    ]
+   },
+   "pregnancyCategory": "D",
+   "lactation": "Compatible; milk levels normalise within 24 hours.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Physiological calcium antagonist; blocks neuromuscular transmission, causes vasodilatation and raises the seizure threshold."
+    ],
+    "Pharmacokinetics": [
+     "IV onset immediate",
+     "Renal excretion — the reason renal function governs dosing"
+    ]
+   },
+   "administration": {
+    "IV": [
+     "Always dilute; give the loading dose over at least 15 minutes",
+     "Use a controlled infusion device for maintenance"
+    ],
+    "IM": [
+     "Painful; mix with lidocaine where protocol allows"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — injection"
+    ],
+    "Storage": [
+     "Below 30 °C; do not use if crystals are present"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Tranexamic Acid",
+    "Tranexamic acid"
+   ],
+   "dosageAdult": {
+    "Trauma haemorrhage": [
+     "1 g IV over 10 minutes, then 1 g over 8 hours",
+     "Give within 3 hours of injury — later administration may cause harm"
+    ],
+    "Postpartum haemorrhage": [
+     "1 g IV over 10 minutes as soon as diagnosed; repeat once after 30 minutes if bleeding continues"
+    ],
+    "Menorrhagia": [
+     "1 g PO three times daily for up to 4 days"
+    ]
+   },
+   "dosagePediatric": {
+    "Trauma / surgery": [
+     "15 mg/kg IV, maximum 1 g, then infusion per protocol"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "Combined hormonal contraceptives — increased thrombotic risk",
+     "Factor IX complex concentrates — thrombosis risk"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Nausea",
+     "Diarrhoea",
+     "Hypotension if injected rapidly"
+    ],
+    "Serious": [
+     "Thrombosis",
+     "Seizures with high doses",
+     "Visual disturbance with long-term use"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Active thromboembolic disease",
+     "History of seizures with tranexamic acid",
+     "Subarachnoid haemorrhage",
+     "Severe renal impairment without dose reduction"
+    ],
+    "Cautions": [
+     "Timing determines benefit in trauma and PPH — give it early",
+     "Inject slowly; rapid IV causes hypotension",
+     "Reduce the dose in renal impairment"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Used for postpartum haemorrhage; reduces death from bleeding"
+    ]
+   },
+   "pregnancyCategory": "B",
+   "lactation": "Small amounts in milk; considered compatible.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Blocks lysine binding sites on plasminogen, preventing fibrin breakdown. Antifibrinolytic, not procoagulant."
+    ],
+    "Pharmacokinetics": [
+     "Half-life about 3 h",
+     "Renal excretion, largely unchanged"
+    ]
+   },
+   "administration": {
+    "IV": [
+     "Dilute and give over at least 10 minutes"
+    ],
+    "Oral": [
+     "With or without food"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — tablet and injection"
+    ],
+    "Storage": [
+     "Below 30 °C"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Sodium Chloride (NSS)",
+    "Sodium chloride",
+    "Normal saline"
+   ],
+   "dosageAdult": {
+    "Resuscitation": [
+     "250–500 mL boluses of 0.9%, reassessed after each"
+    ],
+    "Maintenance": [
+     "Approximately 25–30 mL/kg/day of total fluid, adjusted to losses and clinical state"
+    ]
+   },
+   "dosagePediatric": {
+    "Shock": [
+     "10–20 mL/kg bolus of 0.9%, reassessed after each; smaller boluses in malnutrition and cardiac disease"
+    ],
+    "Maintenance (Holliday-Segar)": [
+     "First 10 kg: 100 mL/kg/day",
+     "Next 10 kg: 50 mL/kg/day",
+     "Each further kg: 20 mL/kg/day"
+    ]
+   },
+   "interactions": {
+    "Note": [
+     "No direct drug interactions, but check compatibility before adding any drug to the bag"
+    ]
+   },
+   "adverseEffects": {
+    "With large volumes": [
+     "Hyperchloraemic metabolic acidosis",
+     "Fluid overload and pulmonary oedema",
+     "Peripheral oedema"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Fluid overload states",
+     "Severe hypernatraemia"
+    ],
+    "Cautions": [
+     "Reassess after every bolus — fluid is a drug with a dose",
+     "Watch for overload in heart failure, renal failure, malnutrition and small infants",
+     "Check the bag label, strength and expiry, and inspect for particles before hanging"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Safe"
+    ]
+   },
+   "pregnancyCategory": "NA",
+   "lactation": "Safe.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Isotonic crystalloid; expands extracellular volume. 0.9% contains sodium 154 and chloride 154 mmol/L."
+    ]
+   },
+   "administration": {
+    "IV": [
+     "Use aseptic technique",
+     "Label the bag with any additive, the time and the giving rate",
+     "Do not reuse a part-used bag"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — infusion in 100, 500 and 1000 mL"
+    ],
+    "Storage": [
+     "Below 30 °C, do not freeze"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Potassium chloride"
+   ],
+   "dosageAdult": {
+    "Oral replacement": [
+     "Doses vary by preparation and deficit; follow local protocol"
+    ],
+    "IV replacement": [
+     "Peripheral line: maximum 40 mmol/L, at no more than 10 mmol/hour",
+     "Higher rates require a central line and cardiac monitoring",
+     "Recheck potassium after each replacement"
+    ]
+   },
+   "dosagePediatric": {
+    "IV": [
+     "0.5–1 mmol/kg over 1–2 hours with cardiac monitoring, per specialist protocol"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "ACE inhibitors, ARBs, spironolactone, amiloride, co-trimoxazole — dangerous hyperkalaemia",
+     "NSAIDs — reduced potassium excretion"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Nausea",
+     "Pain and phlebitis at the infusion site"
+    ],
+    "Serious": [
+     "Hyperkalaemia with cardiac arrest",
+     "GI ulceration with oral solid forms"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Hyperkalaemia",
+     "Untreated Addison's disease",
+     "Severe renal impairment with oliguria"
+    ],
+    "Cautions": [
+     "Concentrated potassium must NEVER be given undiluted by IV push — it is fatal",
+     "Always double-check the concentration and rate with a second person",
+     "Store concentrated ampoules separately from other ampoules",
+     "Invert the bag thoroughly after adding potassium so it does not layer"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Safe for correcting deficiency"
+    ]
+   },
+   "pregnancyCategory": "NA",
+   "lactation": "Safe.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Replaces the principal intracellular cation; essential for nerve conduction, muscle contraction and cardiac rhythm."
+    ]
+   },
+   "administration": {
+    "IV": [
+     "Dilute fully, mix by inverting, label clearly, infuse via a pump"
+    ],
+    "Oral": [
+     "Take with food and a full glass of water"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list"
+    ],
+    "Storage": [
+     "Concentrated ampoules stored apart from other injectables"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Metoclopramide"
+   ],
+   "dosageAdult": {
+    "Nausea and vomiting": [
+     "10 mg PO, IM or IV up to three times daily",
+     "Maximum 30 mg/day and maximum 5 days of treatment"
+    ]
+   },
+   "dosagePediatric": {
+    "Restricted": [
+     "Avoid under 1 year",
+     "1 to 18 years: 0.1–0.15 mg/kg up to three times daily, maximum 30 mg/day, second line only, maximum 5 days"
+    ],
+    "Reason": [
+     "Children have a much higher risk of extrapyramidal reactions"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "Antipsychotics — additive extrapyramidal effects",
+     "Levodopa — mutual antagonism"
+    ],
+    "Monitor": [
+     "Digoxin — altered absorption",
+     "Ciclosporin — raised levels"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Drowsiness",
+     "Restlessness",
+     "Diarrhoea"
+    ],
+    "Serious": [
+     "Acute dystonic reaction — oculogyric crisis, torticollis, especially in young people",
+     "Tardive dyskinesia with prolonged use",
+     "Neuroleptic malignant syndrome",
+     "Methaemoglobinaemia in neonates"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "GI obstruction, perforation or haemorrhage",
+     "Phaeochromocytoma",
+     "Parkinson's disease",
+     "Epilepsy",
+     "Under 1 year"
+    ],
+    "Cautions": [
+     "Limit to 5 days — the restriction exists because of movement disorders",
+     "An acute dystonic reaction is treated with IV procyclidine or diphenhydramine and is frightening but reversible",
+     "Reduce the dose in renal and hepatic impairment"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Considered acceptable; widely used for hyperemesis"
+    ]
+   },
+   "pregnancyCategory": "B",
+   "lactation": "Small amounts in milk; short courses acceptable.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Dopamine D2 antagonist centrally and peripherally; prokinetic, accelerating gastric emptying."
+    ],
+    "Pharmacokinetics": [
+     "Onset 30–60 min PO, 1–3 min IV",
+     "Half-life 5–6 h",
+     "Renal excretion"
+    ]
+   },
+   "administration": {
+    "IV": [
+     "Give slowly over at least 3 minutes — rapid injection causes restlessness"
+    ],
+    "Oral": [
+     "30 minutes before meals"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — tablet and injection"
+    ],
+    "Storage": [
+     "Below 30 °C, protect from light"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Domperidone"
+   ],
+   "dosageAdult": {
+    "Nausea and vomiting": [
+     "10 mg PO up to three times daily",
+     "Maximum 30 mg/day, maximum 7 days"
+    ]
+   },
+   "dosagePediatric": {
+    "Restricted": [
+     "Not recommended under 12 years or under 35 kg",
+     "Over 35 kg: 10 mg up to three times daily, maximum 7 days"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "Strong CYP3A4 inhibitors — ketoconazole, erythromycin, clarithromycin — contraindicated, QT prolongation",
+     "Other QT-prolonging drugs — avoid"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Dry mouth",
+     "Headache"
+    ],
+    "Serious": [
+     "QT prolongation and sudden cardiac death",
+     "Galactorrhoea and gynaecomastia from raised prolactin"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Known QT prolongation or significant electrolyte disturbance",
+     "Moderate or severe hepatic impairment",
+     "Prolactin-releasing pituitary tumour",
+     "GI haemorrhage or obstruction"
+    ],
+    "Cautions": [
+     "Use the lowest dose for the shortest time",
+     "Avoid in cardiac disease",
+     "Unlike metoclopramide it does not cross the blood-brain barrier well, so dystonic reactions are rare"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Limited data; avoid unless clearly needed"
+    ]
+   },
+   "pregnancyCategory": "C",
+   "lactation": "Enters milk in small amounts. Sometimes used off-label to increase milk supply, but the cardiac risk means this should not be routine.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Peripheral dopamine D2 antagonist; prokinetic with little CNS penetration."
+    ],
+    "Pharmacokinetics": [
+     "Peak 30–60 min",
+     "Half-life 7–9 h",
+     "Extensive first-pass metabolism"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "15–30 minutes before meals"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list"
+    ],
+    "Storage": [
+     "Below 30 °C, protect from light"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Loperamide"
+   ],
+   "dosageAdult": {
+    "Acute diarrhoea": [
+     "4 mg initially, then 2 mg after each loose stool",
+     "Maximum 16 mg/day",
+     "Stop after 48 hours if there is no improvement"
+    ]
+   },
+   "dosagePediatric": {
+    "Not recommended": [
+     "Avoid under 12 years — risk of ileus, toxic megacolon and CNS depression",
+     "Rehydration with ORS and zinc is the treatment for childhood diarrhoea, not an antimotility drug"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "QT-prolonging drugs — cardiac events reported with high doses",
+     "P-glycoprotein inhibitors such as quinidine and ritonavir — raised CNS levels"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Constipation",
+     "Abdominal cramps",
+     "Dry mouth"
+    ],
+    "Serious": [
+     "Paralytic ileus and toxic megacolon",
+     "Serious cardiac arrhythmia in overdose"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Bloody diarrhoea with fever — likely invasive infection",
+     "Suspected or confirmed dysentery",
+     "Acute ulcerative colitis",
+     "Antibiotic-associated colitis",
+     "Children under 12 years"
+    ],
+    "Cautions": [
+     "It treats a symptom, not the cause — always assess hydration and consider infection",
+     "Stop and reassess if abdominal distension develops"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Avoid in the first trimester; use only if clearly needed later"
+    ]
+   },
+   "pregnancyCategory": "C",
+   "lactation": "Small amounts in milk; short-term use considered acceptable.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Peripheral mu-opioid agonist on the myenteric plexus; slows transit and increases water absorption. Does not normally cross the blood-brain barrier."
+    ],
+    "Pharmacokinetics": [
+     "Onset 1 h",
+     "Half-life 10 h"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "With water",
+     "Continue oral rehydration alongside"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list"
+    ],
+    "Storage": [
+     "Below 30 °C"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Hyoscine butylbromide",
+    "Butylscopolamine"
+   ],
+   "dosageAdult": {
+    "Abdominal or renal colic": [
+     "20 mg PO four times daily",
+     "IV or IM: 20 mg, repeated after 30 minutes if needed, maximum 100 mg/day"
+    ]
+   },
+   "dosagePediatric": {
+    "6 to 12 years": [
+     "10 mg PO three times daily"
+    ],
+    "Under 6 years": [
+     "Not recommended"
+    ]
+   },
+   "interactions": {
+    "Monitor": [
+     "Other anticholinergics — additive effects",
+     "Metoclopramide and domperidone — mutual antagonism"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Dry mouth",
+     "Tachycardia",
+     "Blurred vision",
+     "Constipation"
+    ],
+    "Serious": [
+     "Urinary retention",
+     "Anaphylaxis",
+     "Angle-closure glaucoma"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Myasthenia gravis",
+     "Megacolon",
+     "Narrow-angle glaucoma",
+     "Prostatic enlargement with retention",
+     "Tachyarrhythmia"
+    ],
+    "Cautions": [
+     "Give IV slowly",
+     "Colic that does not settle needs a diagnosis, not repeat dosing"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Limited data; use only if clearly needed"
+    ]
+   },
+   "pregnancyCategory": "C",
+   "lactation": "Poorly absorbed orally and minimally excreted; considered acceptable.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Quaternary antimuscarinic; relaxes smooth muscle in the GI, biliary and urinary tracts. Does not cross the blood-brain barrier."
+    ],
+    "Pharmacokinetics": [
+     "Poor oral bioavailability",
+     "IV onset within minutes"
+    ]
+   },
+   "administration": {
+    "IV / IM": [
+     "Give slowly"
+    ],
+    "Oral": [
+     "Swallow whole with water"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list"
+    ],
+    "Storage": [
+     "Below 30 °C, protect from light"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Bromhexine"
+   ],
+   "dosageAdult": {
+    "Productive cough": [
+     "8–16 mg PO three times daily"
+    ]
+   },
+   "dosagePediatric": {
+    "By age": [
+     "2 to 6 years: 4 mg twice daily",
+     "6 to 12 years: 4 mg three times daily",
+     "Over 12 years: adult dose"
+    ],
+    "Under 2 years": [
+     "Not recommended"
+    ]
+   },
+   "interactions": {
+    "Monitor": [
+     "May increase antibiotic concentrations in bronchial secretions — usually a desirable effect"
+    ]
+   },
+   "adverseEffects": {
+    "Uncommon": [
+     "Nausea",
+     "Diarrhoea",
+     "Headache",
+     "Rash"
+    ],
+    "Rare": [
+     "Bronchospasm",
+     "Severe cutaneous reactions"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Hypersensitivity to bromhexine"
+    ],
+    "Cautions": [
+     "Evidence of benefit is weak; adequate hydration matters more",
+     "Do not combine with a cough suppressant — loosening secretions while suppressing the cough is counterproductive",
+     "Not for children under 2 years"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Avoid in the first trimester; limited data thereafter"
+    ]
+   },
+   "pregnancyCategory": "NA",
+   "lactation": "Limited data; avoid where possible.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Mucolytic; depolymerises mucopolysaccharide fibres, reducing sputum viscosity."
+    ],
+    "Pharmacokinetics": [
+     "Peak 1 h",
+     "Half-life 6–12 h"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "With water; encourage generous fluid intake, which is what actually thins secretions"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — tablet and syrup"
+    ],
+    "Storage": [
+     "Below 30 °C"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Montelukast sodium",
+    "Montelukast"
+   ],
+   "dosageAdult": {
+    "Asthma / allergic rhinitis": [
+     "10 mg PO once daily in the evening"
+    ]
+   },
+   "dosagePediatric": {
+    "By age": [
+     "6 months to 5 years: 4 mg once daily in the evening",
+     "6 to 14 years: 5 mg once daily in the evening",
+     "Over 15 years: 10 mg once daily"
+    ]
+   },
+   "interactions": {
+    "Monitor": [
+     "Phenobarbital, rifampicin — reduced montelukast levels"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Headache",
+     "Abdominal pain",
+     "Thirst"
+    ],
+    "Serious": [
+     "Neuropsychiatric events — agitation, aggression, nightmares, depression and suicidal thinking, including in children"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Hypersensitivity to montelukast"
+    ],
+    "Cautions": [
+     "Warn every family about mood and behaviour changes and to stop and report them — this is a boxed warning",
+     "Add-on therapy; it does not replace an inhaled corticosteroid in persistent asthma",
+     "Not a reliever — it has no role in an acute attack"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Continue if it is controlling asthma effectively; do not start in pregnancy"
+    ]
+   },
+   "pregnancyCategory": "B",
+   "lactation": "Limited data; considered probably compatible.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Selective cysteinyl leukotriene CysLT1 receptor antagonist; reduces bronchoconstriction, mucus secretion and eosinophil recruitment."
+    ],
+    "Pharmacokinetics": [
+     "Peak 2–4 h",
+     "Half-life 3–6 h",
+     "Hepatic metabolism, biliary excretion"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "Evening dosing",
+     "Chewable tablets and granules may be given with food; granules can be mixed with a spoonful of soft food"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — also as a combination with levocetirizine"
+    ],
+    "Storage": [
+     "Below 30 °C, protect from light and moisture"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Promethazine"
+   ],
+   "dosageAdult": {
+    "Allergy": [
+     "10–20 mg PO two or three times daily"
+    ],
+    "Nausea / motion sickness": [
+     "20–25 mg PO at night or 1–2 hours before travel"
+    ]
+   },
+   "dosagePediatric": {
+    "Contraindicated": [
+     "Absolutely contraindicated under 2 years — fatal respiratory depression has occurred"
+    ],
+    "2 to 5 years": [
+     "5 mg two or three times daily, with caution"
+    ],
+    "5 to 10 years": [
+     "5–10 mg two or three times daily"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "CNS depressants including opioids and alcohol — profound sedation",
+     "MAOIs — prolonged anticholinergic effects",
+     "QT-prolonging drugs"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Marked sedation",
+     "Dry mouth",
+     "Blurred vision",
+     "Dizziness"
+    ],
+    "Serious": [
+     "Respiratory depression in young children",
+     "Severe tissue injury and gangrene from IV extravasation",
+     "Extrapyramidal reactions",
+     "Neuroleptic malignant syndrome"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Children under 2 years",
+     "Coma or CNS depression",
+     "Narrow-angle glaucoma",
+     "Bladder neck obstruction"
+    ],
+    "Cautions": [
+     "Deep IM is the preferred parenteral route; IV carries a serious tissue injury risk",
+     "Never give subcutaneously or intra-arterially",
+     "Heavy sedation — warn about driving"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Used for nausea in pregnancy when needed; avoid near delivery"
+    ]
+   },
+   "pregnancyCategory": "C",
+   "lactation": "May sedate the infant and reduce milk supply. Prefer a non-sedating antihistamine.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Phenothiazine with H1 antihistamine, antimuscarinic, antidopaminergic and sedative activity."
+    ],
+    "Pharmacokinetics": [
+     "Onset 20 min PO",
+     "Duration 4–6 h, sedation may last longer",
+     "Half-life 10–19 h"
+    ]
+   },
+   "administration": {
+    "IM": [
+     "Deep intramuscular into a large muscle"
+    ],
+    "Oral": [
+     "With food to reduce gastric irritation"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — tablet and injection"
+    ],
+    "Storage": [
+     "Below 30 °C, protect from light"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Desloratadine"
+   ],
+   "dosageAdult": {
+    "Allergic rhinitis / urticaria": [
+     "5 mg PO once daily"
+    ]
+   },
+   "dosagePediatric": {
+    "By age": [
+     "6 to 11 months: 1 mg once daily",
+     "1 to 5 years: 1.25 mg once daily",
+     "6 to 11 years: 2.5 mg once daily",
+     "12 years and over: 5 mg once daily"
+    ]
+   },
+   "interactions": {
+    "Monitor": [
+     "Few clinically significant interactions",
+     "Alcohol — mild additive sedation"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Headache",
+     "Dry mouth",
+     "Fatigue"
+    ],
+    "Rare": [
+     "Tachycardia",
+     "Hepatitis",
+     "Hypersensitivity"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Hypersensitivity to desloratadine or loratadine"
+    ],
+    "Cautions": [
+     "Reduce the dose in renal or hepatic impairment",
+     "Least sedating of the common antihistamines — a good daytime choice"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Limited data; loratadine or cetirizine have more evidence and are preferred"
+    ]
+   },
+   "pregnancyCategory": "C",
+   "lactation": "Passes into milk in small amounts; considered probably compatible.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Active metabolite of loratadine; long-acting selective peripheral H1 antagonist."
+    ],
+    "Pharmacokinetics": [
+     "Peak 3 h",
+     "Half-life 27 h",
+     "Hepatic metabolism"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "With or without food, at the same time each day"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list"
+    ],
+    "Storage": [
+     "Below 30 °C, protect from moisture"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Nifedipine"
+   ],
+   "dosageAdult": {
+    "Hypertension (prolonged release)": [
+     "10–20 mg PO twice daily, or 30–60 mg once daily depending on the preparation"
+    ],
+    "Never": [
+     "Immediate-release capsules must not be used for a hypertensive emergency — the abrupt fall in pressure causes stroke and myocardial infarction"
+    ]
+   },
+   "dosagePediatric": {
+    "Specialist use": [
+     "Doses vary by indication; specialist advice"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "Strong CYP3A4 inhibitors — clarithromycin, ketoconazole, ritonavir — marked hypotension",
+     "Rifampicin — loss of effect, avoid"
+    ],
+    "Monitor": [
+     "Beta-blockers — additive hypotension",
+     "Grapefruit juice — raised levels",
+     "Digoxin, phenytoin — raised levels"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Ankle oedema",
+     "Flushing",
+     "Headache",
+     "Palpitations"
+    ],
+    "Serious": [
+     "Profound hypotension",
+     "Reflex tachycardia with immediate-release forms",
+     "Gingival hyperplasia"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Cardiogenic shock",
+     "Unstable angina",
+     "Within one month of myocardial infarction",
+     "Severe aortic stenosis"
+    ],
+    "Cautions": [
+     "Check which formulation is in hand — immediate and prolonged release are not interchangeable",
+     "Swallow prolonged-release tablets whole"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Used for hypertension in pregnancy and as a tocolytic; among the preferred agents"
+    ]
+   },
+   "pregnancyCategory": "C",
+   "lactation": "Small amounts in milk; considered compatible.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Dihydropyridine calcium channel blocker; arterial vasodilatation with minimal effect on cardiac conduction."
+    ],
+    "Pharmacokinetics": [
+     "Prolonged release: peak 6 h, duration 24 h",
+     "Hepatic CYP3A4 metabolism"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "Swallow prolonged-release tablets whole — never crush",
+     "Avoid grapefruit juice"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — prolonged-release tablet"
+    ],
+    "Storage": [
+     "Below 30 °C, protect from light"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Propranolol"
+   ],
+   "dosageAdult": {
+    "Hypertension": [
+     "40 mg PO twice daily, increased to 80–160 mg twice daily"
+    ],
+    "Thyrotoxicosis symptom control": [
+     "10–40 mg three or four times daily"
+    ],
+    "Migraine prophylaxis": [
+     "40 mg two or three times daily"
+    ]
+   },
+   "dosagePediatric": {
+    "Infantile haemangioma": [
+     "1–3 mg/kg/day divided every 8–12 hours, started under supervision with glucose and heart rate monitoring"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "Verapamil and diltiazem IV — bradycardia and asystole",
+     "Insulin and sulfonylureas — masks the warning signs of hypoglycaemia"
+    ],
+    "Monitor": [
+     "NSAIDs — reduced antihypertensive effect",
+     "Adrenaline — unopposed alpha effect, hypertension"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Fatigue",
+     "Cold extremities",
+     "Bradycardia",
+     "Sleep disturbance and vivid dreams"
+    ],
+    "Serious": [
+     "Bronchospasm",
+     "Heart block",
+     "Masked hypoglycaemia",
+     "Rebound tachycardia and angina on abrupt withdrawal"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Asthma — non-selective beta-blockade can be fatal",
+     "Second or third degree heart block",
+     "Cardiogenic shock",
+     "Severe bradycardia or hypotension",
+     "Untreated phaeochromocytoma"
+    ],
+    "Cautions": [
+     "Never stop abruptly — taper over 1–2 weeks",
+     "Dangerous in anaphylaxis: it blunts the response to adrenaline",
+     "Caution in diabetes"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Used when needed; may cause fetal growth restriction, neonatal bradycardia and hypoglycaemia"
+    ]
+   },
+   "pregnancyCategory": "C",
+   "lactation": "Compatible; among the preferred beta-blockers while breastfeeding.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Non-selective beta-1 and beta-2 adrenergic antagonist; reduces heart rate, contractility and renin release."
+    ],
+    "Pharmacokinetics": [
+     "Peak 1–2 h",
+     "Half-life 3–6 h",
+     "Extensive first-pass metabolism"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "Consistently with or without food — food changes absorption"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — tablet"
+    ],
+    "Storage": [
+     "Below 30 °C, protect from light"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Atenolol"
+   ],
+   "dosageAdult": {
+    "Hypertension": [
+     "25–50 mg PO once daily, up to 100 mg"
+    ],
+    "Angina": [
+     "50–100 mg once daily"
+    ],
+    "Renal impairment": [
+     "CrCl 15–35 mL/min: maximum 50 mg/day",
+     "CrCl under 15 mL/min: maximum 25 mg/day"
+    ]
+   },
+   "dosagePediatric": {
+    "Specialist use": [
+     "0.5–1 mg/kg once daily under specialist supervision"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "Verapamil, diltiazem — bradycardia and heart block"
+    ],
+    "Monitor": [
+     "Insulin and sulfonylureas — masked hypoglycaemia",
+     "NSAIDs — reduced effect",
+     "Clonidine — severe rebound hypertension if either is stopped abruptly"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Fatigue",
+     "Cold extremities",
+     "Bradycardia",
+     "Dizziness"
+    ],
+    "Serious": [
+     "Bronchospasm",
+     "Heart block",
+     "Worsening heart failure",
+     "Rebound angina on abrupt withdrawal"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Asthma",
+     "Second or third degree heart block",
+     "Cardiogenic shock",
+     "Severe bradycardia",
+     "Untreated phaeochromocytoma"
+    ],
+    "Cautions": [
+     "Renally cleared — accumulates in renal impairment",
+     "Taper rather than stop abruptly",
+     "Less preferred than other beta-blockers for stroke prevention in hypertension"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Avoid — associated with fetal growth restriction; labetalol or methyldopa are preferred"
+    ]
+   },
+   "pregnancyCategory": "D",
+   "lactation": "Concentrated in milk; neonatal bradycardia reported. Propranolol or labetalol preferred.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Cardioselective beta-1 antagonist, though selectivity is lost at higher doses."
+    ],
+    "Pharmacokinetics": [
+     "Peak 2–4 h",
+     "Half-life 6–7 h",
+     "Renal excretion, largely unchanged"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "Once daily, with or without food"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list"
+    ],
+    "Storage": [
+     "Below 30 °C"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Hydrochlorothiazide"
+   ],
+   "dosageAdult": {
+    "Hypertension": [
+     "12.5–25 mg PO once daily in the morning",
+     "Doses above 25 mg add little benefit and more metabolic harm"
+    ],
+    "Oedema": [
+     "25–50 mg once daily"
+    ]
+   },
+   "dosagePediatric": {
+    "Specialist use": [
+     "1–2 mg/kg/day, maximum 37.5 mg/day"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "Lithium — raised levels and toxicity",
+     "Digoxin — hypokalaemia precipitates toxicity"
+    ],
+    "Monitor": [
+     "NSAIDs — reduced effect and renal impairment",
+     "Corticosteroids — additive potassium loss",
+     "Other QT-prolonging drugs via hypokalaemia"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Increased urination",
+     "Hypokalaemia",
+     "Hyponatraemia",
+     "Hyperuricaemia and gout",
+     "Hyperglycaemia",
+     "Erectile dysfunction"
+    ],
+    "Serious": [
+     "Severe hyponatraemia, especially in elderly women",
+     "Photosensitivity and increased non-melanoma skin cancer risk with long-term use"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Anuria",
+     "Severe renal impairment",
+     "Refractory hypokalaemia or hyponatraemia",
+     "Symptomatic hyperuricaemia"
+    ],
+    "Cautions": [
+     "Check electrolytes 2–4 weeks after starting and periodically after",
+     "Advise sun protection",
+     "Ineffective when eGFR is below about 30 mL/min — use a loop diuretic instead"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Avoid — reduces plasma volume and placental perfusion"
+    ]
+   },
+   "pregnancyCategory": "B",
+   "lactation": "Small amounts in milk; high doses may suppress lactation.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Inhibits the Na-Cl co-transporter in the distal convoluted tubule; the long-term antihypertensive effect is mainly vasodilatory."
+    ],
+    "Pharmacokinetics": [
+     "Onset 2 h",
+     "Duration 6–12 h",
+     "Renal excretion unchanged"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "Morning dose so diuresis does not disturb sleep",
+     "With food if it causes nausea"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list"
+    ],
+    "Storage": [
+     "Below 30 °C, protect from light"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Nitroglycerin",
+    "Glyceryl trinitrate",
+    "Isosorbide dinitrate"
+   ],
+   "dosageAdult": {
+    "Acute angina (sublingual)": [
+     "One tablet or spray under the tongue, sitting down",
+     "Repeat every 5 minutes up to three doses",
+     "If pain persists after three doses or 15 minutes, treat as an acute coronary syndrome and seek emergency care"
+    ],
+    "Infusion": [
+     "Start 5–10 mcg/minute IV, titrated to pain and blood pressure, in a monitored setting"
+    ]
+   },
+   "dosagePediatric": {
+    "Not routine": [
+     "Specialist use only"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "PDE5 inhibitors — sildenafil, tadalafil — absolutely contraindicated; catastrophic hypotension. Ask before giving any nitrate.",
+     "Riociguat — contraindicated"
+    ],
+    "Monitor": [
+     "Antihypertensives and alcohol — additive hypotension"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Throbbing headache — expected, and often eases with continued use",
+     "Flushing",
+     "Dizziness",
+     "Postural hypotension"
+    ],
+    "Serious": [
+     "Syncope",
+     "Reflex tachycardia",
+     "Methaemoglobinaemia with very high doses"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "PDE5 inhibitor use within 24–48 hours",
+     "Hypotension or hypovolaemia",
+     "Right ventricular infarction",
+     "Severe aortic stenosis",
+     "Raised intracranial pressure"
+    ],
+    "Cautions": [
+     "Always ask about erectile dysfunction medicines before giving a nitrate — patients rarely volunteer it",
+     "Have the patient sit or lie down before a sublingual dose",
+     "Tolerance develops with continuous exposure — a nitrate-free interval is needed for regular use",
+     "Sublingual tablets lose potency once the bottle is opened; note the opening date"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Limited data; use only if clearly needed"
+    ]
+   },
+   "pregnancyCategory": "C",
+   "lactation": "Limited data; use with caution.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Releases nitric oxide, raising cyclic GMP and relaxing vascular smooth muscle. Venodilatation reduces preload; coronary dilatation improves supply."
+    ],
+    "Pharmacokinetics": [
+     "Sublingual onset 1–3 min",
+     "Duration 20–30 min",
+     "Extensive first-pass metabolism, hence the sublingual route"
+    ]
+   },
+   "administration": {
+    "Sublingual": [
+     "Place under the tongue and let it dissolve; do not swallow",
+     "Sit down first — fainting is common"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — sublingual tablet and injection"
+    ],
+    "Storage": [
+     "Original glass container, tightly closed, protected from light and heat"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Warfarine sodium",
+    "Warfarin"
+   ],
+   "dosageAdult": {
+    "Initiation": [
+     "Typically 5 mg PO once daily, lower in the elderly, low body weight, liver disease or heart failure",
+     "Adjust by INR, not by symptoms"
+    ],
+    "Target INR": [
+     "Most indications: 2.0–3.0",
+     "Mechanical mitral valve: 2.5–3.5"
+    ],
+    "Timing": [
+     "Take at the same time each day, usually early evening so a dose change can follow the same day's INR"
+    ]
+   },
+   "dosagePediatric": {
+    "Specialist use": [
+     "0.1–0.2 mg/kg once daily initially, titrated to INR under specialist supervision"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "Interacts with an enormous number of drugs — check every single new medicine, including short antibiotic courses",
+     "Metronidazole, co-trimoxazole, fluconazole, amiodarone, ciprofloxacin — markedly raise INR",
+     "NSAIDs and aspirin — bleeding risk even without an INR change",
+     "Rifampicin, carbamazepine, phenobarbital — markedly lower INR"
+    ],
+    "Diet": [
+     "Green leafy vegetables carry vitamin K — keep intake steady rather than avoiding them",
+     "Avoid alcohol binges"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Bruising",
+     "Minor bleeding — gums, nose"
+    ],
+    "Serious": [
+     "Major haemorrhage including intracranial",
+     "Skin necrosis in the first days, particularly with protein C deficiency",
+     "Calciphylaxis"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Pregnancy, especially the first trimester",
+     "Active major bleeding",
+     "Severe hypertension",
+     "Recent haemorrhagic stroke",
+     "Inability to attend for INR monitoring"
+    ],
+    "Cautions": [
+     "INR monitoring is not optional — no monitoring, no warfarin",
+     "Vitamin K is the reversal agent; prothrombin complex concentrate for major bleeding",
+     "Give the patient an anticoagulant card and teach the signs of bleeding",
+     "Full effect takes 3–5 days; bridging may be needed"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Contraindicated — warfarin embryopathy with first-trimester exposure and fetal bleeding later",
+     "Women of childbearing age need reliable contraception and pre-pregnancy planning"
+    ]
+   },
+   "pregnancyCategory": "X",
+   "lactation": "Compatible — warfarin does not pass into milk in significant amounts.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Inhibits vitamin K epoxide reductase, reducing synthesis of factors II, VII, IX and X and proteins C and S."
+    ],
+    "Pharmacokinetics": [
+     "Peak effect 3–5 days",
+     "Half-life 20–60 h",
+     "CYP2C9 metabolism; genotype affects dose requirement"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "Same time daily",
+     "Never double a missed dose — record it and tell the clinic"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — tablet"
+    ],
+    "Storage": [
+     "Below 30 °C, protect from light"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Levothyroxine"
+   ],
+   "dosageAdult": {
+    "Hypothyroidism": [
+     "Healthy adult under 50: 1.6 mcg/kg/day, or start 50–100 mcg daily",
+     "Over 50, or with ischaemic heart disease: start 12.5–25 mcg daily and increase slowly",
+     "Adjust by 12.5–25 mcg every 4–6 weeks guided by TSH"
+    ]
+   },
+   "dosagePediatric": {
+    "Congenital hypothyroidism": [
+     "Neonate: 10–15 mcg/kg/day, started urgently — delay causes permanent intellectual disability"
+    ],
+    "Children": [
+     "Dose per kg falls with age; titrate to TSH and growth"
+    ]
+   },
+   "interactions": {
+    "Separate dosing by 4 hours": [
+     "Iron, calcium, antacids, sucralfate, proton pump inhibitors — markedly reduced absorption"
+    ],
+    "Monitor": [
+     "Warfarin — enhanced anticoagulant effect",
+     "Rifampicin, carbamazepine, phenytoin — increased levothyroxine requirement",
+     "Oestrogens — increased requirement"
+    ]
+   },
+   "adverseEffects": {
+    "From over-replacement": [
+     "Palpitations, tachycardia, atrial fibrillation",
+     "Tremor, anxiety, insomnia",
+     "Weight loss, heat intolerance",
+     "Bone loss with long-term over-treatment"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Untreated adrenal insufficiency — treat that first or precipitate a crisis",
+     "Untreated thyrotoxicosis",
+     "Acute myocardial infarction"
+    ],
+    "Cautions": [
+     "Not a weight-loss drug",
+     "Wait at least 6 weeks after any dose change before rechecking TSH",
+     "Brands are not always interchangeable — keep the patient on one",
+     "In elderly cardiac patients, start low and go slow: angina can be precipitated"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Essential — requirement typically rises 25–50% early in pregnancy",
+     "Check TSH as soon as pregnancy is confirmed and every trimester"
+    ]
+   },
+   "pregnancyCategory": "A",
+   "lactation": "Compatible and necessary; physiological amounts in milk.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Synthetic T4, converted peripherally to the active T3; regulates metabolic rate, growth and development."
+    ],
+    "Pharmacokinetics": [
+     "Absorption 40–80%, reduced by food",
+     "Half-life 7 days",
+     "Steady state after about 6 weeks"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "Once daily on an empty stomach, 30–60 minutes before breakfast, with water",
+     "Or at bedtime at least 3 hours after eating",
+     "Keep the timing consistent"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — tablet"
+    ],
+    "Storage": [
+     "Below 25 °C, protect from light and moisture"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Allopurinol"
+   ],
+   "dosageAdult": {
+    "Gout": [
+     "Start 100 mg PO once daily, increasing by 100 mg every 2–4 weeks",
+     "Titrate to a serum urate below 360 micromol/L (6 mg/dL)",
+     "Usual maintenance 300–600 mg/day"
+    ],
+    "Renal impairment": [
+     "Start at 50–100 mg daily and titrate cautiously"
+    ]
+   },
+   "dosagePediatric": {
+    "Tumour lysis prophylaxis": [
+     "10 mg/kg/day divided every 8 hours, maximum 800 mg/day"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "Azathioprine and mercaptopurine — life-threatening myelosuppression; reduce those doses to 25% or avoid",
+     "Ampicillin and amoxicillin — greatly increased rash"
+    ],
+    "Monitor": [
+     "Warfarin — raised INR",
+     "Thiazides and ACE inhibitors — increased hypersensitivity risk"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Rash",
+     "Nausea",
+     "An acute gout flare when starting — expected, not a treatment failure"
+    ],
+    "Serious": [
+     "Allopurinol hypersensitivity syndrome — rash, fever, eosinophilia, hepatitis and renal failure, with significant mortality",
+     "SJS/TEN",
+     "Bone marrow suppression"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Previous serious hypersensitivity to allopurinol"
+    ],
+    "Cautions": [
+     "Stop immediately at the first rash and do not rechallenge",
+     "Do not start during an acute attack; cover the first 3–6 months with colchicine or an NSAID",
+     "Never stop it during a flare once established",
+     "Higher hypersensitivity risk in renal impairment and in HLA-B*5801 carriers, which is more frequent in Southeast Asian populations"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Limited data; use only if clearly needed"
+    ]
+   },
+   "pregnancyCategory": "C",
+   "lactation": "Passes into milk; use with caution and monitor the infant.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Xanthine oxidase inhibitor; reduces uric acid production. Its metabolite oxypurinol provides most of the sustained effect."
+    ],
+    "Pharmacokinetics": [
+     "Half-life of oxypurinol 18–30 h, prolonged in renal impairment"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "After food",
+     "Drink 2–3 litres of fluid daily"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list"
+    ],
+    "Storage": [
+     "Below 30 °C"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Methylpredonisolone",
+    "Methylprednisolone"
+   ],
+   "dosageAdult": {
+    "Acute severe inflammation": [
+     "40–125 mg IV, repeated as indicated"
+    ],
+    "Pulse therapy": [
+     "500–1000 mg IV daily for 3 days in severe autoimmune disease"
+    ],
+    "Equivalence": [
+     "4 mg methylprednisolone equals 5 mg prednisolone"
+    ]
+   },
+   "dosagePediatric": {
+    "Acute asthma or severe inflammation": [
+     "1–2 mg/kg IV per dose, up to every 6 hours per protocol"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "Live vaccines during immunosuppressive doses"
+    ],
+    "Monitor": [
+     "CYP3A4 inhibitors — raised levels",
+     "Rifampicin, phenytoin — reduced effect",
+     "NSAIDs — GI ulceration"
+    ]
+   },
+   "adverseEffects": {
+    "Short term": [
+     "Hyperglycaemia",
+     "Insomnia",
+     "Mood change",
+     "Flushing with rapid IV"
+    ],
+    "Prolonged use": [
+     "Adrenal suppression",
+     "Immunosuppression",
+     "Osteoporosis",
+     "Avascular necrosis",
+     "Myopathy"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Systemic fungal infection",
+     "Live vaccines during immunosuppressive doses"
+    ],
+    "Cautions": [
+     "Give high-dose IV slowly — rapid injection causes flushing, arrhythmia and cardiovascular collapse",
+     "Check the salt: sodium succinate is for IV, acetate is a depot preparation and must never be given IV",
+     "Can unmask latent tuberculosis and strongyloidiasis"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Used when clearly needed; largely inactivated by the placenta"
+    ]
+   },
+   "pregnancyCategory": "C",
+   "lactation": "Compatible; with high doses, waiting a few hours before feeding limits exposure.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Intermediate-acting glucocorticoid with minimal mineralocorticoid activity; about five times the potency of hydrocortisone."
+    ],
+    "Pharmacokinetics": [
+     "Biological half-life 18–36 h"
+    ]
+   },
+   "administration": {
+    "IV": [
+     "Reconstitute correctly; give doses above 250 mg over at least 30 minutes"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — injection"
+    ],
+    "Storage": [
+     "Below 25 °C; use reconstituted solution promptly"
+    ]
+   }
+  },
+  {
+   "match": [
+    "Clindamycin"
+   ],
+   "dosageAdult": {
+    "Oral": [
+     "300–450 mg PO every 6–8 hours"
+    ],
+    "IV (severe infection)": [
+     "600–900 mg IV every 8 hours"
+    ],
+    "Course": [
+     "Depends on indication; typically 7–10 days"
+    ]
+   },
+   "dosagePediatric": {
+    "Standard": [
+     "Oral: 10–25 mg/kg/day divided every 6–8 hours",
+     "IV: 20–40 mg/kg/day divided every 6–8 hours",
+     "Maximum 2.7 g/day"
+    ]
+   },
+   "interactions": {
+    "Serious": [
+     "Neuromuscular blockers — prolonged blockade"
+    ],
+    "Monitor": [
+     "Erythromycin — antagonism, avoid the combination"
+    ]
+   },
+   "adverseEffects": {
+    "Common": [
+     "Diarrhoea",
+     "Nausea",
+     "Metallic taste",
+     "Rash"
+    ],
+    "Serious": [
+     "Clostridioides difficile colitis — clindamycin carries one of the highest risks of any antibiotic",
+     "Severe cutaneous reactions",
+     "Oesophageal ulceration if a capsule lodges"
+    ]
+   },
+   "warnings": {
+    "Contraindications": [
+     "Hypersensitivity to clindamycin or lincomycin"
+    ],
+    "Cautions": [
+     "Warn every patient to report diarrhoea, especially watery or bloody, during or for weeks after the course",
+     "Take capsules with a full glass of water and stay upright afterwards",
+     "Reserve it — the C. difficile risk is substantial"
+    ]
+   },
+   "pregnancy": {
+    "Use in pregnancy": [
+     "Considered acceptable when indicated"
+    ]
+   },
+   "pregnancyCategory": "B",
+   "lactation": "Passes into milk; monitor the infant for diarrhoea, thrush or blood in the stool.",
+   "pharmacology": {
+    "Mechanism Of Action": [
+     "Lincosamide; binds the 50S ribosomal subunit and inhibits protein synthesis. Active against Gram-positive organisms and anaerobes, with good bone and abscess penetration."
+    ],
+    "Pharmacokinetics": [
+     "Peak 45–60 min PO",
+     "Half-life 2–3 h",
+     "Hepatic metabolism"
+    ]
+   },
+   "administration": {
+    "Oral": [
+     "Swallow with a full glass of water, sitting or standing"
+    ],
+    "IV": [
+     "Dilute and infuse over at least 30 minutes — never IV push"
+    ]
+   },
+   "formulary": {
+    "Status": [
+     "ACMC Essential Medicines list — capsule; injection also available"
+    ],
+    "Storage": [
+     "Below 30 °C"
+    ]
+   }
+  }
+ ]
+}

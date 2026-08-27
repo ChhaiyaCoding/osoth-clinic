@@ -1,0 +1,7106 @@
+{
+ "source": "ACMC Essential Medicines list — Japan Heart Asia Children's Medical Center",
+ "version": "June 2026",
+ "importedFields": "Reference data only; prices, pack sizes and stock are left for the clinic to fill in.",
+ "medicines": [
+  {
+   "code": "PARACETAMOL-100MG",
+   "nameEn": "Paracetamol",
+   "nameJa": "【カロナール】アセトアミノフェン",
+   "generic": "Paracetamol",
+   "brandNames": [],
+   "classes": [
+    "Para-aminophenol / Acetaminophen",
+    "Antipyretic / Painkiller",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "100 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Normally usable over 3-month old Also available as suppository/injection\nSource: ACMC Essential Medicines, June 2026, p.1"
+  },
+  {
+   "code": "PARACETAMOL-325MG",
+   "nameEn": "Paracetamol",
+   "nameJa": "【カロナール】アセトアミノフェン",
+   "generic": "Paracetamol",
+   "brandNames": [],
+   "classes": [
+    "Para-aminophenol / Acetaminophen",
+    "Antipyretic / Painkiller",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "325 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Normally usable over 3-month old Also available as suppository/injection\nSource: ACMC Essential Medicines, June 2026, p.1"
+  },
+  {
+   "code": "PARACETAMOL-500MG",
+   "nameEn": "Paracetamol",
+   "nameJa": "【カロナール】アセトアミノフェン",
+   "generic": "Paracetamol",
+   "brandNames": [],
+   "classes": [
+    "Para-aminophenol / Acetaminophen",
+    "Antipyretic / Painkiller",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "500 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Normally usable over 3-month old Also available as suppository/injection\nSource: ACMC Essential Medicines, June 2026, p.1"
+  },
+  {
+   "code": "PARACETAMOL-125MG5M",
+   "nameEn": "Paracetamol",
+   "nameJa": "【カロナール】アセトアミノフェン",
+   "generic": "Paracetamol",
+   "brandNames": [],
+   "classes": [
+    "Para-aminophenol / Acetaminophen",
+    "Antipyretic / Painkiller",
+    "Oral medicines"
+   ],
+   "form": "syrup",
+   "formLabel": "Syrup",
+   "strength": "125 mg / 5 ml",
+   "unit": "ml",
+   "isControlled": false,
+   "note": "Normally usable over 3-month old Also available as suppository/injection\nSource: ACMC Essential Medicines, June 2026, p.1"
+  },
+  {
+   "code": "PARACETAMOL-250MG5M",
+   "nameEn": "Paracetamol",
+   "nameJa": "【カロナール】アセトアミノフェン",
+   "generic": "Paracetamol",
+   "brandNames": [],
+   "classes": [
+    "Para-aminophenol / Acetaminophen",
+    "Antipyretic / Painkiller",
+    "Oral medicines"
+   ],
+   "form": "syrup",
+   "formLabel": "Syrup",
+   "strength": "250 mg / 5 ml",
+   "unit": "ml",
+   "isControlled": false,
+   "note": "Normally usable over 3-month old Also available as suppository/injection\nSource: ACMC Essential Medicines, June 2026, p.1"
+  },
+  {
+   "code": "IBUPROFEN-200MG",
+   "nameEn": "Ibuprofen",
+   "nameJa": "イブプロフェン",
+   "generic": "Ibuprofen",
+   "brandNames": [],
+   "classes": [
+    "NSAIDs",
+    "Antipyretic / Painkiller",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "200 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.1"
+  },
+  {
+   "code": "IBUPROFEN-400MG",
+   "nameEn": "Ibuprofen",
+   "nameJa": "イブプロフェン",
+   "generic": "Ibuprofen",
+   "brandNames": [],
+   "classes": [
+    "NSAIDs",
+    "Antipyretic / Painkiller",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "400 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.1"
+  },
+  {
+   "code": "IBUPROFEN-100MG5M",
+   "nameEn": "Ibuprofen",
+   "nameJa": "イブプロフェン",
+   "generic": "Ibuprofen",
+   "brandNames": [],
+   "classes": [
+    "NSAIDs",
+    "Antipyretic / Painkiller",
+    "Oral medicines"
+   ],
+   "form": "syrup",
+   "formLabel": "Syrup",
+   "strength": "100 mg / 5 ml in 60 ml",
+   "unit": "ml",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.1"
+  },
+  {
+   "code": "DICLOFENAC-50MG",
+   "nameEn": "Diclofenac",
+   "nameJa": "【ボルタレン】ジクロフェナク",
+   "generic": "Diclofenac",
+   "brandNames": [],
+   "classes": [
+    "NSAIDs",
+    "Antipyretic / Painkiller",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "50 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Usable over 18 year-old Also available as injection\nSource: ACMC Essential Medicines, June 2026, p.1"
+  },
+  {
+   "code": "CELECOXIB-200MG",
+   "nameEn": "Celecoxib",
+   "nameJa": "【セレコックス】セレコキシブ",
+   "generic": "Celecoxib",
+   "brandNames": [],
+   "classes": [
+    "NSAIDs",
+    "Antipyretic / Painkiller",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "200 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Usable over 2 year-old\nSource: ACMC Essential Medicines, June 2026, p.1"
+  },
+  {
+   "code": "PREGABALIN-50MG",
+   "nameEn": "Pregabalin",
+   "nameJa": "【リリカ】プレガバリン",
+   "generic": "Pregabalin",
+   "brandNames": [],
+   "classes": [
+    "Neuropathic painkiller",
+    "Antipyretic / Painkiller",
+    "Oral medicines"
+   ],
+   "form": "capsule",
+   "formLabel": "Capsule",
+   "strength": "50 mg",
+   "unit": "capsule",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.1"
+  },
+  {
+   "code": "PREGABALIN-75MG",
+   "nameEn": "Pregabalin",
+   "nameJa": "【リリカ】プレガバリン",
+   "generic": "Pregabalin",
+   "brandNames": [],
+   "classes": [
+    "Neuropathic painkiller",
+    "Antipyretic / Painkiller",
+    "Oral medicines"
+   ],
+   "form": "capsule",
+   "formLabel": "Capsule",
+   "strength": "75 mg",
+   "unit": "capsule",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.1"
+  },
+  {
+   "code": "METHYLCOBALAMI-750MCG7",
+   "nameEn": "Methylcobalamin (Vit B12) + Pregabalin",
+   "nameJa": "",
+   "generic": "Methylcobalamin (Vit B12) + Pregabalin",
+   "brandNames": [],
+   "classes": [
+    "Neuropathic painkiller",
+    "Antipyretic / Painkiller",
+    "Oral medicines"
+   ],
+   "form": "capsule",
+   "formLabel": "Capsule",
+   "strength": "750 mcg + 75 mg",
+   "unit": "capsule",
+   "isControlled": false,
+   "note": "Domestic donation\nSource: ACMC Essential Medicines, June 2026, p.1"
+  },
+  {
+   "code": "TRAMADOL-50MG",
+   "nameEn": "Tramadol",
+   "nameJa": "【トラマール】トラマドール アセトアミノフェンとの併用でトラムセット",
+   "generic": "Tramadol",
+   "brandNames": [],
+   "classes": [
+    "Opioids (Non narcotic)",
+    "Antipyretic / Painkiller",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "50 mg",
+   "unit": "tablet",
+   "isControlled": true,
+   "note": "Usable over 17 year-old Also available as injection\nSource: ACMC Essential Medicines, June 2026, p.1"
+  },
+  {
+   "code": "MORPHINESULFAT-10MGIMM",
+   "nameEn": "Morphine sulfate",
+   "nameJa": "モルヒネ塩酸塩 (速放性)",
+   "generic": "Morphine sulfate",
+   "brandNames": [],
+   "classes": [
+    "Opioids (Narcotic)",
+    "Antipyretic / Painkiller",
+    "Oral medicines"
+   ],
+   "form": "capsule",
+   "formLabel": "Capsule",
+   "strength": "10 mg (Immediated Release)",
+   "unit": "capsule",
+   "isControlled": true,
+   "note": "Only buy as needed Supply unstable Also available as injection\nSource: ACMC Essential Medicines, June 2026, p.1"
+  },
+  {
+   "code": "MORPHINESULFAT-30MGIMM",
+   "nameEn": "Morphine sulfate",
+   "nameJa": "モルヒネ塩酸塩 (速放性)",
+   "generic": "Morphine sulfate",
+   "brandNames": [],
+   "classes": [
+    "Opioids (Narcotic)",
+    "Antipyretic / Painkiller",
+    "Oral medicines"
+   ],
+   "form": "capsule",
+   "formLabel": "Capsule",
+   "strength": "30 mg (Immediated Release)",
+   "unit": "capsule",
+   "isControlled": true,
+   "note": "Only buy as needed Supply unstable Also available as injection\nSource: ACMC Essential Medicines, June 2026, p.1"
+  },
+  {
+   "code": "MORPHINESULFAT-10MGPRO",
+   "nameEn": "Morphine sulfate",
+   "nameJa": "モルヒネ塩酸塩（徐放性）",
+   "generic": "Morphine sulfate",
+   "brandNames": [],
+   "classes": [
+    "Opioids (Narcotic)",
+    "Antipyretic / Painkiller",
+    "Oral medicines"
+   ],
+   "form": "capsule",
+   "formLabel": "Capsule",
+   "strength": "10 mg (Prolonged Release)",
+   "unit": "capsule",
+   "isControlled": true,
+   "note": "Only buy as needed Supply unstable Also available as injection\nSource: ACMC Essential Medicines, June 2026, p.1"
+  },
+  {
+   "code": "MORPHINESULFAT-30MGPRO",
+   "nameEn": "Morphine sulfate",
+   "nameJa": "モルヒネ塩酸塩（徐放性）",
+   "generic": "Morphine sulfate",
+   "brandNames": [],
+   "classes": [
+    "Opioids (Narcotic)",
+    "Antipyretic / Painkiller",
+    "Oral medicines"
+   ],
+   "form": "capsule",
+   "formLabel": "Capsule/Tablet",
+   "strength": "30 mg (Prolonged Release)",
+   "unit": "capsule",
+   "isControlled": true,
+   "note": "Only buy as needed Supply unstable Also available as injection\nSource: ACMC Essential Medicines, June 2026, p.1"
+  },
+  {
+   "code": "MORPHINESULFAT-60MGPRO",
+   "nameEn": "Morphine sulfate",
+   "nameJa": "モルヒネ塩酸塩（徐放性）",
+   "generic": "Morphine sulfate",
+   "brandNames": [],
+   "classes": [
+    "Opioids (Narcotic)",
+    "Antipyretic / Painkiller",
+    "Oral medicines"
+   ],
+   "form": "capsule",
+   "formLabel": "Capsule/Tablet",
+   "strength": "60 mg (Prolonged Release)",
+   "unit": "capsule",
+   "isControlled": true,
+   "note": "Only buy as needed Supply unstable Also available as injection\nSource: ACMC Essential Medicines, June 2026, p.1"
+  },
+  {
+   "code": "MORPHINESULFAT-10MG5ML",
+   "nameEn": "Morphine sulfate",
+   "nameJa": "モルヒネ経口液",
+   "generic": "Morphine sulfate",
+   "brandNames": [],
+   "classes": [
+    "Opioids (Narcotic)",
+    "Antipyretic / Painkiller",
+    "Oral medicines"
+   ],
+   "form": "syrup",
+   "formLabel": "Syrup",
+   "strength": "10 mg / 5 ml in 100 ml",
+   "unit": "ml",
+   "isControlled": true,
+   "note": "Only buy as needed Supply unstable Also available as injection\nSource: ACMC Essential Medicines, June 2026, p.1"
+  },
+  {
+   "code": "OXYCODONE-25MGSAC",
+   "nameEn": "Oxycodone",
+   "nameJa": "【オキノーム散】オキシコンチン",
+   "generic": "Oxycodone",
+   "brandNames": [],
+   "classes": [
+    "Opioids (Narcotic)",
+    "Antipyretic / Painkiller",
+    "Oral medicines"
+   ],
+   "form": "powder",
+   "formLabel": "Powder",
+   "strength": "2.5 mg/sachet (Immediated Release)",
+   "unit": "sachet",
+   "isControlled": true,
+   "note": "Donation from Japan\nSource: ACMC Essential Medicines, June 2026, p.1"
+  },
+  {
+   "code": "OXYCODONE-5MGPROL",
+   "nameEn": "Oxycodone",
+   "nameJa": "【オキシコンチン錠】オキシコンチン",
+   "generic": "Oxycodone",
+   "brandNames": [],
+   "classes": [
+    "Opioids (Narcotic)",
+    "Antipyretic / Painkiller",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "5 mg (Prolonged Release)",
+   "unit": "tablet",
+   "isControlled": true,
+   "note": "Donation from Japan\nSource: ACMC Essential Medicines, June 2026, p.1"
+  },
+  {
+   "code": "FENTANYL-100MCGH",
+   "nameEn": "Fentanyl",
+   "nameJa": "【デュロテップ】フェンタニル",
+   "generic": "Fentanyl",
+   "brandNames": [],
+   "classes": [
+    "Opioids (Narcotic)",
+    "Antipyretic / Painkiller",
+    "Oral medicines"
+   ],
+   "form": "patch",
+   "formLabel": "Patch [External]",
+   "strength": "100 mcg/hr (72-hr lasting)",
+   "unit": "patch",
+   "isControlled": true,
+   "note": "Donation Also available as injection\nSource: ACMC Essential Medicines, June 2026, p.1"
+  },
+  {
+   "code": "CHARCOALACTIVA-1200MG",
+   "nameEn": "Charcoal activated",
+   "nameJa": "活性炭",
+   "generic": "Charcoal activated",
+   "brandNames": [],
+   "classes": [
+    "Antidotes and other substances used in poisonnings",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "1200 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.1"
+  },
+  {
+   "code": "METRONIDAZOLEM-250MG",
+   "nameEn": "Metronidazole (MNZ)",
+   "nameJa": "【フラジール】メトロニダゾール",
+   "generic": "Metronidazole (MNZ)",
+   "brandNames": [],
+   "classes": [
+    "Nitroimidazole",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "250 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "METRONIDAZOLEM-500MG",
+   "nameEn": "Metronidazole (MNZ)",
+   "nameJa": "【フラジール】メトロニダゾール",
+   "generic": "Metronidazole (MNZ)",
+   "brandNames": [],
+   "classes": [
+    "Nitroimidazole",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "500 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "METRONIDAZOLEM-200MG5M",
+   "nameEn": "Metronidazole (MNZ)",
+   "nameJa": "【フラジール】メトロニダゾール",
+   "generic": "Metronidazole (MNZ)",
+   "brandNames": [],
+   "classes": [
+    "Nitroimidazole",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "syrup",
+   "formLabel": "Syrup",
+   "strength": "200 mg / 5 ml in 60 ml",
+   "unit": "ml",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "SULFAMETHOXAZO-480MG40",
+   "nameEn": "Sulfamethoxazole + Trimetoprim",
+   "nameJa": "【バクタ・ダイフェン】ST合剤 ※ST mixture では通じない",
+   "generic": "Sulfamethoxazole + Trimetoprim",
+   "brandNames": [],
+   "classes": [
+    "Co-trimoxazole",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "480 mg (400 mg + 80 mg)",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "SULFAMETHOXAZO-240MG20",
+   "nameEn": "Sulfamethoxazole + Trimetoprim",
+   "nameJa": "【バクタ・ダイフェン】ST合剤 ※ST mixture では通じない",
+   "generic": "Sulfamethoxazole + Trimetoprim",
+   "brandNames": [],
+   "classes": [
+    "Co-trimoxazole",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "syrup",
+   "formLabel": "Syrup",
+   "strength": "240 mg (200 mg + 40 mg) / 5 ml in 60 ml",
+   "unit": "ml",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "CIPROFLOXACINC-500MG",
+   "nameEn": "Ciprofloxacin (CPFX)",
+   "nameJa": "【シプロキサン】シプロフロキサシン",
+   "generic": "Ciprofloxacin (CPFX)",
+   "brandNames": [],
+   "classes": [
+    "New quinolone",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "500 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "LEVOFLOXACINLV-500MG",
+   "nameEn": "Levofloxacin (LVFX)",
+   "nameJa": "【クラビット】レボフロキサシン",
+   "generic": "Levofloxacin (LVFX)",
+   "brandNames": [],
+   "classes": [
+    "New quinolone",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "500 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "AZITHROMYCINAZ-500MG",
+   "nameEn": "Azithromycin (AZM)",
+   "nameJa": "【ジスロマック】アジスロマイシン",
+   "generic": "Azithromycin (AZM)",
+   "brandNames": [],
+   "classes": [
+    "Macrolide (15-membered ring)",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "500 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "CLARITHROMYCIN-500MG",
+   "nameEn": "Clarithromycin (CAM)",
+   "nameJa": "【クラリシッド】クラリスロマイシン",
+   "generic": "Clarithromycin (CAM)",
+   "brandNames": [],
+   "classes": [
+    "Macrolide (14-membered ring)",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "500 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "AMOXICILLINAMP-250MG",
+   "nameEn": "Amoxicillin (AMPC)",
+   "nameJa": "【サワシリン】アモキシシリン",
+   "generic": "Amoxicillin (AMPC)",
+   "brandNames": [],
+   "classes": [
+    "Broad-spectrum penicillin",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "capsule",
+   "formLabel": "Capsule",
+   "strength": "250 mg",
+   "unit": "capsule",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "AMOXICILLINAMP-500MG",
+   "nameEn": "Amoxicillin (AMPC)",
+   "nameJa": "【サワシリン】アモキシシリン",
+   "generic": "Amoxicillin (AMPC)",
+   "brandNames": [],
+   "classes": [
+    "Broad-spectrum penicillin",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "capsule",
+   "formLabel": "Capsule",
+   "strength": "500 mg",
+   "unit": "capsule",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "AMOXICILLINAMP-250MGSA",
+   "nameEn": "Amoxicillin (AMPC)",
+   "nameJa": "【サワシリン】アモキシシリン",
+   "generic": "Amoxicillin (AMPC)",
+   "brandNames": [],
+   "classes": [
+    "Broad-spectrum penicillin",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "powder",
+   "formLabel": "Powder",
+   "strength": "250 mg/sachet",
+   "unit": "sachet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "AMOXICILLINAMP-125MG5M",
+   "nameEn": "Amoxicillin (AMPC)",
+   "nameJa": "【サワシリン】アモキシシリン",
+   "generic": "Amoxicillin (AMPC)",
+   "brandNames": [],
+   "classes": [
+    "Broad-spectrum penicillin",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "syrup",
+   "formLabel": "Syrup",
+   "strength": "125 mg / 5 ml in 60 ml",
+   "unit": "ml",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "AMPICILLINCLOX-500MG25",
+   "nameEn": "Ampicillin + Cloxacillin (ABPC/MCIPC)",
+   "nameJa": "【ビクシリンS】アンピシリン＋クロキサシリン",
+   "generic": "Ampicillin + Cloxacillin (ABPC/MCIPC)",
+   "brandNames": [
+    "Amclox"
+   ],
+   "classes": [
+    "Compound penicillin",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "capsule",
+   "formLabel": "Capsule",
+   "strength": "500 mg (250 mg + 250 mg)",
+   "unit": "capsule",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "AMOXICILLINCLA-625MG50",
+   "nameEn": "Amoxicillin + Clavulanic acid (AMPC/CVA)",
+   "nameJa": "【≒オーグメンチン（2:1）】アモキシシリン＋クラブラン酸 ※【オーグメンチン配合錠250RS】Donation from Japan 在庫 あり. ご相談ください",
+   "generic": "Amoxicillin + Clavulanic acid (AMPC/CVA)",
+   "brandNames": [],
+   "classes": [
+    "Compound penicillin",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "625 mg (500 mg + 125 mg)",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "AMPC : CVA = 4 : 1\nSource: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "AMOXICILLINCLA-28125MG",
+   "nameEn": "Amoxicillin + Clavulanic acid (AMPC/CVA)",
+   "nameJa": "【≒クラバモックス (14:1)】アモキシシリン＋クラブラン酸",
+   "generic": "Amoxicillin + Clavulanic acid (AMPC/CVA)",
+   "brandNames": [],
+   "classes": [
+    "Compound penicillin",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "powder",
+   "formLabel": "Powder",
+   "strength": "281.25 mg (250 mg + 31.25 mg)",
+   "unit": "sachet",
+   "isControlled": false,
+   "note": "Just before meals AMPC : CVA = 8 : 1\nSource: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "AMOXICILLINCLA-457MG40",
+   "nameEn": "Amoxicillin + Clavulanic acid (AMPC/CVA)",
+   "nameJa": "【≒クラバモックス (14:1)】アモキシシリン＋クラブラン酸",
+   "generic": "Amoxicillin + Clavulanic acid (AMPC/CVA)",
+   "brandNames": [],
+   "classes": [
+    "Compound penicillin",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "syrup",
+   "formLabel": "Syrup",
+   "strength": "457 mg (400 mg + 57 mg) / 5 ml",
+   "unit": "ml",
+   "isControlled": false,
+   "note": "Just before meals AMPC : CVA = 8 : 1\nSource: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "CEPHALEXINCEX-250MG",
+   "nameEn": "Cephalexin (CEX)",
+   "nameJa": "【ケフレックス】セファレキシン",
+   "generic": "Cephalexin (CEX)",
+   "brandNames": [],
+   "classes": [
+    "Cephem (first-generation)",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "250 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "CEPHALEXINCEX-500MG",
+   "nameEn": "Cephalexin (CEX)",
+   "nameJa": "【ケフレックス】セファレキシン",
+   "generic": "Cephalexin (CEX)",
+   "brandNames": [],
+   "classes": [
+    "Cephem (first-generation)",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "capsule",
+   "formLabel": "Capsule",
+   "strength": "500 mg",
+   "unit": "capsule",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "CEPHALEXINCEX-250MGSA",
+   "nameEn": "Cephalexin (CEX)",
+   "nameJa": "【ケフレックス】セファレキシン",
+   "generic": "Cephalexin (CEX)",
+   "brandNames": [],
+   "classes": [
+    "Cephem (first-generation)",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "powder",
+   "formLabel": "Powder",
+   "strength": "250 mg/sachet",
+   "unit": "sachet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "CEPHALEXINCEX-125MG5M",
+   "nameEn": "Cephalexin (CEX)",
+   "nameJa": "【ケフレックス】セファレキシン",
+   "generic": "Cephalexin (CEX)",
+   "brandNames": [],
+   "classes": [
+    "Cephem (first-generation)",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "syrup",
+   "formLabel": "Syrup",
+   "strength": "125 mg / 5 ml in 60 ml",
+   "unit": "ml",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "CEFIXIMECFIX-200MG",
+   "nameEn": "Cefixime (CFIX)",
+   "nameJa": "【セフスパン】セフェキシム",
+   "generic": "Cefixime (CFIX)",
+   "brandNames": [],
+   "classes": [
+    "Cephem (third-generation)",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "200 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "CEFIXIMECFIX-100MG5M",
+   "nameEn": "Cefixime (CFIX)",
+   "nameJa": "【セフスパン】セフェキシム",
+   "generic": "Cefixime (CFIX)",
+   "brandNames": [],
+   "classes": [
+    "Cephem (third-generation)",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "syrup",
+   "formLabel": "Syrup",
+   "strength": "100 mg / 5 ml in 60 ml",
+   "unit": "ml",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "NITROFURANTOIN-50MG",
+   "nameEn": "Nitrofurantoin (NFT)",
+   "nameJa": "ニトロフラントイン",
+   "generic": "Nitrofurantoin (NFT)",
+   "brandNames": [],
+   "classes": [
+    "Nitrofurans",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "capsule",
+   "formLabel": "Capsule",
+   "strength": "50 mg",
+   "unit": "capsule",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "CLINDAMYCINCLD-300MG",
+   "nameEn": "Clindamycin (CLDM)",
+   "nameJa": "【ダラシン】クリンダマイシン",
+   "generic": "Clindamycin (CLDM)",
+   "brandNames": [],
+   "classes": [
+    "Lincomycin",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "capsule",
+   "formLabel": "Capsule",
+   "strength": "300 mg",
+   "unit": "capsule",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "LINCOMYCINELCM-500MG",
+   "nameEn": "Lincomycine (LCM)",
+   "nameJa": "【リンコシン】リンコマイシン",
+   "generic": "Lincomycine (LCM)",
+   "brandNames": [],
+   "classes": [
+    "Lincomycin",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "capsule",
+   "formLabel": "Capsule",
+   "strength": "500 mg",
+   "unit": "capsule",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "DOXYCYCLINEDOX-100MG",
+   "nameEn": "Doxycycline (DOXY)",
+   "nameJa": "【ビブラマイシン】ドキシサイクリン",
+   "generic": "Doxycycline (DOXY)",
+   "brandNames": [],
+   "classes": [
+    "Tetracycline",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "capsule",
+   "formLabel": "Capsule",
+   "strength": "100 mg",
+   "unit": "capsule",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "FLUCONAZOLEFCZ-150MG",
+   "nameEn": "Fluconazole (FCZ)",
+   "nameJa": "【ジフルカン】フルコナゾール",
+   "generic": "Fluconazole (FCZ)",
+   "brandNames": [],
+   "classes": [
+    "Anti fungal medicine",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "capsule",
+   "formLabel": "Capsule",
+   "strength": "150 mg",
+   "unit": "capsule",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "FUNGIZONE10-500MG5M",
+   "nameEn": "【Fungizone 10%.】",
+   "nameJa": "【ファンギゾン】アムホテリシンB",
+   "generic": "【Fungizone 10%.】",
+   "brandNames": [
+    "Fungizone 10%"
+   ],
+   "classes": [
+    "Anti fungal medicine",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "syrup",
+   "formLabel": "Syrup",
+   "strength": "500 mg / 5 ml in 60 ml",
+   "unit": "ml",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "ACYCLOVIRACV-200MG",
+   "nameEn": "Acyclovir (ACV)",
+   "nameJa": "【ゾビラックス】アシクロビル",
+   "generic": "Acyclovir (ACV)",
+   "brandNames": [],
+   "classes": [
+    "Anti herpes medicine",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "200 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "ACYCLOVIRACV-400MG",
+   "nameEn": "Acyclovir (ACV)",
+   "nameJa": "【ゾビラックス】アシクロビル",
+   "generic": "Acyclovir (ACV)",
+   "brandNames": [],
+   "classes": [
+    "Anti herpes medicine",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "400 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "ACRIPTEGADOLUT-650MG50",
+   "nameEn": "ACRIPTEGA (Dolutegravir + Lamivudine + Tenofovir)",
+   "nameJa": "曝露後予防内服",
+   "generic": "ACRIPTEGA (Dolutegravir + Lamivudine + Tenofovir)",
+   "brandNames": [],
+   "classes": [
+    "Anti HIV medicine",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "650 mg (50 mg+300 mg+300 mg)",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Use for staff\nSource: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "ENTECAVIRETV-05MG",
+   "nameEn": "Entecavir (ETV)",
+   "nameJa": "【バラクルード】エンテカビル",
+   "generic": "Entecavir (ETV)",
+   "brandNames": [],
+   "classes": [
+    "Anti HBV medicine",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "0.5 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "LAMIVUDINELAM-100MG",
+   "nameEn": "Lamivudine (LAM)",
+   "nameJa": "【ゼフィックス】ラミブジン",
+   "generic": "Lamivudine (LAM)",
+   "brandNames": [],
+   "classes": [
+    "Anti HBV medicine",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "100 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "OSELTAMIVIROSL-45MG",
+   "nameEn": "Oseltamivir (OSL)",
+   "nameJa": "【タミフル】オセルタミビル",
+   "generic": "Oseltamivir (OSL)",
+   "brandNames": [],
+   "classes": [
+    "Anti Flu medicine",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "capsule",
+   "formLabel": "Capsule",
+   "strength": "45 mg",
+   "unit": "capsule",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "ALBENDAZOLEABZ-400MG",
+   "nameEn": "Albendazole (ABZ)",
+   "nameJa": "【エスカゾール】アルベンダゾール",
+   "generic": "Albendazole (ABZ)",
+   "brandNames": [],
+   "classes": [
+    "Anti cestodal medicine",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "400 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "IVERMECTINIVER-6MG",
+   "nameEn": "Ivermectin (IVER)",
+   "nameJa": "【ストロメクトール】イベルメクチン",
+   "generic": "Ivermectin (IVER)",
+   "brandNames": [],
+   "classes": [
+    "Anti cestodal medicine",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "6 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "ALBENDAZOLEABZ-400MG6M",
+   "nameEn": "Albendazole (ABZ) + Ivermectin (IVER)",
+   "nameJa": "",
+   "generic": "Albendazole (ABZ) + Ivermectin (IVER)",
+   "brandNames": [],
+   "classes": [
+    "Anti cestodal medicine",
+    "Anti-microbial medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "400 mg + 6 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.2"
+  },
+  {
+   "code": "LOPERAMIDE-2MG",
+   "nameEn": "Loperamide",
+   "nameJa": "【ロペミン】ロペラミド",
+   "generic": "Loperamide",
+   "brandNames": [],
+   "classes": [
+    "Anti diarrheal",
+    "Gastrointestinal medicines",
+    "Oral medicines"
+   ],
+   "form": "capsule",
+   "formLabel": "Capsule or Tablet",
+   "strength": "2 mg",
+   "unit": "capsule",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.3"
+  },
+  {
+   "code": "LOPERAMIDE-03MG",
+   "nameEn": "Loperamide",
+   "nameJa": "【ロペミン】ロペラミド",
+   "generic": "Loperamide",
+   "brandNames": [],
+   "classes": [
+    "Anti diarrheal",
+    "Gastrointestinal medicines",
+    "Oral medicines"
+   ],
+   "form": "powder",
+   "formLabel": "Powder",
+   "strength": "0.3 mg",
+   "unit": "sachet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.3"
+  },
+  {
+   "code": "NIFUROXAZIDE-200MG",
+   "nameEn": "Nifuroxazide",
+   "nameJa": "ニフロキサジド",
+   "generic": "Nifuroxazide",
+   "brandNames": [],
+   "classes": [
+    "Intestinal antiseptic",
+    "Gastrointestinal medicines",
+    "Oral medicines"
+   ],
+   "form": "capsule",
+   "formLabel": "Capsule",
+   "strength": "200 mg",
+   "unit": "capsule",
+   "isControlled": false,
+   "note": "Domestic donation\nSource: ACMC Essential Medicines, June 2026, p.3"
+  },
+  {
+   "code": "OMEPRAZOLE-20MG",
+   "nameEn": "Omeprazole",
+   "nameJa": "【オメプラール】オメプラゾール",
+   "generic": "Omeprazole",
+   "brandNames": [],
+   "classes": [
+    "Anti ulcer medicine (PPI)",
+    "Gastrointestinal medicines",
+    "Oral medicines"
+   ],
+   "form": "capsule",
+   "formLabel": "Capsule",
+   "strength": "20 mg",
+   "unit": "capsule",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.3"
+  },
+  {
+   "code": "CIMETIDINE-400MG",
+   "nameEn": "Cimetidine",
+   "nameJa": "【タガメット】シメチジン",
+   "generic": "Cimetidine",
+   "brandNames": [],
+   "classes": [
+    "Anti ulcer medicine (H2 blocker)",
+    "Gastrointestinal medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "400 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.3"
+  },
+  {
+   "code": "LACTOBASILLUSA-1000MG",
+   "nameEn": "Lactobasillus acidophilus",
+   "nameJa": "【≒ミヤBM】乳酸桿菌",
+   "generic": "Lactobasillus acidophilus",
+   "brandNames": [
+    "BIOREE Gran"
+   ],
+   "classes": [
+    "Viable bacterial preparation",
+    "Gastrointestinal medicines",
+    "Oral medicines"
+   ],
+   "form": "powder",
+   "formLabel": "Powder",
+   "strength": "1000 mg",
+   "unit": "sachet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.3"
+  },
+  {
+   "code": "MAGNESIUMLACTA-475MG47",
+   "nameEn": "Magnesium lactate dihydrate / Pyridoxine hydrochloride",
+   "nameJa": "乳酸マグネシウム＋ビタミンB6 緩下剤でなくMg/VB6補給薬だが、副作用の下痢を期待して使用 することあり",
+   "generic": "Magnesium lactate dihydrate / Pyridoxine hydrochloride",
+   "brandNames": [
+    "MAGNE-B6 corbiere"
+   ],
+   "classes": [
+    "Laxative",
+    "Gastrointestinal medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "475 mg (470 mg + 5 mg)",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.3"
+  },
+  {
+   "code": "BISACODYL-5MG",
+   "nameEn": "Bisacodyl",
+   "nameJa": "【テレミン】ビサコジル",
+   "generic": "Bisacodyl",
+   "brandNames": [],
+   "classes": [
+    "Laxative",
+    "Gastrointestinal medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "5 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Irritating laxative\nSource: ACMC Essential Medicines, June 2026, p.3"
+  },
+  {
+   "code": "LACTULOSE-10G15ML",
+   "nameEn": "Lactulose",
+   "nameJa": "【ピアーレ・モニラック】ラクツロース",
+   "generic": "Lactulose",
+   "brandNames": [],
+   "classes": [
+    "Laxative",
+    "Gastrointestinal medicines",
+    "Oral medicines"
+   ],
+   "form": "syrup",
+   "formLabel": "Syrup",
+   "strength": "10 g / 15 mL",
+   "unit": "ml",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.3"
+  },
+  {
+   "code": "METOCLOPRAMIDE-10MG",
+   "nameEn": "Metoclopramide",
+   "nameJa": "【プリンペラン】メトクロプラミド",
+   "generic": "Metoclopramide",
+   "brandNames": [],
+   "classes": [
+    "Antiemetic medicine",
+    "Gastrointestinal medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "10 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.3"
+  },
+  {
+   "code": "DOMPERIDONE-10MG",
+   "nameEn": "Domperidone",
+   "nameJa": "【ナウゼリン】ドンペリドン",
+   "generic": "Domperidone",
+   "brandNames": [],
+   "classes": [
+    "Antiemetic medicine",
+    "Gastrointestinal medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "10 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.3"
+  },
+  {
+   "code": "DOMPERIDONE-5MG5ML",
+   "nameEn": "Domperidone",
+   "nameJa": "【ナウゼリン】ドンペリドン",
+   "generic": "Domperidone",
+   "brandNames": [],
+   "classes": [
+    "Antiemetic medicine",
+    "Gastrointestinal medicines",
+    "Oral medicines"
+   ],
+   "form": "syrup",
+   "formLabel": "Syrup",
+   "strength": "5 mg / 5 mL",
+   "unit": "ml",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.3"
+  },
+  {
+   "code": "ONDANSETRON-8MG",
+   "nameEn": "Ondansetron",
+   "nameJa": "オンダンセトロン",
+   "generic": "Ondansetron",
+   "brandNames": [],
+   "classes": [
+    "Antiemetic medicine",
+    "Gastrointestinal medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "8 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Basically for chemo, ope, radi patients. (*Single use for gastroenteritis)\nSource: ACMC Essential Medicines, June 2026, p.3"
+  },
+  {
+   "code": "ONDANSETRON-4MG5ML",
+   "nameEn": "Ondansetron",
+   "nameJa": "オンダンセトロン",
+   "generic": "Ondansetron",
+   "brandNames": [],
+   "classes": [
+    "Antiemetic medicine",
+    "Gastrointestinal medicines",
+    "Oral medicines"
+   ],
+   "form": "syrup",
+   "formLabel": "Syrup",
+   "strength": "4 mg/ 5 ml",
+   "unit": "ml",
+   "isControlled": false,
+   "note": "Basically for chemo, ope, radi patients. (*Single use for gastroenteritis)\nSource: ACMC Essential Medicines, June 2026, p.3"
+  },
+  {
+   "code": "PHLOROGLUCINOL-80MG",
+   "nameEn": "Phloroglucinol hydrate",
+   "nameJa": "フロログルシノール（機序は異なるがブスコパンに類似）",
+   "generic": "Phloroglucinol hydrate",
+   "brandNames": [
+    "Safon"
+   ],
+   "classes": [
+    "Antispasmodic medicine",
+    "Gastrointestinal medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "80 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.3"
+  },
+  {
+   "code": "ALUMINIUMHYDRO-300MG",
+   "nameEn": "Aluminium hydroxide",
+   "nameJa": "【≒スクラルファート】水酸化アルミニウム",
+   "generic": "Aluminium hydroxide",
+   "brandNames": [],
+   "classes": [
+    "Antacids",
+    "Gastrointestinal medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "300 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.3"
+  },
+  {
+   "code": "MAGNESIUMHYDRO-400MG40",
+   "nameEn": "Magnesium hydroxide + Aluminium hydroxide",
+   "nameJa": "水酸化マグネシウム＋水酸化アルミニウム",
+   "generic": "Magnesium hydroxide + Aluminium hydroxide",
+   "brandNames": [
+    "Loxac"
+   ],
+   "classes": [
+    "Antacids",
+    "Gastrointestinal medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "400 mg + 400 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.3"
+  },
+  {
+   "code": "SODIUMBICARBON-300MG",
+   "nameEn": "Sodium bicarbonate",
+   "nameJa": "【重曹】炭酸水素ナトリウム",
+   "generic": "Sodium bicarbonate",
+   "brandNames": [],
+   "classes": [
+    "Antacids",
+    "Gastrointestinal medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "300 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.3"
+  },
+  {
+   "code": "ENTACIDPLUSSIM-30MG400",
+   "nameEn": "[ENTACID PLUS] Simethicone + Aluminium hydroxide + Magnesium hydroxide",
+   "nameJa": "【ガスコン+制酸剤】",
+   "generic": "[ENTACID PLUS] Simethicone + Aluminium hydroxide + Magnesium hydroxide",
+   "brandNames": [],
+   "classes": [
+    "Antacids combined",
+    "Gastrointestinal medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "30 mg + 400 mg + 400 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.3"
+  },
+  {
+   "code": "URSODEOXYCHOLI-200MG",
+   "nameEn": "Ursodeoxycholic acid",
+   "nameJa": "【ウルソ】ウルソデオキシコール酸",
+   "generic": "Ursodeoxycholic acid",
+   "brandNames": [],
+   "classes": [
+    "Bile acid preparation",
+    "Gastrointestinal medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "200mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.3"
+  },
+  {
+   "code": "ORALREHYDRATIO-POWD",
+   "nameEn": "Oral rehydration Salt (ORS / SRO)",
+   "nameJa": "【OS-1】経口補水液",
+   "generic": "Oral rehydration Salt (ORS / SRO)",
+   "brandNames": [],
+   "classes": [
+    "Medicines use in diarrhea",
+    "Gastrointestinal medicines",
+    "Oral medicines"
+   ],
+   "form": "powder",
+   "formLabel": "Powder for dilution",
+   "strength": "",
+   "unit": "sachet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.3"
+  },
+  {
+   "code": "ZINCSULPHATE-20MG",
+   "nameEn": "Zinc Sulphate",
+   "nameJa": "【≒プロマック・ジンタス】硫酸亜鉛",
+   "generic": "Zinc Sulphate",
+   "brandNames": [],
+   "classes": [
+    "Medicines use in diarrhea",
+    "Gastrointestinal medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "20 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.3"
+  },
+  {
+   "code": "DAIKENCHUTO-POWD",
+   "nameEn": "Daikenchu-to (大建中湯)",
+   "nameJa": "【大建中湯】1包あたり重量はメーカーで異なるためsachetで処方を",
+   "generic": "Daikenchu-to (大建中湯)",
+   "brandNames": [],
+   "classes": [
+    "Other(s)",
+    "Gastrointestinal medicines",
+    "Oral medicines"
+   ],
+   "form": "powder",
+   "formLabel": "Powder",
+   "strength": "",
+   "unit": "sachet",
+   "isControlled": false,
+   "note": "Donation from Japan\nSource: ACMC Essential Medicines, June 2026, p.3"
+  },
+  {
+   "code": "MONTELUKASTSOD-4MG",
+   "nameEn": "Montelukast sodium",
+   "nameJa": "【キプレス・シングレア】モンテルカスト",
+   "generic": "Montelukast sodium",
+   "brandNames": [],
+   "classes": [
+    "Leukotriene receptor antagonist",
+    "Antiallergics and medicines use in anaphylaxis",
+    "Oral medicines"
+   ],
+   "form": "powder",
+   "formLabel": "Powder",
+   "strength": "4 mg",
+   "unit": "sachet",
+   "isControlled": false,
+   "note": "Usable from 0.5 to 5 year-old\nSource: ACMC Essential Medicines, June 2026, p.3"
+  },
+  {
+   "code": "MONTELUKASTSOD-10MG",
+   "nameEn": "Montelukast sodium",
+   "nameJa": "【キプレス・シングレア】モンテルカスト",
+   "generic": "Montelukast sodium",
+   "brandNames": [],
+   "classes": [
+    "Leukotriene receptor antagonist",
+    "Antiallergics and medicines use in anaphylaxis",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "10 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Usable over 6 year-old\nSource: ACMC Essential Medicines, June 2026, p.3"
+  },
+  {
+   "code": "MONTELUKASTLEV-10MG5MG",
+   "nameEn": "Montelukast + Levocetirizine",
+   "nameJa": "【キプレス・シングレア＋ザイザル】",
+   "generic": "Montelukast + Levocetirizine",
+   "brandNames": [],
+   "classes": [
+    "Combination drug",
+    "Antiallergics and medicines use in anaphylaxis",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "10 mg + 5 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Domestic donation\nSource: ACMC Essential Medicines, June 2026, p.3"
+  },
+  {
+   "code": "CHLORPHENIRAMI-4MG",
+   "nameEn": "Chlorpheniramine",
+   "nameJa": "【≒ポララミン】クロルフェニラミン （日本はd体のみ）",
+   "generic": "Chlorpheniramine",
+   "brandNames": [],
+   "classes": [
+    "Ｈ1-antagonist (first-generation)",
+    "Antiallergics and medicines use in anaphylaxis",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "4 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Usable over 2 year-old\nSource: ACMC Essential Medicines, June 2026, p.3"
+  },
+  {
+   "code": "CHLORPHENIRAMI-4MG5ML",
+   "nameEn": "Chlorpheniramine",
+   "nameJa": "【≒ポララミン】クロルフェニラミン （日本はd体のみ）",
+   "generic": "Chlorpheniramine",
+   "brandNames": [],
+   "classes": [
+    "Ｈ1-antagonist (first-generation)",
+    "Antiallergics and medicines use in anaphylaxis",
+    "Oral medicines"
+   ],
+   "form": "syrup",
+   "formLabel": "Syrup",
+   "strength": "4 mg / 5 ml",
+   "unit": "ml",
+   "isControlled": false,
+   "note": "Usable over 2 year-old\nSource: ACMC Essential Medicines, June 2026, p.3"
+  },
+  {
+   "code": "PROMETHAZINE-25MG",
+   "nameEn": "Promethazine",
+   "nameJa": "【ヒベルナ】プロメタジン",
+   "generic": "Promethazine",
+   "brandNames": [],
+   "classes": [
+    "Ｈ1-antagonist (first-generation)",
+    "Antiallergics and medicines use in anaphylaxis",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "25 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Domestic donation Usable over 2 year-old\nSource: ACMC Essential Medicines, June 2026, p.3"
+  },
+  {
+   "code": "PROMETHAZINE-5MG5MLI",
+   "nameEn": "Promethazine",
+   "nameJa": "【ヒベルナ】プロメタジン",
+   "generic": "Promethazine",
+   "brandNames": [],
+   "classes": [
+    "Ｈ1-antagonist (first-generation)",
+    "Antiallergics and medicines use in anaphylaxis",
+    "Oral medicines"
+   ],
+   "form": "syrup",
+   "formLabel": "Syrup",
+   "strength": "5 mg / 5 ml in 100 ml",
+   "unit": "ml",
+   "isControlled": false,
+   "note": "Domestic donation Usable over 2 year-old\nSource: ACMC Essential Medicines, June 2026, p.3"
+  },
+  {
+   "code": "CETIRIZINE-10MG",
+   "nameEn": "Cetirizine",
+   "nameJa": "【ジルテック】セチリジン",
+   "generic": "Cetirizine",
+   "brandNames": [],
+   "classes": [
+    "Ｈ1-antagonist (first-generation)",
+    "Antiallergics and medicines use in anaphylaxis",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "10 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Usable over 6 month-old\nSource: ACMC Essential Medicines, June 2026, p.3"
+  },
+  {
+   "code": "FEXOFENADINE-120MG",
+   "nameEn": "Fexofenadine",
+   "nameJa": "【アレグラ】フェキソフェナジン",
+   "generic": "Fexofenadine",
+   "brandNames": [],
+   "classes": [
+    "Ｈ1-antagonist (second-generation)",
+    "Antiallergics and medicines use in anaphylaxis",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "120 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Domestic donation Usable over 2 year-old\nSource: ACMC Essential Medicines, June 2026, p.3"
+  },
+  {
+   "code": "DESLORATADINE-5MG",
+   "nameEn": "Desloratadine",
+   "nameJa": "【デザレックス】デスロラタジン",
+   "generic": "Desloratadine",
+   "brandNames": [],
+   "classes": [
+    "Ｈ1-antagonist (second-generation)",
+    "Antiallergics and medicines use in anaphylaxis",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "5 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Usable over 6 month-old\nSource: ACMC Essential Medicines, June 2026, p.3"
+  },
+  {
+   "code": "DESLORATADINE-25MG5ML",
+   "nameEn": "Desloratadine",
+   "nameJa": "【デザレックス】デスロラタジン",
+   "generic": "Desloratadine",
+   "brandNames": [],
+   "classes": [
+    "Ｈ1-antagonist (second-generation)",
+    "Antiallergics and medicines use in anaphylaxis",
+    "Oral medicines"
+   ],
+   "form": "syrup",
+   "formLabel": "Syrup",
+   "strength": "2.5 mg / 5 ml",
+   "unit": "ml",
+   "isControlled": false,
+   "note": "Usable over 6 month-old\nSource: ACMC Essential Medicines, June 2026, p.3"
+  },
+  {
+   "code": "CARBOCISTEINE-375MG",
+   "nameEn": "Carbocisteine",
+   "nameJa": "【ムコダイン】カルボシステイン",
+   "generic": "Carbocisteine",
+   "brandNames": [],
+   "classes": [
+    "Expectorants",
+    "Medicines acting on respiratory tract",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "375 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.4"
+  },
+  {
+   "code": "CARBOCISTEINE-100MG5M",
+   "nameEn": "Carbocisteine",
+   "nameJa": "【ムコダイン】カルボシステイン",
+   "generic": "Carbocisteine",
+   "brandNames": [],
+   "classes": [
+    "Expectorants",
+    "Medicines acting on respiratory tract",
+    "Oral medicines"
+   ],
+   "form": "syrup",
+   "formLabel": "Syrup",
+   "strength": "100 mg / 5 ml",
+   "unit": "ml",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.4"
+  },
+  {
+   "code": "BROMHEXINE-4MG",
+   "nameEn": "Bromhexine",
+   "nameJa": "【ビソルボン】ブロムヘキシン",
+   "generic": "Bromhexine",
+   "brandNames": [],
+   "classes": [
+    "Expectorants",
+    "Medicines acting on respiratory tract",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "4 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.4"
+  },
+  {
+   "code": "BROMHEXINE-8MG",
+   "nameEn": "Bromhexine",
+   "nameJa": "【ビソルボン】ブロムヘキシン",
+   "generic": "Bromhexine",
+   "brandNames": [],
+   "classes": [
+    "Expectorants",
+    "Medicines acting on respiratory tract",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "8 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.4"
+  },
+  {
+   "code": "BROMHEXINE-4MG5MLI",
+   "nameEn": "Bromhexine",
+   "nameJa": "【ビソルボン】ブロムヘキシン",
+   "generic": "Bromhexine",
+   "brandNames": [],
+   "classes": [
+    "Expectorants",
+    "Medicines acting on respiratory tract",
+    "Oral medicines"
+   ],
+   "form": "syrup",
+   "formLabel": "Syrup",
+   "strength": "4 mg / 5 ml in 100 ml",
+   "unit": "ml",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.4"
+  },
+  {
+   "code": "DEXTROMETHORPH-15MG",
+   "nameEn": "Dextromethorphan",
+   "nameJa": "【メジコン】デキストロメトルファン",
+   "generic": "Dextromethorphan",
+   "brandNames": [],
+   "classes": [
+    "Central antitussive",
+    "Medicines acting on respiratory tract",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "15 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.4"
+  },
+  {
+   "code": "DEXTROMETHORPH-5MG5ML",
+   "nameEn": "Dextromethorphan",
+   "nameJa": "【メジコン】デキストロメトルファン",
+   "generic": "Dextromethorphan",
+   "brandNames": [],
+   "classes": [
+    "Central antitussive",
+    "Medicines acting on respiratory tract",
+    "Oral medicines"
+   ],
+   "form": "syrup",
+   "formLabel": "Syrup",
+   "strength": "5 mg / 5 ml",
+   "unit": "ml",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.4"
+  },
+  {
+   "code": "THEOPHYLLINE-100MG",
+   "nameEn": "Theophylline",
+   "nameJa": "【テオドール】テオフィリン",
+   "generic": "Theophylline",
+   "brandNames": [],
+   "classes": [
+    "Xanthine derivative",
+    "Medicines acting on respiratory tract",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "100 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.4"
+  },
+  {
+   "code": "SALBUTAMOL-2MG",
+   "nameEn": "Salbutamol",
+   "nameJa": "【ベネトリン】サルブタモール",
+   "generic": "Salbutamol",
+   "brandNames": [],
+   "classes": [
+    "β2 stimulant",
+    "Medicines acting on respiratory tract",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "2 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Also available as a nebulizer or an inhaler\nSource: ACMC Essential Medicines, June 2026, p.4"
+  },
+  {
+   "code": "CODEINEPHOSPHA-30MG",
+   "nameEn": "Codeine phosphate",
+   "nameJa": "【リンコデ】コデインリン酸塩",
+   "generic": "Codeine phosphate",
+   "brandNames": [],
+   "classes": [
+    "Narcotic antitussive",
+    "Medicines acting on respiratory tract",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "30 mg",
+   "unit": "tablet",
+   "isControlled": true,
+   "note": "Should not use under 8 yo\nSource: ACMC Essential Medicines, June 2026, p.4"
+  },
+  {
+   "code": "DIHYDROCODEINE-5MG50MG",
+   "nameEn": "Dihydrocodeine / Guaifenesin / Dl- Methylephedrine HCl / Chlorpheniramine maleate",
+   "nameJa": "【≒フスコデ＋去痰成分】",
+   "generic": "Dihydrocodeine / Guaifenesin / Dl- Methylephedrine HCl / Chlorpheniramine maleate",
+   "brandNames": [
+    "NEO-K"
+   ],
+   "classes": [
+    "Potent antitussives, Expectorants",
+    "Medicines acting on respiratory tract",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "5 mg / 50 mg / 17.5 mg / 1.5 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Should not use under 8 yo\nSource: ACMC Essential Medicines, June 2026, p.4"
+  },
+  {
+   "code": "AMLODIPINE-5MG",
+   "nameEn": "Amlodipine",
+   "nameJa": "【ノルバスク】アムロジピン",
+   "generic": "Amlodipine",
+   "brandNames": [],
+   "classes": [
+    "Anti-hypertensive medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "5 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Usable for pregnant women\nSource: ACMC Essential Medicines, June 2026, p.4"
+  },
+  {
+   "code": "AMLODIPINE-10MG",
+   "nameEn": "Amlodipine",
+   "nameJa": "【ノルバスク】アムロジピン",
+   "generic": "Amlodipine",
+   "brandNames": [],
+   "classes": [
+    "Calcium antagonist",
+    "Anti-hypertensive medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "10 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Usable for pregnant women\nCurrently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.4"
+  },
+  {
+   "code": "NIFEDIPINE-10MGPRO",
+   "nameEn": "Nifedipine",
+   "nameJa": "【アダラート】ニフェジピン",
+   "generic": "Nifedipine",
+   "brandNames": [],
+   "classes": [
+    "Calcium antagonist",
+    "Anti-hypertensive medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "10 mg (Prolonged Release)",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Usable for pregnant women\nSource: ACMC Essential Medicines, June 2026, p.4"
+  },
+  {
+   "code": "NIFEDIPINE-20MGPRO",
+   "nameEn": "Nifedipine",
+   "nameJa": "【アダラート】ニフェジピン",
+   "generic": "Nifedipine",
+   "brandNames": [],
+   "classes": [
+    "Calcium antagonist",
+    "Anti-hypertensive medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "20 mg (Prolonged Release)",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Usable for pregnant women\nCurrently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.4"
+  },
+  {
+   "code": "RAMIPRIL-125MG",
+   "nameEn": "Ramipril",
+   "nameJa": "【アルテース】ラミプリル",
+   "generic": "Ramipril",
+   "brandNames": [],
+   "classes": [
+    "ACE inhibitors",
+    "Anti-hypertensive medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "1.25 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.4"
+  },
+  {
+   "code": "CAPTOPRIL-25MG",
+   "nameEn": "Captopril",
+   "nameJa": "【カプトリル】カプトプリル",
+   "generic": "Captopril",
+   "brandNames": [],
+   "classes": [
+    "ACE inhibitors",
+    "Anti-hypertensive medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "25 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.4"
+  },
+  {
+   "code": "TELMISARTAN-40MG",
+   "nameEn": "Telmisartan",
+   "nameJa": "【ロサルタン】テルミサルタン",
+   "generic": "Telmisartan",
+   "brandNames": [],
+   "classes": [
+    "ARB",
+    "Anti-hypertensive medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "40 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.4"
+  },
+  {
+   "code": "LOSARTAN-50MG",
+   "nameEn": "Losartan",
+   "nameJa": "【ニューロタン】ロサルタン",
+   "generic": "Losartan",
+   "brandNames": [],
+   "classes": [
+    "ARB",
+    "Anti-hypertensive medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "50 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.4"
+  },
+  {
+   "code": "PROPRANOLOL-10MG",
+   "nameEn": "Propranolol",
+   "nameJa": "【インデラル】プロプラノロール",
+   "generic": "Propranolol",
+   "brandNames": [],
+   "classes": [
+    "β-blocker",
+    "Anti-hypertensive medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "10 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.4"
+  },
+  {
+   "code": "PROPRANOLOL-40MG",
+   "nameEn": "Propranolol",
+   "nameJa": "【インデラル】プロプラノロール",
+   "generic": "Propranolol",
+   "brandNames": [],
+   "classes": [
+    "β-blocker",
+    "Anti-hypertensive medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "40 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.4"
+  },
+  {
+   "code": "ATENOLOL-50MG",
+   "nameEn": "Atenolol",
+   "nameJa": "【テノーミン】アテノロール",
+   "generic": "Atenolol",
+   "brandNames": [],
+   "classes": [
+    "β1-selective-blocker",
+    "Anti-hypertensive medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "50 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.4"
+  },
+  {
+   "code": "ATENOLOL-100MG",
+   "nameEn": "Atenolol",
+   "nameJa": "【テノーミン】アテノロール",
+   "generic": "Atenolol",
+   "brandNames": [],
+   "classes": [
+    "β1-selective-blocker",
+    "Anti-hypertensive medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "100 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.4"
+  },
+  {
+   "code": "METHYLDOPA-250MG",
+   "nameEn": "Methyldopa",
+   "nameJa": "【アルドメット】メチルドパ",
+   "generic": "Methyldopa",
+   "brandNames": [],
+   "classes": [
+    "α2-stimulant",
+    "Anti-hypertensive medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "250 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Usable for pregnant women\nCurrently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.4"
+  },
+  {
+   "code": "FUROSEMIDE-40MG",
+   "nameEn": "Furosemide",
+   "nameJa": "【ラシックス】フロセミド",
+   "generic": "Furosemide",
+   "brandNames": [],
+   "classes": [
+    "Loop diuretics",
+    "Diuretic medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "40 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.4"
+  },
+  {
+   "code": "SPIRONOLACTONE-25MG",
+   "nameEn": "Spironolactone",
+   "nameJa": "【アルダクトン】スピロノラクトン",
+   "generic": "Spironolactone",
+   "brandNames": [],
+   "classes": [
+    "K-sparing diuretics",
+    "Diuretic medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "25 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.4"
+  },
+  {
+   "code": "HYDROCHLOROTHI-25MG",
+   "nameEn": "Hydrochlorothiazide",
+   "nameJa": "ヒドロクロロチアジド",
+   "generic": "Hydrochlorothiazide",
+   "brandNames": [],
+   "classes": [
+    "Thiazide diuretics",
+    "Diuretic medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "25 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.4"
+  },
+  {
+   "code": "HYDROCHLOROTHI-50MG",
+   "nameEn": "Hydrochlorothiazide",
+   "nameJa": "ヒドロクロロチアジド",
+   "generic": "Hydrochlorothiazide",
+   "brandNames": [],
+   "classes": [
+    "Thiazide diuretics",
+    "Diuretic medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "50 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.4"
+  },
+  {
+   "code": "ACETAZOLAMID-250MG",
+   "nameEn": "Acetazolamid",
+   "nameJa": "【ダイアモックス】アセタゾラミド",
+   "generic": "Acetazolamid",
+   "brandNames": [],
+   "classes": [
+    "Carbonic anhydrase inhibitor",
+    "Diuretic medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "250 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.4"
+  },
+  {
+   "code": "NITROGLYCERIN-26MG",
+   "nameEn": "Nitroglycerin",
+   "nameJa": "【ニトロペン】ニトログリセリン",
+   "generic": "Nitroglycerin",
+   "brandNames": [],
+   "classes": [
+    "Nitrate",
+    "Angina pectoris medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "2.6 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.4"
+  },
+  {
+   "code": "ISOSORBIDEDINI-5MG",
+   "nameEn": "Isosorbide dinitrate",
+   "nameJa": "【ニトロール】硝酸イソソルビド",
+   "generic": "Isosorbide dinitrate",
+   "brandNames": [],
+   "classes": [
+    "Nitrate",
+    "Angina pectoris medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Sublingual tablet",
+   "strength": "5 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.4"
+  },
+  {
+   "code": "DIGOXIN-025MG",
+   "nameEn": "Digoxin",
+   "nameJa": "【ジゴシン】ジゴキシン",
+   "generic": "Digoxin",
+   "brandNames": [],
+   "classes": [
+    "Digitalis",
+    "Angina pectoris medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "0.25 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.4"
+  },
+  {
+   "code": "ASPIRIN-81MG",
+   "nameEn": "Aspirin",
+   "nameJa": "【≒バイアスピリン】アスピリン",
+   "generic": "Aspirin",
+   "brandNames": [],
+   "classes": [
+    "Cyclooxygenase inhibitor",
+    "Antithrombocytic agent",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "81 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.5"
+  },
+  {
+   "code": "CLOPIDOGREL-75MG",
+   "nameEn": "Clopidogrel",
+   "nameJa": "【プラビックス】クロピドグレル",
+   "generic": "Clopidogrel",
+   "brandNames": [],
+   "classes": [
+    "Antiplatelet",
+    "Antithrombocytic agent",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "75 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.5"
+  },
+  {
+   "code": "WARFARINESODIU-2MG",
+   "nameEn": "Warfarine sodium",
+   "nameJa": "【ワルファリンK】ワーファリン",
+   "generic": "Warfarine sodium",
+   "brandNames": [],
+   "classes": [
+    "Anticoagulant",
+    "Antithrombocytic agent",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "2 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.5"
+  },
+  {
+   "code": "WARFARINESODIU-3MG",
+   "nameEn": "Warfarine sodium",
+   "nameJa": "【ワルファリンK】ワーファリン",
+   "generic": "Warfarine sodium",
+   "brandNames": [],
+   "classes": [
+    "Anticoagulant",
+    "Antithrombocytic agent",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "3 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.5"
+  },
+  {
+   "code": "SIMVASTATIN-10MG",
+   "nameEn": "Simvastatin",
+   "nameJa": "【リポバス】シンバスタチン",
+   "generic": "Simvastatin",
+   "brandNames": [],
+   "classes": [
+    "Inhibitor of HMG-CoA reductase",
+    "Dyslipidemia medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "10 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.5"
+  },
+  {
+   "code": "ATORVASTATIN-10MG",
+   "nameEn": "Atorvastatin",
+   "nameJa": "【リピトール】アトルバスタチン",
+   "generic": "Atorvastatin",
+   "brandNames": [],
+   "classes": [
+    "Inhibitor of HMG-CoA reductase (Strong)",
+    "Dyslipidemia medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "10 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.5"
+  },
+  {
+   "code": "ROSUVASTATIN-20MG",
+   "nameEn": "Rosuvastatin",
+   "nameJa": "【クレストール】ロスバスタチン",
+   "generic": "Rosuvastatin",
+   "brandNames": [],
+   "classes": [
+    "Inhibitor of HMG-CoA reductase (Strong)",
+    "Dyslipidemia medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "20 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.5"
+  },
+  {
+   "code": "GLIBENCLAMIDE-5MG",
+   "nameEn": "Glibenclamide",
+   "nameJa": "【オイグルコン】グリベンクラミド",
+   "generic": "Glibenclamide",
+   "brandNames": [],
+   "classes": [
+    "Sulfonylurea",
+    "Diabetes medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "5 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.5"
+  },
+  {
+   "code": "METFORMIN-500MG",
+   "nameEn": "Metformin",
+   "nameJa": "【メトグルコ】メトホルミン",
+   "generic": "Metformin",
+   "brandNames": [],
+   "classes": [
+    "Biguanide",
+    "Diabetes medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "500 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.5"
+  },
+  {
+   "code": "CARBIMAZOLE-5MG",
+   "nameEn": "Carbimazole",
+   "nameJa": "【≒メルカゾール】カルビマゾール",
+   "generic": "Carbimazole",
+   "brandNames": [],
+   "classes": [
+    "Anti-hyperthyroidism drugs",
+    "Thyroid disease medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "5 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.5"
+  },
+  {
+   "code": "PROPYLTHIOURAC-50MG",
+   "nameEn": "Propylthiouracil",
+   "nameJa": "【チウラジール】プロピオチオウラシル",
+   "generic": "Propylthiouracil",
+   "brandNames": [],
+   "classes": [
+    "Anti-hyperthyroidism drugs",
+    "Thyroid disease medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "50 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.5"
+  },
+  {
+   "code": "LEVOTHYROXINE-50G",
+   "nameEn": "Levothyroxine",
+   "nameJa": "【チラーヂン】レボチロキシン",
+   "generic": "Levothyroxine",
+   "brandNames": [],
+   "classes": [
+    "Thyroid hormone throxine",
+    "Thyroid disease medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "50 μg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.5"
+  },
+  {
+   "code": "LEVOTHYROXINE-100G",
+   "nameEn": "Levothyroxine",
+   "nameJa": "【チラーヂン】レボチロキシン",
+   "generic": "Levothyroxine",
+   "brandNames": [],
+   "classes": [
+    "Thyroid hormone throxine",
+    "Thyroid disease medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "100 μg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.5"
+  },
+  {
+   "code": "ALLOPURINOL-100MG",
+   "nameEn": "Allopurinol",
+   "nameJa": "【ザイロリック】アロプリノール",
+   "generic": "Allopurinol",
+   "brandNames": [],
+   "classes": [
+    "Xanthine oxidase inhibitor",
+    "Hyperuricemia medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "100 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.5"
+  },
+  {
+   "code": "ALLOPURINOL-300MG",
+   "nameEn": "Allopurinol",
+   "nameJa": "【ザイロリック】アロプリノール",
+   "generic": "Allopurinol",
+   "brandNames": [],
+   "classes": [
+    "Xanthine oxidase inhibitor",
+    "Hyperuricemia medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "300 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.5"
+  },
+  {
+   "code": "COLCHICINE-1MG",
+   "nameEn": "Colchicine",
+   "nameJa": "コルヒチン",
+   "generic": "Colchicine",
+   "brandNames": [],
+   "classes": [
+    "Anti inflammatory medicine",
+    "Hyperuricemia medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "1 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.5"
+  },
+  {
+   "code": "LEVONORGESTREL-150G30G",
+   "nameEn": "Levonorgestrel + Ethinyloestradiol",
+   "nameJa": "低用量ピル",
+   "generic": "Levonorgestrel + Ethinyloestradiol",
+   "brandNames": [],
+   "classes": [
+    "Hormonal contraceptive",
+    "Gynecological medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "150 µg + 30 µg + 75 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.5"
+  },
+  {
+   "code": "MISOPROSTOL-200G",
+   "nameEn": "Misoprostol",
+   "nameJa": "【サイトテック】ミソプロストール",
+   "generic": "Misoprostol",
+   "brandNames": [],
+   "classes": [
+    "Prostaglandin analog",
+    "Gynecological medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "200 μg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.5"
+  },
+  {
+   "code": "BROMOCRIPTINE-25MG",
+   "nameEn": "Bromocriptine",
+   "nameJa": "【パーロデル】ブロモクリプチン",
+   "generic": "Bromocriptine",
+   "brandNames": [],
+   "classes": [
+    "DopaminⅡagonist",
+    "Gynecological medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "2.5 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.5"
+  },
+  {
+   "code": "CLOMIFENE-50MG",
+   "nameEn": "Clomifene",
+   "nameJa": "【クロミッド】クロミフェン",
+   "generic": "Clomifene",
+   "brandNames": [],
+   "classes": [
+    "Ovulation induction",
+    "Gynecological medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "50 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.5"
+  },
+  {
+   "code": "TAMSULOSIN-04MG",
+   "nameEn": "Tamsulosin",
+   "nameJa": "【ハルナール】タムスロシン",
+   "generic": "Tamsulosin",
+   "brandNames": [],
+   "classes": [
+    "α1-blocker (for BPH)",
+    "Uro-genital agents",
+    "Oral medicines"
+   ],
+   "form": "capsule",
+   "formLabel": "Capsule",
+   "strength": "0.4 mg",
+   "unit": "capsule",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.5"
+  },
+  {
+   "code": "FLAVOXATE-200MG",
+   "nameEn": "Flavoxate",
+   "nameJa": "【ブラダロン】フラボキサート",
+   "generic": "Flavoxate",
+   "brandNames": [],
+   "classes": [
+    "Anticholinergic agent (for OAB)",
+    "Uro-genital agents",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "200 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.5"
+  },
+  {
+   "code": "BETAMETHASONE-025MG",
+   "nameEn": "Betamethasone",
+   "nameJa": "【リンデロン】ベタメタゾン",
+   "generic": "Betamethasone",
+   "brandNames": [],
+   "classes": [
+    "Longest acting Steroid",
+    "Adrenocorticoid medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "0.25 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.6"
+  },
+  {
+   "code": "DEXAMETHASONE-05MG",
+   "nameEn": "Dexamethasone",
+   "nameJa": "【デカドロン】デキサメタゾン",
+   "generic": "Dexamethasone",
+   "brandNames": [],
+   "classes": [
+    "Longest acting Steroid",
+    "Adrenocorticoid medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "0.5 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.6"
+  },
+  {
+   "code": "METHYLPREDONIS-16MG",
+   "nameEn": "Methylpredonisolone",
+   "nameJa": "【メドロール】メチルプレドニゾロン",
+   "generic": "Methylpredonisolone",
+   "brandNames": [],
+   "classes": [
+    "Intermediate acting Steroid",
+    "Adrenocorticoid medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "16 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.6"
+  },
+  {
+   "code": "PREDNISOLONE-5MG",
+   "nameEn": "Prednisolone",
+   "nameJa": "【プレドニン】プレドニゾロン",
+   "generic": "Prednisolone",
+   "brandNames": [],
+   "classes": [
+    "Intermediate acting Steroid",
+    "Adrenocorticoid medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "5 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.6"
+  },
+  {
+   "code": "FOLICACID-5MG",
+   "nameEn": "Folic Acid",
+   "nameJa": "【フォリアミン】葉酸",
+   "generic": "Folic Acid",
+   "brandNames": [],
+   "classes": [
+    "Anti-anaemic medicines",
+    "Medicines affecting the blood",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "5 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.6"
+  },
+  {
+   "code": "FERROUSSULFATE-200MGEQ",
+   "nameEn": "Ferrous sulfate",
+   "nameJa": "【≒フェログラデュメット】硫酸鉄",
+   "generic": "Ferrous sulfate",
+   "brandNames": [],
+   "classes": [
+    "Anti-anaemic medicines",
+    "Medicines affecting the blood",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "200 mg (eq. to 65 mg of Iron)",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.6"
+  },
+  {
+   "code": "FERRICAMMONIUM-250MG5M",
+   "nameEn": "Ferric ammonium citrate with Folic acid / Vit. B12",
+   "nameJa": "【≒インクレミン】クエン酸鉄アンモニウム",
+   "generic": "Ferric ammonium citrate with Folic acid / Vit. B12",
+   "brandNames": [
+    "FERVITAL"
+   ],
+   "classes": [
+    "Anti-anaemic medicines",
+    "Medicines affecting the blood",
+    "Oral medicines"
+   ],
+   "form": "syrup",
+   "formLabel": "Syrup",
+   "strength": "250 mg / 5 ml in 100 ml (eq. to 41 mg of Iron)",
+   "unit": "ml",
+   "isControlled": false,
+   "note": "Use for pediatrics\nCurrently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.6"
+  },
+  {
+   "code": "TRANEXAMICACID-250MG",
+   "nameEn": "Tranexamic Acid",
+   "nameJa": "【トランサミン】トラネキサム酸",
+   "generic": "Tranexamic Acid",
+   "brandNames": [],
+   "classes": [
+    "Antiplasmin medicine",
+    "Medicines affecting the blood",
+    "Oral medicines"
+   ],
+   "form": "capsule",
+   "formLabel": "Capsule or Tablet",
+   "strength": "250 mg",
+   "unit": "capsule",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.6"
+  },
+  {
+   "code": "TRANEXAMICACID-500MG",
+   "nameEn": "Tranexamic Acid",
+   "nameJa": "【トランサミン】トラネキサム酸",
+   "generic": "Tranexamic Acid",
+   "brandNames": [],
+   "classes": [
+    "Antiplasmin medicine",
+    "Medicines affecting the blood",
+    "Oral medicines"
+   ],
+   "form": "capsule",
+   "formLabel": "Capsule or Tablet",
+   "strength": "500 mg",
+   "unit": "capsule",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.6"
+  },
+  {
+   "code": "BETAHISTINEDIH-16MG",
+   "nameEn": "Betahistine dihydrochloride",
+   "nameJa": "【≒メリスロン】ベタヒスチン塩酸塩",
+   "generic": "Betahistine dihydrochloride",
+   "brandNames": [],
+   "classes": [
+    "Antivertigo medicines",
+    "Centrally acting drugs medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "16 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.6"
+  },
+  {
+   "code": "DIAZEPAM-5MG",
+   "nameEn": "Diazepam",
+   "nameJa": "【セルシン・ホリゾン】ジアゼパム",
+   "generic": "Diazepam",
+   "brandNames": [],
+   "classes": [
+    "Antianxiety medicines (Benzodiazepine)",
+    "Centrally acting drugs medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "5 mg",
+   "unit": "tablet",
+   "isControlled": true,
+   "note": "Long-time acting\nSource: ACMC Essential Medicines, June 2026, p.6"
+  },
+  {
+   "code": "ALPRAZOLAM-05MG",
+   "nameEn": "Alprazolam",
+   "nameJa": "【ソラナックス・コンスタン】アルプラゾラム",
+   "generic": "Alprazolam",
+   "brandNames": [],
+   "classes": [
+    "Antianxiety medicines (Benzodiazepine)",
+    "Centrally acting drugs medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "0.5 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Intermediate acting\nSource: ACMC Essential Medicines, June 2026, p.6"
+  },
+  {
+   "code": "RISPERIDONE-2MG",
+   "nameEn": "Risperidone",
+   "nameJa": "【リスパダール】リスペリドン",
+   "generic": "Risperidone",
+   "brandNames": [],
+   "classes": [
+    "Serotonin-dopamine antagonist",
+    "Centrally acting drugs medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "2 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.6"
+  },
+  {
+   "code": "AMITRIPTYLINE-25MG",
+   "nameEn": "Amitriptyline",
+   "nameJa": "【トリプタノール】アミトリプチリン",
+   "generic": "Amitriptyline",
+   "brandNames": [],
+   "classes": [
+    "Antidepressants",
+    "Centrally acting drugs medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "25 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "TCA\nSource: ACMC Essential Medicines, June 2026, p.6"
+  },
+  {
+   "code": "ESCITALOPRAM-10MG",
+   "nameEn": "Escitalopram",
+   "nameJa": "【レクサプロ】エスシタロプラム",
+   "generic": "Escitalopram",
+   "brandNames": [],
+   "classes": [
+    "Antidepressants",
+    "Centrally acting drugs medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "10 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "SSRI\nSource: ACMC Essential Medicines, June 2026, p.6"
+  },
+  {
+   "code": "DULOXETINEHYDR-20MG",
+   "nameEn": "Duloxetine hydrochloride",
+   "nameJa": "【サインバルタ】デュロキセチン",
+   "generic": "Duloxetine hydrochloride",
+   "brandNames": [],
+   "classes": [
+    "Antidepressants",
+    "Centrally acting drugs medicines",
+    "Oral medicines"
+   ],
+   "form": "capsule",
+   "formLabel": "Capsule",
+   "strength": "20 mg",
+   "unit": "capsule",
+   "isControlled": false,
+   "note": "SNRI, Donation from Japan\nSource: ACMC Essential Medicines, June 2026, p.6"
+  },
+  {
+   "code": "PHENOBARBITAL-100MG",
+   "nameEn": "Phenobarbital",
+   "nameJa": "【フェノバール】フェノバルビタール",
+   "generic": "Phenobarbital",
+   "brandNames": [],
+   "classes": [
+    "Antiepileptic medicines",
+    "Centrally acting drugs medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "100 mg",
+   "unit": "tablet",
+   "isControlled": true,
+   "note": "Injection (Donation from Japan) in stock\nCurrently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.6"
+  },
+  {
+   "code": "LEVETIRASETAM-500MG",
+   "nameEn": "Levetirasetam",
+   "nameJa": "【イーケプラ】レベチラセタム",
+   "generic": "Levetirasetam",
+   "brandNames": [],
+   "classes": [
+    "Antiepileptic medicines",
+    "Centrally acting drugs medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "500 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.6"
+  },
+  {
+   "code": "YOKUKANSAN-POWD",
+   "nameEn": "Yokukansan (抑肝散)",
+   "nameJa": "",
+   "generic": "Yokukansan (抑肝散)",
+   "brandNames": [],
+   "classes": [
+    "Other",
+    "Centrally acting drugs medicines",
+    "Oral medicines"
+   ],
+   "form": "powder",
+   "formLabel": "Powder",
+   "strength": "",
+   "unit": "sachet",
+   "isControlled": false,
+   "note": "Donation from Japan\nSource: ACMC Essential Medicines, June 2026, p.6"
+  },
+  {
+   "code": "POTASSIUMCHLOR-600MG",
+   "nameEn": "Potassium chloride",
+   "nameJa": "【≒ケーサプライ】塩化カリウム",
+   "generic": "Potassium chloride",
+   "brandNames": [
+    "Kaleorid"
+   ],
+   "classes": [
+    "Potassium compound",
+    "Vitamins and electrolyte supplements",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "600 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.6"
+  },
+  {
+   "code": "CALCIUMVITAMIN-600MG40",
+   "nameEn": "Calcium + Vitamin D3",
+   "nameJa": "【≒カルシトリオール】カルシウム＋ビタミンD3",
+   "generic": "Calcium + Vitamin D3",
+   "brandNames": [],
+   "classes": [
+    "Calcium compound",
+    "Vitamins and electrolyte supplements",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "600 mg + 400 IU",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.6"
+  },
+  {
+   "code": "MULTIVITAMINMI-200ML",
+   "nameEn": "Multivitamin & Mineral",
+   "nameJa": "",
+   "generic": "Multivitamin & Mineral",
+   "brandNames": [
+    "Curcuma Plus"
+   ],
+   "classes": [
+    "Multivitamin & Mineral",
+    "Vitamins and electrolyte supplements",
+    "Oral medicines"
+   ],
+   "form": "syrup",
+   "formLabel": "Syrup",
+   "strength": "200 ml",
+   "unit": "ml",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.6"
+  },
+  {
+   "code": "MULTIVITAMINS-VITAMIN",
+   "nameEn": "Multivitamins",
+   "nameJa": "マルチビタミン",
+   "generic": "Multivitamins",
+   "brandNames": [],
+   "classes": [
+    "Vitamins",
+    "Vitamins and electrolyte supplements",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "Vitamin A = 5000 IU, Vitamin D3 = 400 IU, Vitamin B1 = 5 mg, Vitamin B2 = 4 mg, Vitamin C = 50 mg, Nicotinamide = 20 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.6"
+  },
+  {
+   "code": "MULTIVITAMINS-SYRU",
+   "nameEn": "Multivitamins",
+   "nameJa": "マルチビタミン",
+   "generic": "Multivitamins",
+   "brandNames": [],
+   "classes": [
+    "Vitamins",
+    "Vitamins and electrolyte supplements",
+    "Oral medicines"
+   ],
+   "form": "syrup",
+   "formLabel": "Syrup",
+   "strength": "",
+   "unit": "ml",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.6"
+  },
+  {
+   "code": "VITAMINB1THIAM-250MG",
+   "nameEn": "Vitamin B1 (Thiamine HCl)",
+   "nameJa": "ビタミンB1",
+   "generic": "Vitamin B1 (Thiamine HCl)",
+   "brandNames": [],
+   "classes": [
+    "Vitamins",
+    "Vitamins and electrolyte supplements",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "250 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.6"
+  },
+  {
+   "code": "VITAMINB6PYRID-10MG",
+   "nameEn": "Vitamin B6 (Pyridoxine)",
+   "nameJa": "ビタミンB6",
+   "generic": "Vitamin B6 (Pyridoxine)",
+   "brandNames": [],
+   "classes": [
+    "Vitamins",
+    "Vitamins and electrolyte supplements",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "10 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.6"
+  },
+  {
+   "code": "VITAMINB12CYAN-25G",
+   "nameEn": "Vitamin B12 (Cyanocobalamin)",
+   "nameJa": "【メチコバール】ビタミンB12",
+   "generic": "Vitamin B12 (Cyanocobalamin)",
+   "brandNames": [],
+   "classes": [
+    "Vitamins",
+    "Vitamins and electrolyte supplements",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "25 μg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.6"
+  },
+  {
+   "code": "VITAMINB1B6B12-VITAMIN",
+   "nameEn": "Vitamin B1 + B6 + B12",
+   "nameJa": "【≒ビタメジン】ビタミンBコンプレックス",
+   "generic": "Vitamin B1 + B6 + B12",
+   "brandNames": [],
+   "classes": [
+    "Vitamins",
+    "Vitamins and electrolyte supplements",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "Vitamin B1 = 125 mg Vitamin B6 = 125 mg Vitamin B12 = 125 µg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.6"
+  },
+  {
+   "code": "VITAMINCASCORB-500MG",
+   "nameEn": "Vitamin C (Ascorbic acid)",
+   "nameJa": "ビタミンC",
+   "generic": "Vitamin C (Ascorbic acid)",
+   "brandNames": [],
+   "classes": [
+    "Vitamins",
+    "Vitamins and electrolyte supplements",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "500 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.6"
+  },
+  {
+   "code": "HYDROXYCHLOROQ-200MG",
+   "nameEn": "Hydroxychloroquine (Plaquenil)",
+   "nameJa": "【プラケニル】ヒドロキシクロロキン",
+   "generic": "Hydroxychloroquine (Plaquenil)",
+   "brandNames": [],
+   "classes": [
+    "Immunomodulatory medicine",
+    "Immune disease therapeutic",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "200 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.7"
+  },
+  {
+   "code": "CYCLOSPORINE-25MG",
+   "nameEn": "Cyclosporine",
+   "nameJa": "【ネオーラル】シクロスポリン",
+   "generic": "Cyclosporine",
+   "brandNames": [],
+   "classes": [
+    "Immunomodulatory medicine",
+    "Immune disease therapeutic",
+    "Oral medicines"
+   ],
+   "form": "capsule",
+   "formLabel": "Capsule",
+   "strength": "25 mg",
+   "unit": "capsule",
+   "isControlled": false,
+   "note": "Contact to pharmacy for stock management\nSource: ACMC Essential Medicines, June 2026, p.7"
+  },
+  {
+   "code": "CYCLOPHOSPHAMI-50MG",
+   "nameEn": "Cyclophosphamide",
+   "nameJa": "【エンドキサン】シクロホスファミド",
+   "generic": "Cyclophosphamide",
+   "brandNames": [],
+   "classes": [
+    "Alkylating agents",
+    "Chemotherapy related medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "50 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.7"
+  },
+  {
+   "code": "TEMOZOLOMIDE-20MG",
+   "nameEn": "Temozolomide",
+   "nameJa": "【テモダール】テモゾロミド",
+   "generic": "Temozolomide",
+   "brandNames": [],
+   "classes": [
+    "Alkylating agents",
+    "Chemotherapy related medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "20 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.7"
+  },
+  {
+   "code": "TEMOZOLOMIDE-100MG",
+   "nameEn": "Temozolomide",
+   "nameJa": "【テモダール】テモゾロミド",
+   "generic": "Temozolomide",
+   "brandNames": [],
+   "classes": [
+    "Alkylating agents",
+    "Chemotherapy related medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "100 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.7"
+  },
+  {
+   "code": "METHOTREXATE-25MG",
+   "nameEn": "Methotrexate",
+   "nameJa": "【メソトレキセート】メトトレキサート",
+   "generic": "Methotrexate",
+   "brandNames": [],
+   "classes": [
+    "Folate antagonist",
+    "Chemotherapy related medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "2.5 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.7"
+  },
+  {
+   "code": "ETOPOSIDE-50MG",
+   "nameEn": "Etoposide",
+   "nameJa": "【ラステット】エトポシド",
+   "generic": "Etoposide",
+   "brandNames": [],
+   "classes": [
+    "Topoisomerase II inhibitor",
+    "Chemotherapy related medicines",
+    "Oral medicines"
+   ],
+   "form": "capsule",
+   "formLabel": "Capsule",
+   "strength": "50 mg",
+   "unit": "capsule",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.7"
+  },
+  {
+   "code": "SORAFENIB-200MG",
+   "nameEn": "Sorafenib",
+   "nameJa": "【ネクサバール】ソラフェニブ",
+   "generic": "Sorafenib",
+   "brandNames": [],
+   "classes": [
+    "Multi-kinase inhibitor",
+    "Chemotherapy related medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "200 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.7"
+  },
+  {
+   "code": "SUNITINIB-50MG",
+   "nameEn": "Sunitinib",
+   "nameJa": "【スーテント】スニチニブ",
+   "generic": "Sunitinib",
+   "brandNames": [],
+   "classes": [
+    "Multi-kinase inhibitor",
+    "Chemotherapy related medicines",
+    "Oral medicines"
+   ],
+   "form": "capsule",
+   "formLabel": "Capsule",
+   "strength": "50 mg",
+   "unit": "capsule",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.7"
+  },
+  {
+   "code": "6MERCAPTOPURIN-50MG",
+   "nameEn": "6-Mercaptopurine",
+   "nameJa": "【ロイケリン】6-メルカプトプリン",
+   "generic": "6-Mercaptopurine",
+   "brandNames": [],
+   "classes": [
+    "Purine antagonist",
+    "Chemotherapy related medicines",
+    "Oral medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Tablet",
+   "strength": "50 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.7"
+  },
+  {
+   "code": "ISOTRETINOIN-10MG",
+   "nameEn": "Isotretinoin",
+   "nameJa": "イソトレチノイン",
+   "generic": "Isotretinoin",
+   "brandNames": [],
+   "classes": [
+    "VitaminA inducer",
+    "Chemotherapy related medicines",
+    "Oral medicines"
+   ],
+   "form": "capsule",
+   "formLabel": "Capsule",
+   "strength": "10 mg",
+   "unit": "capsule",
+   "isControlled": false,
+   "note": "Use for neuroblastoma patients\nSource: ACMC Essential Medicines, June 2026, p.7"
+  },
+  {
+   "code": "FENTANYL-IVSC100",
+   "nameEn": "Fentanyl",
+   "nameJa": "フェンタニル",
+   "generic": "Fentanyl",
+   "brandNames": [],
+   "classes": [
+    "Opioid (phenylpiperidine)",
+    "Narcotics and muscle relaxants",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IV, SC) 100 μg / 2 ml",
+   "unit": "vial",
+   "isControlled": true,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.8"
+  },
+  {
+   "code": "FENTANYL-IVSC500",
+   "nameEn": "Fentanyl",
+   "nameJa": "フェンタニル",
+   "generic": "Fentanyl",
+   "brandNames": [],
+   "classes": [
+    "Opioid (phenylpiperidine)",
+    "Narcotics and muscle relaxants",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IV, SC) 500 μg / 10 ml",
+   "unit": "vial",
+   "isControlled": true,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.8"
+  },
+  {
+   "code": "MORPHINESULFAT-IVIMSC1",
+   "nameEn": "Morphine sulfate",
+   "nameJa": "モルヒネ塩酸塩",
+   "generic": "Morphine sulfate",
+   "brandNames": [],
+   "classes": [
+    "Opioid (morphinan)",
+    "Narcotics and muscle relaxants",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IV, IM, SC) 10 mg / 1 ml",
+   "unit": "vial",
+   "isControlled": true,
+   "note": "Only buy as needed\nSource: ACMC Essential Medicines, June 2026, p.8"
+  },
+  {
+   "code": "KETAMIN-IVIMSC5",
+   "nameEn": "Ketamin",
+   "nameJa": "【ケタラール】ケタミン",
+   "generic": "Ketamin",
+   "brandNames": [],
+   "classes": [
+    "General anesthesia (phencyclidine type)",
+    "Narcotics and muscle relaxants",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "(IV, IM, SC) 500 mg / 10 ml",
+   "unit": "vial",
+   "isControlled": true,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.8"
+  },
+  {
+   "code": "VECURONIUM-IV10MG",
+   "nameEn": "Vecuronium",
+   "nameJa": "【マスキュラックス】ベクロニウム",
+   "generic": "Vecuronium",
+   "brandNames": [],
+   "classes": [
+    "Non-depolarizing muscle relaxant",
+    "Narcotics and muscle relaxants",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "(IV) 10 mg",
+   "unit": "vial",
+   "isControlled": true,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.8"
+  },
+  {
+   "code": "SUXAMETHONIUMC-IV100MG",
+   "nameEn": "Suxamethonium chloride",
+   "nameJa": "【サクシン】スキサメトニウム",
+   "generic": "Suxamethonium chloride",
+   "brandNames": [],
+   "classes": [
+    "Non-depolarizing muscle relaxant",
+    "Narcotics and muscle relaxants",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IV) 100 mg / 2 ml",
+   "unit": "vial",
+   "isControlled": true,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.8"
+  },
+  {
+   "code": "SEVOFLURANE-INHALAT",
+   "nameEn": "Sevoflurane",
+   "nameJa": "セボフルラン",
+   "generic": "Sevoflurane",
+   "brandNames": [],
+   "classes": [
+    "Halogenated inhalation anesthetics",
+    "Anesthetics related medicines",
+    "Injection medicines"
+   ],
+   "form": "infusion",
+   "formLabel": "Bottle",
+   "strength": "(Inhalation)",
+   "unit": "bottle",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.8"
+  },
+  {
+   "code": "ISOFLURANE-INHALAT",
+   "nameEn": "Isoflurane",
+   "nameJa": "イソフルラン",
+   "generic": "Isoflurane",
+   "brandNames": [],
+   "classes": [
+    "Halogenated inhalation anesthetics",
+    "Anesthetics related medicines",
+    "Injection medicines"
+   ],
+   "form": "infusion",
+   "formLabel": "Bottle",
+   "strength": "(Inhalation) 250 ml",
+   "unit": "bottle",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.8"
+  },
+  {
+   "code": "LIDOCAINEHYDRO-LOCALIN",
+   "nameEn": "Lidocaine hydrochloride",
+   "nameJa": "【キシロカイン】リドカイン塩酸塩",
+   "generic": "Lidocaine hydrochloride",
+   "brandNames": [],
+   "classes": [
+    "Local anesthesia",
+    "Anesthetics related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "(Local infiltration) (2%) 1000 mg / 50 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "For Local anesthesia\nSource: ACMC Essential Medicines, June 2026, p.8"
+  },
+  {
+   "code": "BUPIVACAINE-0520MG4",
+   "nameEn": "Bupivacaine",
+   "nameJa": "【マーカイン】ブピバカイン",
+   "generic": "Bupivacaine",
+   "brandNames": [],
+   "classes": [
+    "Local anesthesia",
+    "Anesthetics related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(0.5 %) 20 mg / 4 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "For Spinal anesthesia\nSource: ACMC Essential Medicines, June 2026, p.8"
+  },
+  {
+   "code": "BUPIVACAINE-05100MG",
+   "nameEn": "Bupivacaine",
+   "nameJa": "【マーカイン】ブピバカイン",
+   "generic": "Bupivacaine",
+   "brandNames": [],
+   "classes": [
+    "Local anesthesia",
+    "Anesthetics related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "(0.5 %) 100 mg / 20 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "For Local / Block anesthesia\nSource: ACMC Essential Medicines, June 2026, p.8"
+  },
+  {
+   "code": "PROPOFOL-IV200MG",
+   "nameEn": "Propofol",
+   "nameJa": "【ディプリバン】プロポフォール",
+   "generic": "Propofol",
+   "brandNames": [],
+   "classes": [
+    "General anesthesia",
+    "Anesthetics related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IV) 200 mg / 20 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Cannot use for Children\nSource: ACMC Essential Medicines, June 2026, p.8"
+  },
+  {
+   "code": "THIOPENTAL-IVIM1G",
+   "nameEn": "Thiopental",
+   "nameJa": "【ラボナール】チオペンタール",
+   "generic": "Thiopental",
+   "brandNames": [],
+   "classes": [
+    "General anesthesia",
+    "Anesthetics related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "(IV, IM) 1 g",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.8"
+  },
+  {
+   "code": "NALOXONE-IVIM04M",
+   "nameEn": "Naloxone",
+   "nameJa": "ナロキソン",
+   "generic": "Naloxone",
+   "brandNames": [],
+   "classes": [
+    "Opioid antagonist",
+    "Anesthetics related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IV, IM) 0.4 mg / 1 ml",
+   "unit": "vial",
+   "isControlled": true,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.8"
+  },
+  {
+   "code": "FLUMAZENIL-IV05MG5",
+   "nameEn": "Flumazenil",
+   "nameJa": "【アネキセート】フルマゼニル",
+   "generic": "Flumazenil",
+   "brandNames": [],
+   "classes": [
+    "Benzodiazepine receptor antagonist",
+    "Anesthetics related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IV) 0.5 mg / 5 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "From Japan\nSource: ACMC Essential Medicines, June 2026, p.8"
+  },
+  {
+   "code": "NEOSTIGMINE-SCIMIV0",
+   "nameEn": "Neostigmine",
+   "nameJa": "【ワゴスチグミン】ネオスチグミン",
+   "generic": "Neostigmine",
+   "brandNames": [],
+   "classes": [
+    "Cholinesterase inhibitor",
+    "Anesthetics related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(SC, IM, IV) 0.5 mg / 1 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.8"
+  },
+  {
+   "code": "PARACETAMOL-IMIV300",
+   "nameEn": "Paracetamol",
+   "nameJa": "【アセリオ】パラセタモール",
+   "generic": "Paracetamol",
+   "brandNames": [],
+   "classes": [
+    "Para-aminophenol / Acetaminophen",
+    "Antipyretic / Painkiller",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IM, IV) 300 mg / 2 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.8"
+  },
+  {
+   "code": "PARACETAMOL-DIV1000",
+   "nameEn": "Paracetamol",
+   "nameJa": "【アセリオ】パラセタモール",
+   "generic": "Paracetamol",
+   "brandNames": [],
+   "classes": [
+    "Para-aminophenol / Acetaminophen",
+    "Antipyretic / Painkiller",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "(DIV) 1000 mg / 100 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.8"
+  },
+  {
+   "code": "DICLOFENAC-IM75MG3",
+   "nameEn": "Diclofenac",
+   "nameJa": "【ボルタレン】ジクロフェナク",
+   "generic": "Diclofenac",
+   "brandNames": [],
+   "classes": [
+    "NSAIDs",
+    "Antipyretic / Painkiller",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IM) 75 mg / 3 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Usable over 18 year-pld\nSource: ACMC Essential Medicines, June 2026, p.8"
+  },
+  {
+   "code": "KETOROLACTROME-IMIV30M",
+   "nameEn": "Ketorolac tromethamine",
+   "nameJa": "ケトロラック",
+   "generic": "Ketorolac tromethamine",
+   "brandNames": [
+    "Ketlac"
+   ],
+   "classes": [
+    "NSAIDs",
+    "Antipyretic / Painkiller",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IM, IV) 30 mg / 1 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Usable over 2 year-old\nSource: ACMC Essential Medicines, June 2026, p.8"
+  },
+  {
+   "code": "TRAMADOL-IMIV100",
+   "nameEn": "Tramadol",
+   "nameJa": "【トラマール】トラマドール",
+   "generic": "Tramadol",
+   "brandNames": [],
+   "classes": [
+    "Opioids (Non narcotic)",
+    "Antipyretic / Painkiller",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IM, IV) 100 mg / 2 ml",
+   "unit": "vial",
+   "isControlled": true,
+   "note": "Usable over 17 year-old\nSource: ACMC Essential Medicines, June 2026, p.8"
+  },
+  {
+   "code": "METRONIDAZOLEM-DIV500M",
+   "nameEn": "Metronidazole (MNZ)",
+   "nameJa": "【アネメトロ】メトロニダゾール",
+   "generic": "Metronidazole (MNZ)",
+   "brandNames": [],
+   "classes": [
+    "Nitroimidazole",
+    "Anti-microbial medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "(DIV) 500 mg / 100 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Always DIV (takes at least 30 min)\nSource: ACMC Essential Medicines, June 2026, p.9"
+  },
+  {
+   "code": "CIPROFLOXACINC-DIV200M",
+   "nameEn": "Ciprofloxacin (CPFX)",
+   "nameJa": "【シプロキサン】シプロフロキサシン",
+   "generic": "Ciprofloxacin (CPFX)",
+   "brandNames": [],
+   "classes": [
+    "New quinolone",
+    "Anti-microbial medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "(DIV) 200 mg / 100 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Always DIV (takes at least 1 hour)\nSource: ACMC Essential Medicines, June 2026, p.9"
+  },
+  {
+   "code": "CEFAZOLINCEZ-IMIV100",
+   "nameEn": "Cefazolin (CEZ)",
+   "nameJa": "【セファメジン】セファゾリン",
+   "generic": "Cefazolin (CEZ)",
+   "brandNames": [],
+   "classes": [
+    "Cephem (first-generation)",
+    "Anti-microbial medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "(IM, IV) 1000 mg",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.9"
+  },
+  {
+   "code": "CEFTRIAXONECTR-IMIV100",
+   "nameEn": "Ceftriaxone (CTRX)",
+   "nameJa": "【ロセフィン】セフトリアキソン",
+   "generic": "Ceftriaxone (CTRX)",
+   "brandNames": [],
+   "classes": [
+    "Cephem (third-generation)",
+    "Anti-microbial medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "(IM, IV) 1000 mg",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.9"
+  },
+  {
+   "code": "CEFTAZIDIMECAZ-IMIV100",
+   "nameEn": "Ceftazidime (CAZ)",
+   "nameJa": "セフタジジム",
+   "generic": "Ceftazidime (CAZ)",
+   "brandNames": [],
+   "classes": [
+    "Cephem (third-generation)",
+    "Anti-microbial medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "(IM, IV) 1000 mg",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.9"
+  },
+  {
+   "code": "CEFOTAXIMECTX-IMIV100",
+   "nameEn": "Cefotaxime (CTX)",
+   "nameJa": "【クラフォラン】セフォタキシム",
+   "generic": "Cefotaxime (CTX)",
+   "brandNames": [],
+   "classes": [
+    "Cephem (third-generation)",
+    "Anti-microbial medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "(IM, IV) 1000 mg",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Only buy as needed\nCurrently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.9"
+  },
+  {
+   "code": "CEFEPIMECEPM-IMIV100",
+   "nameEn": "Cefepime (CEPM)",
+   "nameJa": "【マキシピーム】セフェピム",
+   "generic": "Cefepime (CEPM)",
+   "brandNames": [],
+   "classes": [
+    "Cephem (fourth-generation)",
+    "Anti-microbial medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "(IM, IV) 1000 mg",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.9"
+  },
+  {
+   "code": "BENZYLPENICILL-IM24000",
+   "nameEn": "Benzylpenicillin (PCG)",
+   "nameJa": "【ステルイズ】ベンジルペニシリン",
+   "generic": "Benzylpenicillin (PCG)",
+   "brandNames": [],
+   "classes": [
+    "Cephem (fourth-generation)",
+    "Anti-microbial medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "(IM) 2,400,000 IU",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Use for syphilis patients (IM only)\nCurrently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.9"
+  },
+  {
+   "code": "AMPICILLINABPC-IMIV100",
+   "nameEn": "Ampicillin (ABPC)",
+   "nameJa": "【ビクシリン】アンピシリン",
+   "generic": "Ampicillin (ABPC)",
+   "brandNames": [],
+   "classes": [
+    "Penicillin",
+    "Anti-microbial medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "(IM, IV) 1000 mg",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.9"
+  },
+  {
+   "code": "CLOXACILLINMCI-IMIV100",
+   "nameEn": "Cloxacillin (MCIPC)",
+   "nameJa": "クロキサシリン",
+   "generic": "Cloxacillin (MCIPC)",
+   "brandNames": [],
+   "classes": [
+    "Penicillin",
+    "Anti-microbial medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "(IM, IV) 1000 mg",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.9"
+  },
+  {
+   "code": "MEROPENEMMEPM-DIV1000",
+   "nameEn": "Meropenem (MEPM)",
+   "nameJa": "【メロペン】メロペネム",
+   "generic": "Meropenem (MEPM)",
+   "brandNames": [],
+   "classes": [
+    "Carbapenem",
+    "Anti-microbial medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "(DIV) 1000 mg",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Always DIV (takes at least 30 min)\nSource: ACMC Essential Medicines, June 2026, p.9"
+  },
+  {
+   "code": "VANCOMYCINVCM-DIV500M",
+   "nameEn": "Vancomycin (VCM)",
+   "nameJa": "バンコマイシン",
+   "generic": "Vancomycin (VCM)",
+   "brandNames": [],
+   "classes": [
+    "Glycopeptide antibiotic",
+    "Anti-microbial medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "(DIV) 500 mg",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Always DIV (takes at least 1 hour)\nSource: ACMC Essential Medicines, June 2026, p.9"
+  },
+  {
+   "code": "CLINDAMYCINCLD-DIV600M",
+   "nameEn": "Clindamycin (CLDM)",
+   "nameJa": "【ダラシンS】クリンダマイシン",
+   "generic": "Clindamycin (CLDM)",
+   "brandNames": [],
+   "classes": [
+    "Lincomycin",
+    "Anti-microbial medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "(DIV) 600 mg / 4 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Always DIV (takes at least 1 hour)\nSource: ACMC Essential Medicines, June 2026, p.9"
+  },
+  {
+   "code": "GENTAMICINGM-IMDIV80",
+   "nameEn": "Gentamicin (GM)",
+   "nameJa": "【ゲンタシン】ゲンタマイシン",
+   "generic": "Gentamicin (GM)",
+   "brandNames": [],
+   "classes": [
+    "Aminoglycoside antibiotics",
+    "Anti-microbial medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IM, DIV) 80 mg / 2 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Always DIV (takes at least 30 min)\nSource: ACMC Essential Medicines, June 2026, p.9"
+  },
+  {
+   "code": "AMIKACINAMK-DIV500M",
+   "nameEn": "Amikacin (AMK)",
+   "nameJa": "アミカシン",
+   "generic": "Amikacin (AMK)",
+   "brandNames": [],
+   "classes": [
+    "Aminoglycoside antibiotics",
+    "Anti-microbial medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(DIV) 500 mg / 2 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Always DIV (takes at least 30 min)\nSource: ACMC Essential Medicines, June 2026, p.9"
+  },
+  {
+   "code": "ACYCLOVIRACV-DIV250M",
+   "nameEn": "Acyclovir (ACV)",
+   "nameJa": "【ゾビラックス】アシクロビル",
+   "generic": "Acyclovir (ACV)",
+   "brandNames": [],
+   "classes": [
+    "Anti herpes medicine",
+    "Anti-microbial medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "(DIV) 250 mg",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Single-drug infusion\nCurrently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.9"
+  },
+  {
+   "code": "AMPHOTERICINEB-DIV50MG",
+   "nameEn": "Amphotericine-B (AMPH-B)",
+   "nameJa": "【アムビゾーム】アムホテリシンB",
+   "generic": "Amphotericine-B (AMPH-B)",
+   "brandNames": [],
+   "classes": [
+    "Anti fungal medicine",
+    "Anti-microbial medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "(DIV) 50 mg",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Only buy as needed\nSource: ACMC Essential Medicines, June 2026, p.9"
+  },
+  {
+   "code": "BETAMETHASONED-IMIV52M",
+   "nameEn": "Betamethasone dipropionate",
+   "nameJa": "【リンデロン】ベタメタゾン",
+   "generic": "Betamethasone dipropionate",
+   "brandNames": [],
+   "classes": [
+    "Longest acting Steroid",
+    "Adrenocorticoid medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IM, IV) (5 + 2) mg / 1 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.9"
+  },
+  {
+   "code": "DEXAMETHASONE-IMIV4MG",
+   "nameEn": "Dexamethasone",
+   "nameJa": "【デキサート】デキサメタゾン",
+   "generic": "Dexamethasone",
+   "brandNames": [],
+   "classes": [
+    "Longest acting Steroid",
+    "Adrenocorticoid medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IM, IV) 4 mg / 1 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.9"
+  },
+  {
+   "code": "METHYLPREDONIS-IV125MG",
+   "nameEn": "Methylpredonisolone",
+   "nameJa": "【ソルメドロール】メチルプレドニゾロン",
+   "generic": "Methylpredonisolone",
+   "brandNames": [],
+   "classes": [
+    "Intermediate acting Steroid",
+    "Adrenocorticoid medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "(IV) 125 mg",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.9"
+  },
+  {
+   "code": "TRIAMCINOLONE-IM80MG2",
+   "nameEn": "Triamcinolone",
+   "nameJa": "【ケナコルト】トリアムシノロン",
+   "generic": "Triamcinolone",
+   "brandNames": [
+    "SIVKORT"
+   ],
+   "classes": [
+    "Intermediate acting Steroid",
+    "Adrenocorticoid medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IM) 80 mg / 2 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Use for keloid patients\nSource: ACMC Essential Medicines, June 2026, p.9"
+  },
+  {
+   "code": "HYDROCORTISONE-IMIV100",
+   "nameEn": "Hydrocortisone",
+   "nameJa": "【ソルコーテフ】ヒドロコルチゾン",
+   "generic": "Hydrocortisone",
+   "brandNames": [],
+   "classes": [
+    "Short acting Steroid",
+    "Adrenocorticoid medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "(IM, IV) 100 mg",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.9"
+  },
+  {
+   "code": "DIAZEPAM-IMIV10M",
+   "nameEn": "Diazepam",
+   "nameJa": "【ホリゾン】ジアゼパム",
+   "generic": "Diazepam",
+   "brandNames": [],
+   "classes": [
+    "Antianxiety medicines (Benzodiazepine)",
+    "Centrally acting drugs medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IM, IV) 10 mg / 2 ml",
+   "unit": "vial",
+   "isControlled": true,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.9"
+  },
+  {
+   "code": "MIDAZOLAM-IMIV5MG",
+   "nameEn": "Midazolam",
+   "nameJa": "【ドルミカム】ミダゾラム",
+   "generic": "Midazolam",
+   "brandNames": [],
+   "classes": [
+    "Antianxiety medicines (Benzodiazepine)",
+    "Centrally acting drugs medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IM, IV) 5 mg / 1 ml",
+   "unit": "vial",
+   "isControlled": true,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.9"
+  },
+  {
+   "code": "PHENYTOIN-IMIV100",
+   "nameEn": "Phenytoin",
+   "nameJa": "【アレビアチン】フェニトイン",
+   "generic": "Phenytoin",
+   "brandNames": [],
+   "classes": [
+    "Antiepileptic medicines",
+    "Centrally acting drugs medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IM, IV) 100 mg / 2 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Sole administration\nSource: ACMC Essential Medicines, June 2026, p.9"
+  },
+  {
+   "code": "PHENOBARBITAL-SCIM100",
+   "nameEn": "Phenobarbital",
+   "nameJa": "【フェノバール】フェノバルビタール",
+   "generic": "Phenobarbital",
+   "brandNames": [],
+   "classes": [
+    "Antiepileptic medicines",
+    "Centrally acting drugs medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(SC, IM) 100 mg / 1 ml",
+   "unit": "vial",
+   "isControlled": true,
+   "note": "From Japan\nSource: ACMC Essential Medicines, June 2026, p.9"
+  },
+  {
+   "code": "OMEPRAZOLE-IV40MG",
+   "nameEn": "Omeprazole",
+   "nameJa": "【オメプラール】オメプラゾール",
+   "generic": "Omeprazole",
+   "brandNames": [],
+   "classes": [
+    "Anti ulcer medicine (PPI)",
+    "Gastrointestinal medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "(IV) 40 mg",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.10"
+  },
+  {
+   "code": "CIMETIDINE-IMIV300",
+   "nameEn": "Cimetidine",
+   "nameJa": "【タガメット】シメチジン",
+   "generic": "Cimetidine",
+   "brandNames": [],
+   "classes": [
+    "Anti ulcer medicine (H2 blocker)",
+    "Gastrointestinal medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IM, IV) 300 mg / 2 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.10"
+  },
+  {
+   "code": "RANITIDINE-IMIV25M",
+   "nameEn": "Ranitidine",
+   "nameJa": "【ザンタック】ラニチジン",
+   "generic": "Ranitidine",
+   "brandNames": [],
+   "classes": [
+    "Anti ulcer medicine (H2 blocker)",
+    "Gastrointestinal medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IM, IV) 25 mg / 1 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.10"
+  },
+  {
+   "code": "METOCLOPRAMIDE-IMIV10M",
+   "nameEn": "Metoclopramide",
+   "nameJa": "【プリンペラン】メトクロプラミド",
+   "generic": "Metoclopramide",
+   "brandNames": [],
+   "classes": [
+    "Antiemetic medicine",
+    "Gastrointestinal medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IM, IV) 10 mg / 2 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.10"
+  },
+  {
+   "code": "ONDANSETRON-IV8MG4M",
+   "nameEn": "Ondansetron",
+   "nameJa": "オンダンセトロン",
+   "generic": "Ondansetron",
+   "brandNames": [],
+   "classes": [
+    "Antiemetic medicine",
+    "Gastrointestinal medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IV) 8 mg / 4 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Use for oncology\nSource: ACMC Essential Medicines, June 2026, p.10"
+  },
+  {
+   "code": "PALONOSETRON-IV025MG",
+   "nameEn": "Palonosetron",
+   "nameJa": "【アロキシ】パロノセトロン",
+   "generic": "Palonosetron",
+   "brandNames": [],
+   "classes": [
+    "Antiemetic medicine",
+    "Gastrointestinal medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Prefilled syringe",
+   "strength": "(IV) 0.25 mg / 5 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Use for oncology\nSource: ACMC Essential Medicines, June 2026, p.10"
+  },
+  {
+   "code": "HYOSCINEBUTYLB-IMIV20M",
+   "nameEn": "Hyoscine butylbromide",
+   "nameJa": "【≒ブスコパン】ヒヨスチン（スコポラミン）",
+   "generic": "Hyoscine butylbromide",
+   "brandNames": [],
+   "classes": [
+    "Antispasmodic medicine",
+    "Gastrointestinal medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IM, IV) 20 mg / 2 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.10"
+  },
+  {
+   "code": "PHLOROGLUCINOL-IMIV40M",
+   "nameEn": "Phloroglucinol dihydrate",
+   "nameJa": "",
+   "generic": "Phloroglucinol dihydrate",
+   "brandNames": [
+    "Spasfon"
+   ],
+   "classes": [
+    "Antispasmodic medicine",
+    "Gastrointestinal medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IM, IV) 40 mg / 4 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Available as capsule\nCurrently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.10"
+  },
+  {
+   "code": "PHLOROGLUCINOL-IMIV400",
+   "nameEn": "Phloroglucinol hydrate / Trimethylphloroglucinol",
+   "nameJa": "フロログルシノール（機序は異なるがブスコパンに類似）",
+   "generic": "Phloroglucinol hydrate / Trimethylphloroglucinol",
+   "brandNames": [],
+   "classes": [
+    "Antispasmodic medicine",
+    "Gastrointestinal medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IM, IV) 40 + 0.04 mg / 4 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.10"
+  },
+  {
+   "code": "CHLORPHENIRAMI-IVSC10M",
+   "nameEn": "Chlorpheniramine",
+   "nameJa": "【≒ポララミン】クロルフェニラミン （日本はd体のみ）",
+   "generic": "Chlorpheniramine",
+   "brandNames": [],
+   "classes": [
+    "Ｈ1-antagonist (first-generation)",
+    "Antiallergics and respiratory medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IV, SC) 10 mg / 1 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.10"
+  },
+  {
+   "code": "BROMHEXINE-IMIVSC4",
+   "nameEn": "Bromhexine",
+   "nameJa": "【ビソルボン】ブロムヘキシン",
+   "generic": "Bromhexine",
+   "brandNames": [],
+   "classes": [
+    "Expectorants",
+    "Antiallergics and respiratory medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IM, IV, SC) 4 mg / 2 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.10"
+  },
+  {
+   "code": "ADRENALINEEPIN-IMIVSC1",
+   "nameEn": "Adrenaline (Epinephrine)",
+   "nameJa": "【ボスミン】アドレナリン",
+   "generic": "Adrenaline (Epinephrine)",
+   "brandNames": [],
+   "classes": [
+    "Catecholamine",
+    "Cardiovascular medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IM, IV, SC) 1 mg / 1 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.10"
+  },
+  {
+   "code": "NORADRENALINEN-DIVSC2M",
+   "nameEn": "Noradrenaline (Norepinephrine)",
+   "nameJa": "ノルアドレナリン",
+   "generic": "Noradrenaline (Norepinephrine)",
+   "brandNames": [],
+   "classes": [
+    "Catecholamine",
+    "Cardiovascular medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(DIV, SC) 2 mg / 1 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.10"
+  },
+  {
+   "code": "DOPAMINE-DIV200M",
+   "nameEn": "Dopamine",
+   "nameJa": "【イノバン】ドパミン",
+   "generic": "Dopamine",
+   "brandNames": [],
+   "classes": [
+    "Catecholamine",
+    "Cardiovascular medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(DIV) 200 mg / 5 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.10"
+  },
+  {
+   "code": "DOBUTAMINE-CIV250M",
+   "nameEn": "Dobutamine",
+   "nameJa": "【ドブトレックス】ドブタミン",
+   "generic": "Dobutamine",
+   "brandNames": [],
+   "classes": [
+    "Catecholamine",
+    "Cardiovascular medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(CIV) 250 mg / 20 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.10"
+  },
+  {
+   "code": "ATROPINE-IMIVSC0",
+   "nameEn": "Atropine",
+   "nameJa": "アトロピン",
+   "generic": "Atropine",
+   "brandNames": [],
+   "classes": [
+    "Catecholamine",
+    "Cardiovascular medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IM, IV, SC) 0.6 mg / 1 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.10"
+  },
+  {
+   "code": "EPHEDRINE-IVSC30M",
+   "nameEn": "Ephedrine",
+   "nameJa": "エフェドリン",
+   "generic": "Ephedrine",
+   "brandNames": [],
+   "classes": [
+    "β-stimulant",
+    "Cardiovascular medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IV, SC) 30 mg / 1 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.10"
+  },
+  {
+   "code": "NICARDIPINE-CIV10MG",
+   "nameEn": "Nicardipine",
+   "nameJa": "【ベルジピン】ニカルジピン",
+   "generic": "Nicardipine",
+   "brandNames": [],
+   "classes": [
+    "Calcium antagonist",
+    "Cardiovascular medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(CIV) 10 mg / 10 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.10"
+  },
+  {
+   "code": "NITROGLYCERIN-DIV10MG",
+   "nameEn": "Nitroglycerin",
+   "nameJa": "【ミリスロール】ニトログリセリン",
+   "generic": "Nitroglycerin",
+   "brandNames": [
+    "Glyceryl trinitrate"
+   ],
+   "classes": [
+    "Nitrate",
+    "Cardiovascular medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(DIV) 10 mg / 10 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.10"
+  },
+  {
+   "code": "DIGOXINE-IMIV05M",
+   "nameEn": "Digoxine",
+   "nameJa": "ジゴキシン",
+   "generic": "Digoxine",
+   "brandNames": [],
+   "classes": [
+    "Cardiotonic",
+    "Cardiovascular medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IM, IV) 0.5 mg / 2 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.10"
+  },
+  {
+   "code": "AMIODARONE-DIV150M",
+   "nameEn": "Amiodarone",
+   "nameJa": "【アンカロン】アミオダロン",
+   "generic": "Amiodarone",
+   "brandNames": [],
+   "classes": [
+    "Antiarrhythmic medicines",
+    "Cardiovascular medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(DIV) 150 mg / 3 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.10"
+  },
+  {
+   "code": "ADENOSINEDISOD-20MG2ML",
+   "nameEn": "Adenosine disodium triphosphate (ATP)",
+   "nameJa": "ATP",
+   "generic": "Adenosine disodium triphosphate (ATP)",
+   "brandNames": [],
+   "classes": [
+    "Antiarrhythmic medicines",
+    "Cardiovascular medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "20 mg/2 mL [= Adenosine 12 mg]",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.10"
+  },
+  {
+   "code": "ADENOSINE-6MG2MLA",
+   "nameEn": "Adenosine",
+   "nameJa": "アデノシン",
+   "generic": "Adenosine",
+   "brandNames": [],
+   "classes": [
+    "Antiarrhythmic medicines",
+    "Cardiovascular medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "6 mg/2 mL [= ATP 10 mg]",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.10"
+  },
+  {
+   "code": "LIDOCAINEHYDRO-IMIVSC4",
+   "nameEn": "Lidocaine hydrochloride",
+   "nameJa": "【キシロカイン】リドカイン塩酸塩",
+   "generic": "Lidocaine hydrochloride",
+   "brandNames": [],
+   "classes": [
+    "Antiarrhythmic medicines",
+    "Cardiovascular medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IM, IV, SC) 40 mg / 2 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.10"
+  },
+  {
+   "code": "VERAPAMIL-IV5MG2M",
+   "nameEn": "Verapamil",
+   "nameJa": "【ワソラン】ベラパミル",
+   "generic": "Verapamil",
+   "brandNames": [],
+   "classes": [
+    "Antiarrhythmic medicines",
+    "Cardiovascular medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IV) 5 mg / 2 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "From Japan\nSource: ACMC Essential Medicines, June 2026, p.10"
+  },
+  {
+   "code": "FUROSEMIDE-IMIV20M",
+   "nameEn": "Furosemide",
+   "nameJa": "【ラシックス】フロセミド",
+   "generic": "Furosemide",
+   "brandNames": [],
+   "classes": [
+    "Loop diuretics",
+    "Diuretic medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IM, IV) 20 mg / 2 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.10"
+  },
+  {
+   "code": "OSMOFUNDIN20-DIVMANN",
+   "nameEn": "Osmofundin 20%",
+   "nameJa": "【マンニットールS】",
+   "generic": "Osmofundin 20%",
+   "brandNames": [],
+   "classes": [
+    "Osmotic diuretics",
+    "Diuretic medicines",
+    "Injection medicines"
+   ],
+   "form": "infusion",
+   "formLabel": "Bottle",
+   "strength": "(DIV) Mannitol 43.75g+Sorbitol 6.25g in 250 ml",
+   "unit": "bottle",
+   "isControlled": false,
+   "note": "Always DIV\nCurrently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.10"
+  },
+  {
+   "code": "MANNITOL20-DIVMANN",
+   "nameEn": "Mannitol 20%",
+   "nameJa": "【マンニットール】",
+   "generic": "Mannitol 20%",
+   "brandNames": [],
+   "classes": [
+    "Osmotic diuretics",
+    "Diuretic medicines",
+    "Injection medicines"
+   ],
+   "form": "infusion",
+   "formLabel": "Bottle",
+   "strength": "(DIV) Mannitol 50 g in 250 ml",
+   "unit": "bottle",
+   "isControlled": false,
+   "note": "Always DIV\nSource: ACMC Essential Medicines, June 2026, p.10"
+  },
+  {
+   "code": "OXYTOCIN-IMIV10I",
+   "nameEn": "Oxytocin",
+   "nameJa": "【アトニン】オキシトシン",
+   "generic": "Oxytocin",
+   "brandNames": [],
+   "classes": [
+    "Posterior pituitary hormone",
+    "Gynecological medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IM, IV) 10 IU / 1 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.10"
+  },
+  {
+   "code": "METHYLERGOMETR-IMIVSC0",
+   "nameEn": "Methylergometrine",
+   "nameJa": "【メテルギン】メチルエルゴメトリン",
+   "generic": "Methylergometrine",
+   "brandNames": [],
+   "classes": [
+    "Ergot alcaloids",
+    "Gynecological medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IM, IV, SC) 0.2 mg / 1 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.10"
+  },
+  {
+   "code": "MEDROXYPROGEST-IM150MG",
+   "nameEn": "Medroxyprogesterone acetate",
+   "nameJa": "【ヒスロン】メドロキシプロゲステロン",
+   "generic": "Medroxyprogesterone acetate",
+   "brandNames": [],
+   "classes": [
+    "Progestogen",
+    "Gynecological medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "(IM) 150 mg / 3 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.10"
+  },
+  {
+   "code": "INSULINN-SC100IU",
+   "nameEn": "Insulin N",
+   "nameJa": "中間型インスリン",
+   "generic": "Insulin N",
+   "brandNames": [
+    "HumulinN. / Insulatard"
+   ],
+   "classes": [
+    "Insulin",
+    "Hormone related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "(SC) 100 IU / ml in 10 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.11"
+  },
+  {
+   "code": "INSULINR-SCIMIV1",
+   "nameEn": "Insulin R",
+   "nameJa": "速効型インスリン",
+   "generic": "Insulin R",
+   "brandNames": [
+    "HumulinR. / Actrapid"
+   ],
+   "classes": [
+    "Insulin",
+    "Hormone related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "(SC, IM, IV) 100 IU / ml in 10 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Usable for IM, IV\nCurrently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.11"
+  },
+  {
+   "code": "INSULINN70INSU-SC100IU",
+   "nameEn": "Insulin N : 70 % + Insulin R : 30%",
+   "nameJa": "混合型インスリン（中間：速効 = 7 : 3）",
+   "generic": "Insulin N : 70 % + Insulin R : 30%",
+   "brandNames": [
+    "Humulin 70/30"
+   ],
+   "classes": [
+    "Insulin",
+    "Hormone related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "(SC) 100 IU / ml in 10 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.11"
+  },
+  {
+   "code": "OCTREOTIDE-SCCIV01",
+   "nameEn": "Octreotide",
+   "nameJa": "【サンドスタチン】オクトレオチド",
+   "generic": "Octreotide",
+   "brandNames": [
+    "Sandostatin"
+   ],
+   "classes": [
+    "Persistent somatostatin analogues",
+    "Hormone related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(SC, CIV) 0.1 mg / 1 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Only buy as needed\nCurrently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.11"
+  },
+  {
+   "code": "IRONSUCROSE-IV100MG",
+   "nameEn": "IRON sucrose",
+   "nameJa": "【≒フェジン】鉄スクロース",
+   "generic": "IRON sucrose",
+   "brandNames": [
+    "Ferrofer"
+   ],
+   "classes": [
+    "Anti-anaemic medicines",
+    "Medicines affecting the blood",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IV) 100 mg / 5 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Only buy as needed\nCurrently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.11"
+  },
+  {
+   "code": "TRANEXAMICACID-IMIV100",
+   "nameEn": "Tranexamic Acid",
+   "nameJa": "【トランサミン】トラネキサム酸",
+   "generic": "Tranexamic Acid",
+   "brandNames": [],
+   "classes": [
+    "Antiplasmin medicines",
+    "Medicines affecting the blood",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IM, IV) 1000 mg / 10 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.11"
+  },
+  {
+   "code": "VITAMINKPHYTON-SCIMIV1",
+   "nameEn": "Vitamin K (Phytonadione)",
+   "nameJa": "【ケーワン】ビタミンK（フィトナジオン）",
+   "generic": "Vitamin K (Phytonadione)",
+   "brandNames": [],
+   "classes": [
+    "Vitamin K supplement",
+    "Medicines affecting the blood",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(SC, IM, IV) 10 mg / 1 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Use for hypoprothrombinemia baby\nSource: ACMC Essential Medicines, June 2026, p.11"
+  },
+  {
+   "code": "ALBUMINHUMANUS-DIV10G5",
+   "nameEn": "Albumin (Human) U.S.P. 20 %",
+   "nameJa": "アルブミン",
+   "generic": "Albumin (Human) U.S.P. 20 %",
+   "brandNames": [],
+   "classes": [
+    "Human serum albumin",
+    "Medicines affecting the blood",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "(DIV) 10 g / 50 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.11"
+  },
+  {
+   "code": "ENOXAPARINSODI-SCIV40M",
+   "nameEn": "Enoxaparin sodium",
+   "nameJa": "【クレキサン】エノキサパリンナトリウム",
+   "generic": "Enoxaparin sodium",
+   "brandNames": [
+    "Noxaparin"
+   ],
+   "classes": [
+    "Antithrombolytics",
+    "Medicines affecting the blood",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Prefilled syringe",
+   "strength": "(SC, IV) 40 mg / 0.4 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Only buy as needed\nCurrently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.11"
+  },
+  {
+   "code": "HEPARINSODIUM-SCIV500",
+   "nameEn": "Heparin sodium",
+   "nameJa": "ヘパリンナトリウム",
+   "generic": "Heparin sodium",
+   "brandNames": [],
+   "classes": [
+    "Antithrombolytics",
+    "Medicines affecting the blood",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "(SC, IV) 5000 I.U. / ml in 5 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.11"
+  },
+  {
+   "code": "FILGRASTIM-SC300G1",
+   "nameEn": "Filgrastim",
+   "nameJa": "【グラン】フィルグラスチム",
+   "generic": "Filgrastim",
+   "brandNames": [
+    "NEUKINE"
+   ],
+   "classes": [
+    "G-CSF",
+    "Medicines affecting the blood",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Prefilled syringe",
+   "strength": "(SC) 300 μg / 1 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Use for oncology\nSource: ACMC Essential Medicines, June 2026, p.11"
+  },
+  {
+   "code": "GLUCOSE50-IV5G10M",
+   "nameEn": "Glucose 50%",
+   "nameJa": "グルコース",
+   "generic": "Glucose 50%",
+   "brandNames": [],
+   "classes": [
+    "Glucose",
+    "Vitamins and electrolyte supplements",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IV) 5 g / 10 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.11"
+  },
+  {
+   "code": "POTASSIUMCHLOR-DIV15G1",
+   "nameEn": "Potassium chloride",
+   "nameJa": "塩化カリウム",
+   "generic": "Potassium chloride",
+   "brandNames": [],
+   "classes": [
+    "Potassium compound",
+    "Vitamins and electrolyte supplements",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(DIV) 1.5 g / 10 ml (20 mEq)",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Always DIV (takes over 20 mEq/hr)\nSource: ACMC Essential Medicines, June 2026, p.11"
+  },
+  {
+   "code": "MAGNESIUMSULFA-IMIV15G",
+   "nameEn": "Magnesium sulfate",
+   "nameJa": "【マグネゾール】硫酸マグネシウム",
+   "generic": "Magnesium sulfate",
+   "brandNames": [],
+   "classes": [
+    "Magnesium compound",
+    "Vitamins and electrolyte supplements",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IM, IV) 1.5 g / 10 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Supply unstable\nSource: ACMC Essential Medicines, June 2026, p.11"
+  },
+  {
+   "code": "MAGNESIUMSULFA-IMIV1G1",
+   "nameEn": "Magnesium sulfate",
+   "nameJa": "【マグネゾール】硫酸マグネシウム",
+   "generic": "Magnesium sulfate",
+   "brandNames": [],
+   "classes": [
+    "Magnesium compound",
+    "Vitamins and electrolyte supplements",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IM, IV) 1 g / 10 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Supply unstable\nSource: ACMC Essential Medicines, June 2026, p.11"
+  },
+  {
+   "code": "MAGNESIUMSULFA-IMIV5G1",
+   "nameEn": "Magnesium sulfate",
+   "nameJa": "【マグネゾール】硫酸マグネシウム",
+   "generic": "Magnesium sulfate",
+   "brandNames": [],
+   "classes": [
+    "Magnesium compound",
+    "Vitamins and electrolyte supplements",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IM, IV) 5 g / 10 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "For uterine contraction control set\nCurrently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.11"
+  },
+  {
+   "code": "CALCIUMLEVULIN-IV500MG",
+   "nameEn": "Calcium levulinate",
+   "nameJa": "【≒カルチコール】レブリン酸カルシウム",
+   "generic": "Calcium levulinate",
+   "brandNames": [
+    "CAL-GLUNATE"
+   ],
+   "classes": [
+    "Calcium compound",
+    "Vitamins and electrolyte supplements",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IV) 500 mg / 10 ml (2.3 mEq)",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.11"
+  },
+  {
+   "code": "SODIUMBICARBON-IV075G1",
+   "nameEn": "Sodium bicarbonate",
+   "nameJa": "【メイロン】炭酸水素ナトリウム",
+   "generic": "Sodium bicarbonate",
+   "brandNames": [],
+   "classes": [
+    "Acidosis correction",
+    "Vitamins and electrolyte supplements",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IV) 0.75 g / 10 ml (8.92 mEq)",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.11"
+  },
+  {
+   "code": "VITAMINBCOMPLE-SCIMIVC",
+   "nameEn": "Vitamin B complex",
+   "nameJa": "ビタミンＢコンプレックス",
+   "generic": "Vitamin B complex",
+   "brandNames": [],
+   "classes": [
+    "Vitamins",
+    "Vitamins and electrolyte supplements",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(SC, IM, IV) Composition in 2-ml vial: Vitamin B1 = 10 mg, Vitamin B2 = 4 mg, Vitamin B6 = 2 mg, Nicotinatamide = 30 mg, Sodium-Pantothenate = 1 mg",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.11"
+  },
+  {
+   "code": "VITAMINB1THIAM-IMIV100",
+   "nameEn": "Vitamin B1 (Thiamine HCl)",
+   "nameJa": "ビタミンB1（チアミン）",
+   "generic": "Vitamin B1 (Thiamine HCl)",
+   "brandNames": [],
+   "classes": [
+    "Vitamins",
+    "Vitamins and electrolyte supplements",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IM, IV) 100 mg / 1 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.11"
+  },
+  {
+   "code": "VITAMINB6PYRID-IMIV100",
+   "nameEn": "Vitamin B6 (Pyridoxine)",
+   "nameJa": "ビタミンB6（ピリドキサール）",
+   "generic": "Vitamin B6 (Pyridoxine)",
+   "brandNames": [],
+   "classes": [
+    "Vitamins",
+    "Vitamins and electrolyte supplements",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IM, IV) 100 mg / 2 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Domestic donation\nSource: ACMC Essential Medicines, June 2026, p.11"
+  },
+  {
+   "code": "VITAMINB12CYAN-IMIV1MG",
+   "nameEn": "Vitamin B12 (Cyanocobalamin)",
+   "nameJa": "【メチコバール】ビタミンB12（シアノコバラミン）",
+   "generic": "Vitamin B12 (Cyanocobalamin)",
+   "brandNames": [],
+   "classes": [
+    "Vitamins",
+    "Vitamins and electrolyte supplements",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IM, IV) 1 mg / 2 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.11"
+  },
+  {
+   "code": "VITAMINCASCORB-IMIV500",
+   "nameEn": "Vitamin C (Ascorbic acid)",
+   "nameJa": "ビタミンC（アスコルビン酸）",
+   "generic": "Vitamin C (Ascorbic acid)",
+   "brandNames": [],
+   "classes": [
+    "Vitamins",
+    "Vitamins and electrolyte supplements",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(IM, IV) 500 mg / 5 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.11"
+  },
+  {
+   "code": "CARBOPLATIN-150MG15",
+   "nameEn": "Carboplatin",
+   "nameJa": "【パラプラチン】カルボプラチン",
+   "generic": "Carboplatin",
+   "brandNames": [],
+   "classes": [
+    "Platinum coordination complexes",
+    "Chemotherapy related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "150 mg / 15 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.12"
+  },
+  {
+   "code": "CISPLATIN-50MG50M",
+   "nameEn": "Cisplatin",
+   "nameJa": "【ランダ】シスプラチン",
+   "generic": "Cisplatin",
+   "brandNames": [],
+   "classes": [
+    "Platinum coordination complexes",
+    "Chemotherapy related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "50 mg / 50 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.12"
+  },
+  {
+   "code": "OXALIPLATIN-100MG50",
+   "nameEn": "Oxaliplatin",
+   "nameJa": "【エルプラット】オキサリプラチン",
+   "generic": "Oxaliplatin",
+   "brandNames": [],
+   "classes": [
+    "Platinum coordination complexes",
+    "Chemotherapy related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "100 mg / 50 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.12"
+  },
+  {
+   "code": "CYCLOPHOSPHAMI-500MG",
+   "nameEn": "Cyclophosphamide",
+   "nameJa": "【エンドキサン】シクロホスファミド",
+   "generic": "Cyclophosphamide",
+   "brandNames": [],
+   "classes": [
+    "Nitrogen mustered",
+    "Chemotherapy related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "500 mg",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.12"
+  },
+  {
+   "code": "IFOSFAMIDE-1000MG",
+   "nameEn": "Ifosfamide",
+   "nameJa": "【イホマイド】イフォスファミド",
+   "generic": "Ifosfamide",
+   "brandNames": [],
+   "classes": [
+    "Nitrogen mustered",
+    "Chemotherapy related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "1000 mg",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.12"
+  },
+  {
+   "code": "CYTARABINE-100MG1M",
+   "nameEn": "Cytarabine",
+   "nameJa": "【キロサイド】シタラビン",
+   "generic": "Cytarabine",
+   "brandNames": [],
+   "classes": [
+    "Pyrimidine antagonist",
+    "Chemotherapy related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "100 mg / 1 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.12"
+  },
+  {
+   "code": "IRINOTECAN-100MG5M",
+   "nameEn": "Irinotecan",
+   "nameJa": "【カンプト】イリノテカン",
+   "generic": "Irinotecan",
+   "brandNames": [],
+   "classes": [
+    "Topoisomerase-1 inhibitor",
+    "Chemotherapy related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "100 mg / 5 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.12"
+  },
+  {
+   "code": "ETOPOSIDE-100MG5M",
+   "nameEn": "Etoposide",
+   "nameJa": "【ベプシド】エトポシド",
+   "generic": "Etoposide",
+   "brandNames": [],
+   "classes": [
+    "Topoisomerase-2 inhibitor",
+    "Chemotherapy related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "100 mg / 5 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.12"
+  },
+  {
+   "code": "PACLITAXEL-100MG16",
+   "nameEn": "Paclitaxel",
+   "nameJa": "【タキソール】パクリタキセル",
+   "generic": "Paclitaxel",
+   "brandNames": [],
+   "classes": [
+    "Folate antagonist",
+    "Chemotherapy related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "100 mg / 16.66 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.12"
+  },
+  {
+   "code": "5FLUOROURACIL-500MG10",
+   "nameEn": "5-Fluorouracil",
+   "nameJa": "【5-FU】5-フルオロウラシル",
+   "generic": "5-Fluorouracil",
+   "brandNames": [],
+   "classes": [
+    "Pyrimidine antagonist",
+    "Chemotherapy related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "500 mg / 10 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.12"
+  },
+  {
+   "code": "NIMOTUZUMAB-50MG10M",
+   "nameEn": "Nimotuzumab",
+   "nameJa": "ニモツズマブ",
+   "generic": "Nimotuzumab",
+   "brandNames": [],
+   "classes": [
+    "Anti-EGFR antibody agents",
+    "Chemotherapy related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "50 mg / 10 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.12"
+  },
+  {
+   "code": "DACTINOMYCINE-500G",
+   "nameEn": "Dactinomycine",
+   "nameJa": "【コスメゲン】ダクチノマイシン",
+   "generic": "Dactinomycine",
+   "brandNames": [],
+   "classes": [
+    "Antibiotics",
+    "Chemotherapy related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "500 μg",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.12"
+  },
+  {
+   "code": "DOXORUBICIN-50MG",
+   "nameEn": "Doxorubicin",
+   "nameJa": "【アドリアシン】ドキソルビシン",
+   "generic": "Doxorubicin",
+   "brandNames": [],
+   "classes": [
+    "Antibiotics",
+    "Chemotherapy related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "50 mg",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.12"
+  },
+  {
+   "code": "DAUNORUBICIN-20MG",
+   "nameEn": "Daunorubicin",
+   "nameJa": "【ダウノマイシン】ダウノルビシン",
+   "generic": "Daunorubicin",
+   "brandNames": [],
+   "classes": [
+    "Antibiotics",
+    "Chemotherapy related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "20 mg",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.12"
+  },
+  {
+   "code": "BLEOMYCIN-15UNIT",
+   "nameEn": "Bleomycin",
+   "nameJa": "【ブレオ】ブレオマイシン",
+   "generic": "Bleomycin",
+   "brandNames": [],
+   "classes": [
+    "Antibiotics",
+    "Chemotherapy related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "15 Unit",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.12"
+  },
+  {
+   "code": "DACARBAZINE-200MG",
+   "nameEn": "Dacarbazine",
+   "nameJa": "ダカルバジン",
+   "generic": "Dacarbazine",
+   "brandNames": [],
+   "classes": [
+    "Alkylating agent",
+    "Chemotherapy related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "200 mg",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.12"
+  },
+  {
+   "code": "LASPARAGINASE-10000UN",
+   "nameEn": "L-asparaginase",
+   "nameJa": "【ロイナーゼ】L-アスパラギナーゼ",
+   "generic": "L-asparaginase",
+   "brandNames": [],
+   "classes": [
+    "Antineoplastic cytostatic",
+    "Chemotherapy related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "10000 Unit",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.12"
+  },
+  {
+   "code": "VINCRISTINE-1MG1ML",
+   "nameEn": "Vincristine",
+   "nameJa": "【オンコビン】ビンクリスチン",
+   "generic": "Vincristine",
+   "brandNames": [],
+   "classes": [
+    "Vinca alkaloid",
+    "Chemotherapy related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "1 mg / 1 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.12"
+  },
+  {
+   "code": "VINBLASTINE-10MG10M",
+   "nameEn": "Vinblastine",
+   "nameJa": "【エクザール】ビンブラスチン",
+   "generic": "Vinblastine",
+   "brandNames": [],
+   "classes": [
+    "Vinca alkaloid",
+    "Chemotherapy related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "10 mg / 10 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.12"
+  },
+  {
+   "code": "METHOTREXATE-50MG2ML",
+   "nameEn": "Methotrexate",
+   "nameJa": "【メトトレキセート】メトトレキサート",
+   "generic": "Methotrexate",
+   "brandNames": [],
+   "classes": [
+    "Folate antagonist",
+    "Chemotherapy related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "50 mg / 2 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.12"
+  },
+  {
+   "code": "METHOTREXATE-500MG5M",
+   "nameEn": "Methotrexate",
+   "nameJa": "【メトトレキセート】メトトレキサート",
+   "generic": "Methotrexate",
+   "brandNames": [],
+   "classes": [
+    "Folate antagonist",
+    "Chemotherapy related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "500 mg / 5 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.12"
+  },
+  {
+   "code": "METHOTREXATE-500MG20",
+   "nameEn": "Methotrexate",
+   "nameJa": "【メトトレキセート】メトトレキサート",
+   "generic": "Methotrexate",
+   "brandNames": [],
+   "classes": [
+    "Folate antagonist",
+    "Chemotherapy related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "500 mg / 20 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.12"
+  },
+  {
+   "code": "UROMITEXAN-400MG4M",
+   "nameEn": "Uromitexan",
+   "nameJa": "【メスナ】ウロミテキサン",
+   "generic": "Uromitexan",
+   "brandNames": [
+    "Mesna"
+   ],
+   "classes": [
+    "Inhibitors for the development of urinary tract disorders",
+    "Chemotherapy related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "400 mg / 4 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.12"
+  },
+  {
+   "code": "LEUCOVORIN-50MG5ML",
+   "nameEn": "Leucovorin",
+   "nameJa": "【ホリナート】ロイコボリン",
+   "generic": "Leucovorin",
+   "brandNames": [],
+   "classes": [
+    "Antifolate metabolism antagonist",
+    "Chemotherapy related medicines",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "50 mg / 5 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.12"
+  },
+  {
+   "code": "HEPATITISBVACC-SC20G1M",
+   "nameEn": "Hepatitis B vaccine (rDNA)",
+   "nameJa": "B型肝炎ワクチン",
+   "generic": "Hepatitis B vaccine (rDNA)",
+   "brandNames": [],
+   "classes": [
+    "Vaccinations",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "(SC) 20 μg / 1 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Use for staff\nSource: ACMC Essential Medicines, June 2026, p.12"
+  },
+  {
+   "code": "MMRVACCINEMEAS-SC05ML",
+   "nameEn": "MMR vaccine (measles, mumps and rubella virus vaccine)",
+   "nameJa": "3種混合ワクチン",
+   "generic": "MMR vaccine (measles, mumps and rubella virus vaccine)",
+   "brandNames": [],
+   "classes": [
+    "Vaccinations",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "(SC) 0.5 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Use for staff\nSource: ACMC Essential Medicines, June 2026, p.12"
+  },
+  {
+   "code": "VARICELLAVACCI-SC1350P",
+   "nameEn": "Varicella vaccine",
+   "nameJa": "水痘ワクチン",
+   "generic": "Varicella vaccine",
+   "brandNames": [],
+   "classes": [
+    "Vaccinations",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "(SC) 1350 PFU / 0.5 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Use for staff\nSource: ACMC Essential Medicines, June 2026, p.12"
+  },
+  {
+   "code": "TETANUSANTITOX-SCIM150",
+   "nameEn": "Tetanus antitoxin",
+   "nameJa": "破傷風抗毒素",
+   "generic": "Tetanus antitoxin",
+   "brandNames": [],
+   "classes": [
+    "Vaccinations",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Ampoule",
+   "strength": "(SC, IM) 1500 IU / 0.75 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.12"
+  },
+  {
+   "code": "PNEUMCOCCALPOL-IM05ML",
+   "nameEn": "Pneumcoccal polysaccharide conjugate vaccine",
+   "nameJa": "【プレベナー】肺炎球菌ワクチン",
+   "generic": "Pneumcoccal polysaccharide conjugate vaccine",
+   "brandNames": [
+    "Prevenar 13"
+   ],
+   "classes": [
+    "Vaccinations",
+    "Injection medicines"
+   ],
+   "form": "injection",
+   "formLabel": "Vial",
+   "strength": "(IM) 0.5 ml",
+   "unit": "vial",
+   "isControlled": false,
+   "note": "Only buy as needed\nSource: ACMC Essential Medicines, June 2026, p.12"
+  },
+  {
+   "code": "GLUCOSEDEXTROS-D55ISOT",
+   "nameEn": "Glucose / Dextrose",
+   "nameJa": "ブドウ糖液",
+   "generic": "Glucose / Dextrose",
+   "brandNames": [],
+   "classes": [
+    "Infusion",
+    "Infusions",
+    "Injection medicines"
+   ],
+   "form": "infusion",
+   "formLabel": "Bottle",
+   "strength": "(D5) 5 % (isotonic) Glucose in 500 ml",
+   "unit": "bottle",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.13"
+  },
+  {
+   "code": "GLUCOSEDEXTROS-D1010HY",
+   "nameEn": "Glucose / Dextrose",
+   "nameJa": "ブドウ糖液",
+   "generic": "Glucose / Dextrose",
+   "brandNames": [],
+   "classes": [
+    "Infusion",
+    "Infusions",
+    "Injection medicines"
+   ],
+   "form": "infusion",
+   "formLabel": "Bottle",
+   "strength": "(D10) 10 % (hypertonic) Glucose in 500 ml",
+   "unit": "bottle",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.13"
+  },
+  {
+   "code": "GLUCOSE5SODIUM-D512S5G",
+   "nameEn": "Glucose (5%) + Sodium Chloride",
+   "nameJa": "ブドウ糖液＋生理食塩水",
+   "generic": "Glucose (5%) + Sodium Chloride",
+   "brandNames": [],
+   "classes": [
+    "Infusion",
+    "Infusions",
+    "Injection medicines"
+   ],
+   "form": "infusion",
+   "formLabel": "Bottle",
+   "strength": "(D5-1/2S) 5 % Glucose + 0.45 % NaCl in 500ml",
+   "unit": "bottle",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.13"
+  },
+  {
+   "code": "GLUCOSE5SODIUM-D5S5GLU",
+   "nameEn": "Glucose (5%) + Sodium Chloride",
+   "nameJa": "ブドウ糖液＋生理食塩水",
+   "generic": "Glucose (5%) + Sodium Chloride",
+   "brandNames": [],
+   "classes": [
+    "Infusion",
+    "Infusions",
+    "Injection medicines"
+   ],
+   "form": "infusion",
+   "formLabel": "Bottle",
+   "strength": "(D5-S) 5 % Glucose + 0.9 % NaCl in 500ml",
+   "unit": "bottle",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.13"
+  },
+  {
+   "code": "RINGERSLACTATE-500ML",
+   "nameEn": "Ringer's Lactate (LR)",
+   "nameJa": "ラクトリンゲル液",
+   "generic": "Ringer's Lactate (LR)",
+   "brandNames": [],
+   "classes": [
+    "Infusion",
+    "Infusions",
+    "Injection medicines"
+   ],
+   "form": "infusion",
+   "formLabel": "Bottle",
+   "strength": "500 ml",
+   "unit": "bottle",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.13"
+  },
+  {
+   "code": "RINGERSLACTATE-1000ML",
+   "nameEn": "Ringer's Lactate (LR)",
+   "nameJa": "ラクトリンゲル液",
+   "generic": "Ringer's Lactate (LR)",
+   "brandNames": [],
+   "classes": [
+    "Infusion",
+    "Infusions",
+    "Injection medicines"
+   ],
+   "form": "infusion",
+   "formLabel": "Bottle",
+   "strength": "1000 ml",
+   "unit": "bottle",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.13"
+  },
+  {
+   "code": "SODIUMCHLORIDE-09ISOTO",
+   "nameEn": "Sodium Chloride (NSS)",
+   "nameJa": "生理食塩水",
+   "generic": "Sodium Chloride (NSS)",
+   "brandNames": [],
+   "classes": [
+    "Infusion",
+    "Infusions",
+    "Injection medicines"
+   ],
+   "form": "infusion",
+   "formLabel": "Bottle",
+   "strength": "0.9 % isotonic NaCl in 100 ml",
+   "unit": "bottle",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.13"
+  },
+  {
+   "code": "SODIUMCHLORIDE-CHEMO09",
+   "nameEn": "Sodium Chloride (NSS)",
+   "nameJa": "生理食塩水",
+   "generic": "Sodium Chloride (NSS)",
+   "brandNames": [],
+   "classes": [
+    "Infusion",
+    "Infusions",
+    "Injection medicines"
+   ],
+   "form": "infusion",
+   "formLabel": "Bottle",
+   "strength": "[Chemo] 0.9 % isotonic NaCl in 100 ml (for pharmacy use)",
+   "unit": "bottle",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.13"
+  },
+  {
+   "code": "SODIUMCHLORIDE-09ISOTO-2",
+   "nameEn": "Sodium Chloride (NSS)",
+   "nameJa": "生理食塩水",
+   "generic": "Sodium Chloride (NSS)",
+   "brandNames": [],
+   "classes": [
+    "Infusion",
+    "Infusions",
+    "Injection medicines"
+   ],
+   "form": "infusion",
+   "formLabel": "Bottle",
+   "strength": "0.9 % isotonic NaCl in 500 ml",
+   "unit": "bottle",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.13"
+  },
+  {
+   "code": "SODIUMCHLORIDE-09ISOTO-3",
+   "nameEn": "Sodium Chloride (NSS)",
+   "nameJa": "生理食塩水",
+   "generic": "Sodium Chloride (NSS)",
+   "brandNames": [],
+   "classes": [
+    "Infusion",
+    "Infusions",
+    "Injection medicines"
+   ],
+   "form": "infusion",
+   "formLabel": "Bottle",
+   "strength": "0.9 % isotonic NaCl in 1000 ml",
+   "unit": "bottle",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.13"
+  },
+  {
+   "code": "AMIPAREN5-500ML",
+   "nameEn": "Amiparen 5%",
+   "nameJa": "【アミパレン】高カロリー輸液用総合アミノ酸製剤",
+   "generic": "Amiparen 5%",
+   "brandNames": [],
+   "classes": [
+    "Amino acid solution",
+    "Infusions",
+    "Injection medicines"
+   ],
+   "form": "infusion",
+   "formLabel": "Bottle",
+   "strength": "500 ml",
+   "unit": "bottle",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.13"
+  },
+  {
+   "code": "AMINOLEBAN8-500ML",
+   "nameEn": "Aminoleban 8%",
+   "nameJa": "【アミノレバン】肝不全用成分栄養剤",
+   "generic": "Aminoleban 8%",
+   "brandNames": [],
+   "classes": [
+    "Amino acid solution",
+    "Infusions",
+    "Injection medicines"
+   ],
+   "form": "infusion",
+   "formLabel": "Bottle",
+   "strength": "500 ml",
+   "unit": "bottle",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.13"
+  },
+  {
+   "code": "CLINOSOL-500ML",
+   "nameEn": "Clinosol",
+   "nameJa": "【≒VB1を含まないビーフリード】",
+   "generic": "Clinosol",
+   "brandNames": [],
+   "classes": [
+    "Amino acid, D-sorbitol, Vitamins, Electrolytes",
+    "Infusions",
+    "Injection medicines"
+   ],
+   "form": "infusion",
+   "formLabel": "Bottle",
+   "strength": "500 ml",
+   "unit": "bottle",
+   "isControlled": false,
+   "note": "VB1 NOT included\nSource: ACMC Essential Medicines, June 2026, p.13"
+  },
+  {
+   "code": "GELOFUSINE4WV-500ML",
+   "nameEn": "Gelofusine 4% w/v",
+   "nameJa": "【≒ボルベン】ゲロフシン",
+   "generic": "Gelofusine 4% w/v",
+   "brandNames": [],
+   "classes": [
+    "Gelatin polysuccinate",
+    "Infusions",
+    "Injection medicines"
+   ],
+   "form": "infusion",
+   "formLabel": "Bottle",
+   "strength": "500 ml",
+   "unit": "bottle",
+   "isControlled": false,
+   "note": "DIV takes at least 30 min Stock in JHMC\nSource: ACMC Essential Medicines, June 2026, p.13"
+  },
+  {
+   "code": "LIPOFUNDINMCTL-500ML",
+   "nameEn": "Lipofundin MCT/LCT 10 %",
+   "nameJa": "【≒イントラリポス】リポファンディン",
+   "generic": "Lipofundin MCT/LCT 10 %",
+   "brandNames": [],
+   "classes": [
+    "Intravenous fat emulsions",
+    "Infusions",
+    "Injection medicines"
+   ],
+   "form": "infusion",
+   "formLabel": "Bottle",
+   "strength": "500 ml",
+   "unit": "bottle",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.13"
+  },
+  {
+   "code": "PARACETAMOL-125MG",
+   "nameEn": "Paracetamol",
+   "nameJa": "【アンヒバ】パラセタモール",
+   "generic": "Paracetamol",
+   "brandNames": [],
+   "classes": [
+    "Para-aminophenol / Acetaminophen",
+    "Suppository",
+    "External medicines"
+   ],
+   "form": "suppository",
+   "formLabel": "Suppository",
+   "strength": "125 mg",
+   "unit": "suppository",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.14"
+  },
+  {
+   "code": "PARACETAMOL-250MG",
+   "nameEn": "Paracetamol",
+   "nameJa": "【アンヒバ】パラセタモール",
+   "generic": "Paracetamol",
+   "brandNames": [],
+   "classes": [
+    "Para-aminophenol / Acetaminophen",
+    "Suppository",
+    "External medicines"
+   ],
+   "form": "suppository",
+   "formLabel": "Suppository",
+   "strength": "250 mg",
+   "unit": "suppository",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.14"
+  },
+  {
+   "code": "SALBUTAMOL-25MG25M",
+   "nameEn": "Salbutamol",
+   "nameJa": "【ベネトリン】サルブタモール",
+   "generic": "Salbutamol",
+   "brandNames": [],
+   "classes": [
+    "Short-acting β-agonists (SABA)",
+    "Inhalant",
+    "External medicines"
+   ],
+   "form": "suspension",
+   "formLabel": "Nebulising suspension",
+   "strength": "2.5 mg / 2.5 ml",
+   "unit": "ml",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.14"
+  },
+  {
+   "code": "SALBUTAMOL-5MG25ML",
+   "nameEn": "Salbutamol",
+   "nameJa": "【ベネトリン】サルブタモール",
+   "generic": "Salbutamol",
+   "brandNames": [],
+   "classes": [
+    "Short-acting β-agonists (SABA)",
+    "Inhalant",
+    "External medicines"
+   ],
+   "form": "suspension",
+   "formLabel": "Nebulising suspension",
+   "strength": "5 mg / 2.5 ml",
+   "unit": "ml",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.14"
+  },
+  {
+   "code": "SALBUTAMOL-100GDOS",
+   "nameEn": "Salbutamol",
+   "nameJa": "【ベネトリン】サルブタモール",
+   "generic": "Salbutamol",
+   "brandNames": [],
+   "classes": [
+    "Short-acting β-agonists (SABA)",
+    "Inhalant",
+    "External medicines"
+   ],
+   "form": "inhaler",
+   "formLabel": "Oral inhalation",
+   "strength": "100 μg / dose in 200 times",
+   "unit": "inhaler",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.14"
+  },
+  {
+   "code": "BUDESONIDE-500G2ML",
+   "nameEn": "Budesonide",
+   "nameJa": "【パルミコート】ブデソニド",
+   "generic": "Budesonide",
+   "brandNames": [
+    "Pulmicort"
+   ],
+   "classes": [
+    "Inhaled corticosteroid (ICS)",
+    "Inhalant",
+    "External medicines"
+   ],
+   "form": "suspension",
+   "formLabel": "Nebulising suspension",
+   "strength": "500 μg / 2 ml",
+   "unit": "ml",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.14"
+  },
+  {
+   "code": "IPRATROPIUMFEN-250G500",
+   "nameEn": "Ipratropium + Fenoterol",
+   "nameJa": "イプラトロピウム + フェノテロール",
+   "generic": "Ipratropium + Fenoterol",
+   "brandNames": [
+    "Berodual"
+   ],
+   "classes": [
+    "Short-acting inhaled beta-agonists (SABA)",
+    "Inhalant",
+    "External medicines"
+   ],
+   "form": "suspension",
+   "formLabel": "Nebulising suspension",
+   "strength": "(250 μg + 500 μg) / ml in 20 ml",
+   "unit": "ml",
+   "isControlled": false,
+   "note": "Only buy as needed\nCurrently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.14"
+  },
+  {
+   "code": "SALMETEROLFLUT-25G125G",
+   "nameEn": "Salmeterol + Fluticasone",
+   "nameJa": "【アドエア】サルメテロール + フルチカゾン",
+   "generic": "Salmeterol + Fluticasone",
+   "brandNames": [
+    "Seretide"
+   ],
+   "classes": [
+    "Long-acting β-agonists (LABA)",
+    "Inhalant",
+    "External medicines"
+   ],
+   "form": "inhaler",
+   "formLabel": "Oral inhalation",
+   "strength": "(25 μg + 125 μg) / dose in 120 times",
+   "unit": "inhaler",
+   "isControlled": false,
+   "note": "Only buy as needed\nCurrently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.14"
+  },
+  {
+   "code": "FLUTICASONEPRO-50GDOSE",
+   "nameEn": "Fluticasone propionate",
+   "nameJa": "【フルナーゼ】フルチカゾンプロピオン酸エステル",
+   "generic": "Fluticasone propionate",
+   "brandNames": [
+    "Flixonase"
+   ],
+   "classes": [
+    "Synthetic corticosteroid",
+    "Nasal spray",
+    "External medicines"
+   ],
+   "form": "spray",
+   "formLabel": "Nasal spray",
+   "strength": "50 μg / dose in 60 times",
+   "unit": "bottle",
+   "isControlled": false,
+   "note": "Only buy as needed\nCurrently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.14"
+  },
+  {
+   "code": "PHENIRAMINEMAL-3MG025M",
+   "nameEn": "Pheniramine maleate + Naphazoline hydrochloride",
+   "nameJa": "【ナフコン】 マレイン酸フェニラミン＋塩酸ナファゾリン",
+   "generic": "Pheniramine maleate + Naphazoline hydrochloride",
+   "brandNames": [
+    "Nazolin"
+   ],
+   "classes": [
+    "Anti allergics",
+    "Opthalmological and ENT medicines",
+    "External medicines"
+   ],
+   "form": "drops",
+   "formLabel": "Eye drop",
+   "strength": "(3 mg + 0.25 mg) / ml in 15 ml",
+   "unit": "bottle",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.14"
+  },
+  {
+   "code": "OFLOXACINDEXAM-3MGMLIN",
+   "nameEn": "Ofloxacin + Dexamethasone",
+   "nameJa": "",
+   "generic": "Ofloxacin + Dexamethasone",
+   "brandNames": [],
+   "classes": [
+    "Steroid-combined anti bacterials",
+    "Opthalmological and ENT medicines",
+    "External medicines"
+   ],
+   "form": "drops",
+   "formLabel": "Eye drop",
+   "strength": "3 mg / ml in 5 ml",
+   "unit": "bottle",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.14"
+  },
+  {
+   "code": "CHLORAMPHENICO-10MGGIN",
+   "nameEn": "Chloramphenicol",
+   "nameJa": "クロラムフェニコール",
+   "generic": "Chloramphenicol",
+   "brandNames": [],
+   "classes": [
+    "Steroid-combined anti bacterials",
+    "Opthalmological and ENT medicines",
+    "External medicines"
+   ],
+   "form": "ointment",
+   "formLabel": "Eye ointment",
+   "strength": "10 mg / g in 5 g",
+   "unit": "tube",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.14"
+  },
+  {
+   "code": "CIPROFLOXACIN-3MGMLIN",
+   "nameEn": "Ciprofloxacin",
+   "nameJa": "シプロフロキサシン",
+   "generic": "Ciprofloxacin",
+   "brandNames": [],
+   "classes": [
+    "Anti bacterials",
+    "Opthalmological and ENT medicines",
+    "External medicines"
+   ],
+   "form": "drops",
+   "formLabel": "Eye / Ear drop",
+   "strength": "3 mg / ml in 5 ml",
+   "unit": "bottle",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.14"
+  },
+  {
+   "code": "GENTAMICIN-4MGMLIN",
+   "nameEn": "Gentamicin",
+   "nameJa": "ゲンタマイシン",
+   "generic": "Gentamicin",
+   "brandNames": [],
+   "classes": [
+    "Anti bacterials",
+    "Opthalmological and ENT medicines",
+    "External medicines"
+   ],
+   "form": "drops",
+   "formLabel": "Eye / Ear drop",
+   "strength": "4 mg / ml in 10 ml",
+   "unit": "bottle",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.14"
+  },
+  {
+   "code": "ARTIFICIALTEAR-15ML",
+   "nameEn": "Artificial tears",
+   "nameJa": "【ヒアレイン】人工涙液",
+   "generic": "Artificial tears",
+   "brandNames": [
+    "TEARS NATURALE"
+   ],
+   "classes": [
+    "Dry eye",
+    "Opthalmological and ENT medicines",
+    "External medicines"
+   ],
+   "form": "drops",
+   "formLabel": "Eye drop",
+   "strength": "15 ml",
+   "unit": "bottle",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.14"
+  },
+  {
+   "code": "SODIUMCHLORIDE-5MLAMPU",
+   "nameEn": "Sodium chloride 0.9% NaCl (5 mL/ampule)",
+   "nameJa": "生理食塩水",
+   "generic": "Sodium chloride 0.9% NaCl (5 mL/ampule)",
+   "brandNames": [],
+   "classes": [
+    "Others",
+    "Opthalmological and ENT medicines",
+    "External medicines"
+   ],
+   "form": "drops",
+   "formLabel": "Eye /Nose",
+   "strength": "5 ml ampule for single use",
+   "unit": "bottle",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.14"
+  },
+  {
+   "code": "BENZYLBENZOATE-25WV",
+   "nameEn": "Benzyl Benzoate",
+   "nameJa": "安息香酸ベンジル",
+   "generic": "Benzyl Benzoate",
+   "brandNames": [],
+   "classes": [
+    "Scabicide",
+    "Scabicides and pediculicides",
+    "External medicines"
+   ],
+   "form": "cream",
+   "formLabel": "Cutaneous emulsion",
+   "strength": "25 % w/v",
+   "unit": "tube",
+   "isControlled": false,
+   "note": "Supply unstable\nSource: ACMC Essential Medicines, June 2026, p.14"
+  },
+  {
+   "code": "PERMETHRIN-5",
+   "nameEn": "Permethrin",
+   "nameJa": "ペルメトリン",
+   "generic": "Permethrin",
+   "brandNames": [],
+   "classes": [
+    "Scabicide",
+    "Scabicides and pediculicides",
+    "External medicines"
+   ],
+   "form": "cream",
+   "formLabel": "Cream",
+   "strength": "5%",
+   "unit": "tube",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.14"
+  },
+  {
+   "code": "KETOCONAZOLEZI-2WV1WVI",
+   "nameEn": "Ketoconazole + Zinc pyrithione",
+   "nameJa": "ケトコナゾール + 亜鉛",
+   "generic": "Ketoconazole + Zinc pyrithione",
+   "brandNames": [
+    "KTC"
+   ],
+   "classes": [
+    "Anti fungas",
+    "Scabicides and pediculicides",
+    "External medicines"
+   ],
+   "form": "other",
+   "formLabel": "Madicated shampoo",
+   "strength": "2 % w/v + 1 % w/v in 100 mL",
+   "unit": "unit",
+   "isControlled": false,
+   "note": "Only buy as needed\nCurrently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.14"
+  },
+  {
+   "code": "CLOTRIMAZOLECL-100MG",
+   "nameEn": "Clotrimazole (CLZ)",
+   "nameJa": "【エンペシド】クロトリマゾール",
+   "generic": "Clotrimazole (CLZ)",
+   "brandNames": [],
+   "classes": [
+    "Anti fungas",
+    "Gynecological medicines",
+    "External medicines"
+   ],
+   "form": "tablet",
+   "formLabel": "Vaginal Tab",
+   "strength": "100 mg",
+   "unit": "tablet",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.14"
+  },
+  {
+   "code": "SODIUMCHLORIDE-10MLFOR",
+   "nameEn": "Sodium chloride 15 %",
+   "nameJa": "【≒グリセリン浣腸】塩化ナトリウム",
+   "generic": "Sodium chloride 15 %",
+   "brandNames": [],
+   "classes": [
+    "Laxative",
+    "Treatment medicines",
+    "External medicines"
+   ],
+   "form": "solution",
+   "formLabel": "Rectal enema",
+   "strength": "10 ml (for child)",
+   "unit": "ml",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.15"
+  },
+  {
+   "code": "SODIUMCHLORIDE-20MLFOR",
+   "nameEn": "Sodium chloride 15 %",
+   "nameJa": "【≒グリセリン浣腸】塩化ナトリウム",
+   "generic": "Sodium chloride 15 %",
+   "brandNames": [],
+   "classes": [
+    "Laxative",
+    "Treatment medicines",
+    "External medicines"
+   ],
+   "form": "solution",
+   "formLabel": "Rectal enema",
+   "strength": "20 ml (for adult)",
+   "unit": "ml",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.15"
+  },
+  {
+   "code": "KYJELLY-50G",
+   "nameEn": "K-Y Jelly",
+   "nameJa": "潤滑剤",
+   "generic": "K-Y Jelly",
+   "brandNames": [],
+   "classes": [
+    "Lubricant",
+    "Treatment medicines",
+    "External medicines"
+   ],
+   "form": "other",
+   "formLabel": "Jelly",
+   "strength": "50 g",
+   "unit": "unit",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.15"
+  },
+  {
+   "code": "CHLORHEXIDINED-1ML200M",
+   "nameEn": "Chlorhexidine digluconate 20 %",
+   "nameJa": "クロルヘキシジン",
+   "generic": "Chlorhexidine digluconate 20 %",
+   "brandNames": [
+    "SEPTYL"
+   ],
+   "classes": [
+    "Oral hygiene",
+    "Antiseptics",
+    "External medicines"
+   ],
+   "form": "solution",
+   "formLabel": "Mouth wash solution",
+   "strength": "1 ml / 200 ml",
+   "unit": "ml",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.15"
+  },
+  {
+   "code": "POVIDONEIODINE-10G100M",
+   "nameEn": "Povidone iodine 10 %",
+   "nameJa": "【イソジン】ポビドンヨード",
+   "generic": "Povidone iodine 10 %",
+   "brandNames": [
+    "Betadine"
+   ],
+   "classes": [
+    "Antiseptic",
+    "Antiseptics",
+    "External medicines"
+   ],
+   "form": "other",
+   "formLabel": "Solution",
+   "strength": "10 g / 100 ml in 125 ml",
+   "unit": "unit",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.15"
+  },
+  {
+   "code": "LIDOCAINE2-100G",
+   "nameEn": "Lidocaine 2%",
+   "nameJa": "【キシロカインゼリー・ビスカス】リドカイン",
+   "generic": "Lidocaine 2%",
+   "brandNames": [],
+   "classes": [
+    "Oral anesthesia",
+    "Local anesthesia",
+    "External medicines"
+   ],
+   "form": "other",
+   "formLabel": "Oral gel (anesthesia)",
+   "strength": "100 g",
+   "unit": "unit",
+   "isControlled": false,
+   "note": "Domestic donation\nSource: ACMC Essential Medicines, June 2026, p.15"
+  },
+  {
+   "code": "LIDOCAINE10-50ML",
+   "nameEn": "Lidocaine 10%",
+   "nameJa": "【キシロカイポンプスプレー】リドカイン",
+   "generic": "Lidocaine 10%",
+   "brandNames": [
+    "XYLOCAINE PUMP SPRAY"
+   ],
+   "classes": [
+    "Local anesthesia",
+    "External medicines"
+   ],
+   "form": "other",
+   "formLabel": "Spray bottle",
+   "strength": "50 ml",
+   "unit": "unit",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.15"
+  },
+  {
+   "code": "CINCHOCAINEHYD-5MG5MGG",
+   "nameEn": "Cinchocaine + Hydrocortisone HCl",
+   "nameJa": "ジブカイン + ヒドロコルチゾン",
+   "generic": "Cinchocaine + Hydrocortisone HCl",
+   "brandNames": [
+    "Proctosedyl"
+   ],
+   "classes": [
+    "Rectal anesthesia",
+    "Local anesthesia",
+    "External medicines"
+   ],
+   "form": "other",
+   "formLabel": "Rectal use ointment",
+   "strength": "(5 mg + 5 mg) / g in 15 g",
+   "unit": "unit",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.15"
+  },
+  {
+   "code": "BETAMETHASONED-0064WWI",
+   "nameEn": "Betamethasone dipropionate",
+   "nameJa": "【リンデロンDP】ベタメタゾンジプロピオン酸エステル",
+   "generic": "Betamethasone dipropionate",
+   "brandNames": [],
+   "classes": [
+    "Very strong",
+    "Topical steroids",
+    "External medicines"
+   ],
+   "form": "ointment",
+   "formLabel": "Ointment",
+   "strength": "0.064 % w/w in 15 g",
+   "unit": "tube",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.15"
+  },
+  {
+   "code": "BETAMETHASONED-0064WWI-2",
+   "nameEn": "Betamethasone dipropionate",
+   "nameJa": "【リンデロンDP】ベタメタゾンジプロピオン酸エステル",
+   "generic": "Betamethasone dipropionate",
+   "brandNames": [],
+   "classes": [
+    "Very strong",
+    "Topical steroids",
+    "External medicines"
+   ],
+   "form": "cream",
+   "formLabel": "Cream",
+   "strength": "0.064 % w/w in 15 g",
+   "unit": "tube",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.15"
+  },
+  {
+   "code": "TRIAMCINOLONEA-01IN5G",
+   "nameEn": "Triamcinolone acetonide",
+   "nameJa": "【レダコート】トリアムシノロンアセトニド",
+   "generic": "Triamcinolone acetonide",
+   "brandNames": [],
+   "classes": [
+    "Medium",
+    "Topical steroids",
+    "External medicines"
+   ],
+   "form": "cream",
+   "formLabel": "Cream",
+   "strength": "0.1 % in 5 g",
+   "unit": "tube",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.15"
+  },
+  {
+   "code": "TRIAMCINOLONEA-01IN5G-2",
+   "nameEn": "Triamcinolone acetonide",
+   "nameJa": "【レダコート】トリアムシノロンアセトニド",
+   "generic": "Triamcinolone acetonide",
+   "brandNames": [],
+   "classes": [
+    "Medium",
+    "Topical steroids",
+    "External medicines"
+   ],
+   "form": "other",
+   "formLabel": "Oral paste",
+   "strength": "0.1 % in 5 g",
+   "unit": "unit",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.15"
+  },
+  {
+   "code": "HYDROCORTISONE-1MMIN15",
+   "nameEn": "Hydrocortisone butyrate",
+   "nameJa": "【ロコイド】ヒドロコルチゾン酪酸エステル",
+   "generic": "Hydrocortisone butyrate",
+   "brandNames": [],
+   "classes": [
+    "Medium",
+    "Topical steroids",
+    "External medicines"
+   ],
+   "form": "cream",
+   "formLabel": "Cream",
+   "strength": "1 % m/m in 15 g",
+   "unit": "tube",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.15"
+  },
+  {
+   "code": "DESONIDE-005MMIN",
+   "nameEn": "Desonide",
+   "nameJa": "デゾニド",
+   "generic": "Desonide",
+   "brandNames": [],
+   "classes": [
+    "Medium",
+    "Topical steroids",
+    "External medicines"
+   ],
+   "form": "cream",
+   "formLabel": "Cream",
+   "strength": "0.05 % m/m in 60 g",
+   "unit": "tube",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.15"
+  },
+  {
+   "code": "DEXAMETHASONEA-50MGIN8",
+   "nameEn": "Dexamethasone acetate",
+   "nameJa": "【メサデルム】デキサメタゾン酢酸エステル",
+   "generic": "Dexamethasone acetate",
+   "brandNames": [],
+   "classes": [
+    "Medium",
+    "Topical steroids",
+    "External medicines"
+   ],
+   "form": "cream",
+   "formLabel": "Cream",
+   "strength": "50 mg in 8 g",
+   "unit": "tube",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.15"
+  },
+  {
+   "code": "LIDOCAINECHLOR-6ML",
+   "nameEn": "Lidocaine + Chlorhexidine + Triamcinolone",
+   "nameJa": "リドカイン + クロルヘキシジン + トリアムシノロン",
+   "generic": "Lidocaine + Chlorhexidine + Triamcinolone",
+   "brandNames": [
+    "ORAL AID"
+   ],
+   "classes": [
+    "Steroid-combined oral lotion",
+    "Topical steroids",
+    "External medicines"
+   ],
+   "form": "other",
+   "formLabel": "Lotion",
+   "strength": "6 ml",
+   "unit": "unit",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.15"
+  },
+  {
+   "code": "GENTAMICINGM-017WW",
+   "nameEn": "Gentamicin (GM)",
+   "nameJa": "【ゲンタシン】ゲンタマイシン",
+   "generic": "Gentamicin (GM)",
+   "brandNames": [],
+   "classes": [
+    "Antibacterial",
+    "Topical anti-microbial medicines",
+    "External medicines"
+   ],
+   "form": "cream",
+   "formLabel": "Cream",
+   "strength": "0.17 % w/w",
+   "unit": "tube",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.16"
+  },
+  {
+   "code": "FUSIDICACIDFA-2WW",
+   "nameEn": "Fusidic acid (FA)",
+   "nameJa": "【フシジンレオ】フシジン酸",
+   "generic": "Fusidic acid (FA)",
+   "brandNames": [
+    "Disuf"
+   ],
+   "classes": [
+    "Antibacterial",
+    "Topical anti-microbial medicines",
+    "External medicines"
+   ],
+   "form": "cream",
+   "formLabel": "Cream",
+   "strength": "2 % w/w",
+   "unit": "tube",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.16"
+  },
+  {
+   "code": "MUPIROCIN-2WW",
+   "nameEn": "Mupirocin",
+   "nameJa": "ムピロシン（日本と用途異なる）",
+   "generic": "Mupirocin",
+   "brandNames": [],
+   "classes": [
+    "Antibacterial",
+    "Topical anti-microbial medicines",
+    "External medicines"
+   ],
+   "form": "ointment",
+   "formLabel": "Ointment",
+   "strength": "2 % w/w",
+   "unit": "tube",
+   "isControlled": false,
+   "note": "Follow rules to prevent AMR\nSource: ACMC Essential Medicines, June 2026, p.16"
+  },
+  {
+   "code": "CLOTRIMAZOLECL-1WW",
+   "nameEn": "Clotrimazole (CLZ)",
+   "nameJa": "【エンペシド】クロトリマゾール",
+   "generic": "Clotrimazole (CLZ)",
+   "brandNames": [],
+   "classes": [
+    "Antifungal",
+    "Topical anti-microbial medicines",
+    "External medicines"
+   ],
+   "form": "cream",
+   "formLabel": "Cream",
+   "strength": "1 % w/w",
+   "unit": "tube",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.16"
+  },
+  {
+   "code": "KETOCONAZOLEKT-2WW",
+   "nameEn": "Ketoconazole (KTCZ)",
+   "nameJa": "【ニゾラール】ケトコナゾール",
+   "generic": "Ketoconazole (KTCZ)",
+   "brandNames": [],
+   "classes": [
+    "Antifungal",
+    "Topical anti-microbial medicines",
+    "External medicines"
+   ],
+   "form": "cream",
+   "formLabel": "Cream",
+   "strength": "2 % w/w",
+   "unit": "tube",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.16"
+  },
+  {
+   "code": "MICONAZOLEMCZ-20MGG",
+   "nameEn": "Miconazole (MCZ)",
+   "nameJa": "【フロリード】ミコナゾール",
+   "generic": "Miconazole (MCZ)",
+   "brandNames": [],
+   "classes": [
+    "Antifungal",
+    "Topical anti-microbial medicines",
+    "External medicines"
+   ],
+   "form": "other",
+   "formLabel": "Oral gel",
+   "strength": "20 mg /g",
+   "unit": "unit",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.16"
+  },
+  {
+   "code": "ACYCLOVIRACV-50MGG",
+   "nameEn": "Acyclovir (ACV)",
+   "nameJa": "【ゾビラックス】アシクロビル",
+   "generic": "Acyclovir (ACV)",
+   "brandNames": [],
+   "classes": [
+    "Anti herpes",
+    "Topical anti-microbial medicines",
+    "External medicines"
+   ],
+   "form": "cream",
+   "formLabel": "Cream",
+   "strength": "50 mg /g",
+   "unit": "tube",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.16"
+  },
+  {
+   "code": "CLOBETASOLSTRO-025MG10",
+   "nameEn": "Clobetasol [Strongest] + Ketoconazole + Neomycin",
+   "nameJa": "デルモベート ＋ ニゾラール （抗真菌）＋ ネオマイシン",
+   "generic": "Clobetasol [Strongest] + Ketoconazole + Neomycin",
+   "brandNames": [
+    "KETZOL"
+   ],
+   "classes": [
+    "Topical steroids + anti-microbial medicines",
+    "External medicines"
+   ],
+   "form": "cream",
+   "formLabel": "Cream",
+   "strength": "(0.25 mg + 10 mg + 5000 Unit)/g",
+   "unit": "tube",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.16"
+  },
+  {
+   "code": "BETAMETHASONED-064MG10",
+   "nameEn": "Betamethasone dipropionate [Very strong] + Clotrimazole (CLZ) + Gentamicin (GM)",
+   "nameJa": "ベタメタゾンプロピオン酸＋エンぺシド（抗真菌）＋ゲンタシン",
+   "generic": "Betamethasone dipropionate [Very strong] + Clotrimazole (CLZ) + Gentamicin (GM)",
+   "brandNames": [
+    "GENTRIDERM cream"
+   ],
+   "classes": [
+    "Topical steroids + anti-microbial medicines",
+    "External medicines"
+   ],
+   "form": "cream",
+   "formLabel": "Cream",
+   "strength": "(0.64 mg + 10 mg + 1 mg) /g",
+   "unit": "tube",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.16"
+  },
+  {
+   "code": "BETAMETHASONEV-01WW05W",
+   "nameEn": "Betamethasone valerate [Strong] + Neomycin",
+   "nameJa": "【≒リンデロンVG】 ベタメタゾン吉草酸 ＋ ネオマイシン",
+   "generic": "Betamethasone valerate [Strong] + Neomycin",
+   "brandNames": [
+    "Neo-Betasone cream"
+   ],
+   "classes": [
+    "Topical steroids + anti-microbial medicines",
+    "External medicines"
+   ],
+   "form": "cream",
+   "formLabel": "Cream",
+   "strength": "0.1 % w/w + 0.5 % w/w",
+   "unit": "tube",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.16"
+  },
+  {
+   "code": "BETAMETHASONEV-01WW2WW",
+   "nameEn": "Betamethasone valerate [Strong] + Fusidic acid",
+   "nameJa": "【≒リンデロンVG】 ベタメタゾン吉草酸 ＋ フシジン酸",
+   "generic": "Betamethasone valerate [Strong] + Fusidic acid",
+   "brandNames": [
+    "Disuf-B cream"
+   ],
+   "classes": [
+    "Topical steroids + anti-microbial medicines",
+    "External medicines"
+   ],
+   "form": "cream",
+   "formLabel": "Cream",
+   "strength": "0.1 % w/w + 2 % w/w",
+   "unit": "tube",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.16"
+  },
+  {
+   "code": "BETAMETHASONEV-01WW1WW",
+   "nameEn": "Betamethasone valerate [Strong] + Clotrimazole (CLZ)",
+   "nameJa": "ベタメタゾン吉草酸 ＋ エンぺシド（抗真菌）",
+   "generic": "Betamethasone valerate [Strong] + Clotrimazole (CLZ)",
+   "brandNames": [
+    "Myda-B cream"
+   ],
+   "classes": [
+    "Topical steroids + anti-microbial medicines",
+    "External medicines"
+   ],
+   "form": "cream",
+   "formLabel": "Cream",
+   "strength": "0.1 % w/w + 1 % w/w",
+   "unit": "tube",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.16"
+  },
+  {
+   "code": "TRIAMCINOLONEM-1MG10MG",
+   "nameEn": "Triamcinolone [Mild] + Econazole (ECZ) + Gentamicin",
+   "nameJa": "トリアムシノロン ＋ エコナゾール ＋ ゲンタシン",
+   "generic": "Triamcinolone [Mild] + Econazole (ECZ) + Gentamicin",
+   "brandNames": [
+    "SAFI-CREAM"
+   ],
+   "classes": [
+    "Topical steroids + anti-microbial medicines",
+    "External medicines"
+   ],
+   "form": "cream",
+   "formLabel": "Cream",
+   "strength": "(1 mg + 10 mg + 1 mg) /g",
+   "unit": "tube",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.16"
+  },
+  {
+   "code": "BECLOMETHASONE-0025101",
+   "nameEn": "Beclomethasone dipropinate [Mild] + Clotrimazole (CLZ) + Gentamicin (GM)",
+   "nameJa": "≒キンダベート ＋ エンぺシド（抗真菌） ＋ ゲンタシン",
+   "generic": "Beclomethasone dipropinate [Mild] + Clotrimazole (CLZ) + Gentamicin (GM)",
+   "brandNames": [
+    "C-sans Plus"
+   ],
+   "classes": [
+    "Topical steroids + anti-microbial medicines",
+    "External medicines"
+   ],
+   "form": "cream",
+   "formLabel": "Cream",
+   "strength": "0.025% + 1 % + 0.1 % w/w",
+   "unit": "tube",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.16"
+  },
+  {
+   "code": "DIPHENHYDRAMIN-1",
+   "nameEn": "Diphenhydramine (Restamin Kowa, レスタミン)",
+   "nameJa": "【レスタミンコーワ】ジフェンヒドラミン",
+   "generic": "Diphenhydramine (Restamin Kowa, レスタミン)",
+   "brandNames": [],
+   "classes": [
+    "Ｈ1-antagonist",
+    "other topical medications",
+    "External medicines"
+   ],
+   "form": "cream",
+   "formLabel": "Cream",
+   "strength": "1%",
+   "unit": "tube",
+   "isControlled": false,
+   "note": "Donation from Japan\nSource: ACMC Essential Medicines, June 2026, p.16"
+  },
+  {
+   "code": "CARRAGEENANSTI-CREA",
+   "nameEn": "Carrageenans + Titanium dioxide + Zinc oxide",
+   "nameJa": "",
+   "generic": "Carrageenans + Titanium dioxide + Zinc oxide",
+   "brandNames": [
+    "TITANOREINE cream"
+   ],
+   "classes": [
+    "Hemorrhoid medicine",
+    "other topical medications",
+    "External medicines"
+   ],
+   "form": "cream",
+   "formLabel": "Cream",
+   "strength": "",
+   "unit": "tube",
+   "isControlled": false,
+   "note": "Source: ACMC Essential Medicines, June 2026, p.16"
+  },
+  {
+   "code": "SULFADIAZINESI-50G",
+   "nameEn": "Sulfadiazine Silver 1 %",
+   "nameJa": "【ゲーベンクリーム】スルファジアジン銀クリーム",
+   "generic": "Sulfadiazine Silver 1 %",
+   "brandNames": [
+    "FLAMMAZINE"
+   ],
+   "classes": [
+    "Infection treatment",
+    "other topical medications",
+    "External medicines"
+   ],
+   "form": "cream",
+   "formLabel": "Cream",
+   "strength": "50 g",
+   "unit": "tube",
+   "isControlled": false,
+   "note": "Currently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.16"
+  },
+  {
+   "code": "SUCROSEPOVIDON-INNEEDS",
+   "nameEn": "Sucrose Povidone-Iodine",
+   "nameJa": "イソジンシュガーパスタ",
+   "generic": "Sucrose Povidone-Iodine",
+   "brandNames": [],
+   "classes": [
+    "Skin ulcer treatment",
+    "other topical medications",
+    "External medicines"
+   ],
+   "form": "other",
+   "formLabel": "Paste",
+   "strength": "In needs",
+   "unit": "unit",
+   "isControlled": false,
+   "note": "Made in hospital\nCurrently no stock (per the June 2026 list)\nSource: ACMC Essential Medicines, June 2026, p.16"
+  },
+  {
+   "code": "DIMETHYLISOPRO-500G",
+   "nameEn": "Dimethyl isopropylazulene 0.033 %",
+   "nameJa": "【アズノール軟膏】 ジメチルイソプロピルアズレン軟膏",
+   "generic": "Dimethyl isopropylazulene 0.033 %",
+   "brandNames": [
+    "Azunol"
+   ],
+   "classes": [
+    "Anti-inflammatory",
+    "other topical medications",
+    "External medicines"
+   ],
+   "form": "ointment",
+   "formLabel": "Ointment",
+   "strength": "500 g",
+   "unit": "tube",
+   "isControlled": false,
+   "note": "From Japan\nSource: ACMC Essential Medicines, June 2026, p.16"
+  }
+ ]
+}
