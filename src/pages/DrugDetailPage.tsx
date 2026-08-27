@@ -8,6 +8,7 @@ import type { Language } from '../i18n'
 import { DrugFormModal } from './DrugForm'
 import { EditIcon, LockIcon } from '../components/icons'
 import { ReviewBanner } from '../components/ReviewBanner'
+import { StockLine } from '../components/StockLine'
 import { useState } from 'react'
 
 /**
@@ -87,6 +88,8 @@ export function DrugDetailPage() {
           </p>
         )}
       </section>
+
+      <StockLine drug={drug} />
 
       <ReviewBanner drug={drug} />
 

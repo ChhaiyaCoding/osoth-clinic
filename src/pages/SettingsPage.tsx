@@ -3,6 +3,7 @@ import { useTranslation } from 'react-i18next'
 import { importCatalog, loadCatalog, type Catalog, type ImportResult } from '../db/catalog'
 import { importTemplateCsv, parseImportFile, type ParsedFile } from '../db/fileImport'
 import { applyMonographSeeds, loadMonographSeeds, type SeedResult } from '../db/monographSeed'
+import { rebuildBatchQuantities } from '../db/stock'
 import { BoxIcon, PillIcon } from '../components/icons'
 import { BackupCard } from './BackupCard'
 
@@ -27,6 +28,7 @@ export function SettingsPage() {
       <BundledListCard />
       <FileImportCard />
       <MonographSeedCard />
+      <StockIntegrityCard />
       <p className="px-1 text-xs leading-relaxed text-ink-3">{t('phase.settings')}</p>
     </div>
   )
@@ -269,6 +271,49 @@ function MonographSeedCard() {
       {result && (
         <p className="mt-3 rounded-lg bg-brand-soft px-3 py-2 text-sm text-brand-ink">
           {t('seeds.result', { matched: result.drugsMatched, updated: result.drugsUpdated })}
+        </p>
+      )}
+    </Card>
+  )
+}
+
+/**
+ * Makes good on the append-only design: the movement ledger is authoritative,
+ * so a cached batch total can always be recomputed from it.
+ */
+function StockIntegrityCard() {
+  const { t } = useTranslation()
+  const [busy, setBusy] = useState(false)
+  const [result, setResult] = useState<{ checked: number; corrected: number }>()
+
+  return (
+    <Card title={t('stock.integrity.title')} icon={<BoxIcon />}>
+      <p className="mt-2 text-sm leading-relaxed text-ink-2">{t('stock.integrity.body')}</p>
+      <button
+        type="button"
+        disabled={busy}
+        onClick={async () => {
+          setBusy(true)
+          try {
+            setResult(await rebuildBatchQuantities())
+          } finally {
+            setBusy(false)
+          }
+        }}
+        className="btn btn-primary mt-4 w-full sm:w-auto"
+      >
+        {busy ? t('importer.importing') : t('stock.integrity.action')}
+      </button>
+
+      {result && (
+        <p
+          className={`mt-3 rounded-lg px-3 py-2 text-sm ${
+            result.corrected > 0 ? 'bg-warn-soft text-warn-ink' : 'bg-brand-soft text-brand-ink'
+          }`}
+        >
+          {result.corrected > 0
+            ? t('stock.integrity.fixed', result)
+            : t('stock.integrity.clean', result)}
         </p>
       )}
     </Card>

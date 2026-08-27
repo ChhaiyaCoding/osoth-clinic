@@ -91,9 +91,10 @@ src/
     locales/    en.ts is the source of truth; km.ts is typed against it
   lib/
     search.ts   Khmer-aware normalization, tokenizing and sorting
-  components/   AppShell, Modal, LanguageToggle, icons
+  components/   AppShell, Modal, LanguageToggle, ThemeToggle, ExpiryBadge, icons
   pages/        DrugsPage, DrugDetailPage, MonographSectionPage,
-                DrugForm, PhasePlaceholder
+                StockPage, DrugStockPage, ReceiveStockModal,
+                SettingsPage, BackupCard, DrugForm, PhasePlaceholder
 ```
 
 ### Monograph
@@ -134,7 +135,10 @@ Interactions is free text for now; structured drug-pair checking is a later phas
 - **UUID ids and `createdAt`/`updatedAt` on every record from day one.** Nothing
   syncs today, but adding sync later must not require rewriting the schema.
 - **`StockMove` is an append-only ledger.** `Batch.qtyOnHand` is a cached total;
-  the ledger is the source of truth and can always rebuild it. (phase 2)
+  the ledger is the source of truth. Every quantity change writes its signed
+  movement in the *same transaction* as the cache update, so a partial write
+  cannot desynchronise them — and **Settings → Check stock totals** recomputes
+  every total from the ledger if one ever does drift.
 - **Soft delete everywhere** (`deletedAt`), so stock history never dangles.
 - **Bilingual data, not translated data.** `nameKh` and `nameEn` are both stored
   on the record; only UI chrome goes through i18n.
@@ -179,11 +183,30 @@ the orange first column is decoration, not a marker.
 
 - [x] **Phase 1** — PWA shell, offline storage, i18n, medicine list + CRUD,
       full drug monograph (8 sections)
-- [ ] **Phase 2** — Batches, expiry dates, receiving stock
+- [x] **Phase 2** — Batches, expiry dates, receiving stock, alerts
 - [ ] **Phase 3** — Patients, prescriptions, dispensing (FEFO)
 - [ ] **Phase 4** — Alerts dashboard (low stock / expiring) and reports
 - [x] **Phase 5 (brought forward)** — Backup and restore
 - [ ] Excel export of reports
+
+## ស្តុក / Stock
+
+**Stock → medicine** shows its batches in FEFO order (first to expire, first
+out) with the full movement history beneath.
+
+- **Receive** takes packs or units and converts using the drug's `packSize`;
+  expiry dates in the past are rejected at the form.
+- **Adjust** records the *difference* against a counted quantity, not the new
+  absolute — so the history reads "−6, breakage" — and requires a reason.
+- **Write off** zeroes an expired batch and keeps the batch and its history.
+
+The **Stock** landing page leads with what needs acting on: expired, expiring
+within the warning window (default 90 days), and anything at or below its
+reorder level. Only drugs with a reorder level set can raise a low-stock alert,
+so a drug never stocked does not shout.
+
+Dates are handled as local calendar dates, never `toISOString()` — at UTC+7 that
+would report yesterday's date all evening and expire batches a day early.
 
 ## ការបម្រុងទុក / Backup and restore
 
