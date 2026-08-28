@@ -345,7 +345,7 @@ export const km: Translation = {
     choose: 'ជ្រើសឯកសារ',
     template: 'ទាញយកគំរូ',
     columns:
-      'ជួរឈរដែលទទួលស្គាល់៖ Code, Drug names, Name (Khmer), Japanese names, Generic, Brand names, Drug classes, Dosage form, Strength, Unit, Annotation។ លំដាប់មិនសំខាន់ទេ ហើយជួរឈរផ្សេងនឹងមិនយកចិត្តទុកដាក់។',
+      'ជួរឈរដែលទទួលស្គាល់៖ Code, Drug names, Name (Khmer), Japanese names, Generic, Brand names, Drug classes, Dosage form, Strength, Unit, ចំនួនក្នុងមួយប្រអប់, ថ្លៃដើម, ថ្លៃលក់, កម្រិតបញ្ជាទិញ, Annotation។ លំដាប់មិនសំខាន់ទេ ហើយជួរឈរផ្សេងនឹងមិនយកចិត្តទុកដាក់។ Cell ទទេមិនប៉ះតម្លៃដែលមានស្រាប់ទេ ដូច្នេះឯកសារដែលមានតែឈ្មោះ និងថ្លៃ នឹងកែតែថ្លៃប៉ុណ្ណោះ។',
     ready: 'មានឱសថ {{count}} មុខត្រៀមនាំចូលពី {{name}}',
     ignored: 'ជួរឈរដែលរំលង៖ {{list}}',
     issues: 'មាន {{count}} ជួរត្រូវពិនិត្យ',

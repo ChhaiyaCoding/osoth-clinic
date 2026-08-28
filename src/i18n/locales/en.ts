@@ -346,7 +346,7 @@ export const en = {
     choose: 'Choose file',
     template: 'Download template',
     columns:
-      'Recognised columns: Code, Drug names, Name (Khmer), Japanese names, Generic, Brand names, Drug classes, Dosage form, Strength, Unit, Annotation. Order does not matter and extra columns are ignored.',
+      'Recognised columns: Code, Drug names, Name (Khmer), Japanese names, Generic, Brand names, Drug classes, Dosage form, Strength, Unit, Pack size, Cost price, Sell price, Reorder level, Annotation. Order does not matter and extra columns are ignored. A blank cell leaves the stored value alone, so a file with just a name and a price updates only the price.',
     ready: '{{count}} medicines ready to import from {{name}}',
     ignored: 'Columns ignored: {{list}}',
     issues: '{{count}} rows need attention',

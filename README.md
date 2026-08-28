@@ -156,9 +156,27 @@ Heart Asia Children's Medical Center — 390 entries, carrying exactly the six
 columns the source PDF has: drug class, drug name, dosage form, strength,
 annotation, Japanese name. Import it from **Settings → Import medicine list**.
 
-Matching is by `code`. Re-importing a newer list updates the reference fields
-and leaves the clinic's own data — prices, pack sizes, reorder levels, Khmer
-names, monographs — untouched. Medicines deleted in the app are not resurrected.
+### How importing matches and merges
+
+Matching is by `code`, falling back to the medicine's name when the file has no
+code column. Medicines deleted in the app are not resurrected, and a row that
+matches nothing and carries no name is skipped rather than creating a blank
+record.
+
+**Only the columns the file actually contains are written.** A blank cell, or a
+missing column, leaves the stored value alone — which is what makes it safe to
+bulk-edit one attribute:
+
+```csv
+Code,Sell price
+PARACETAMOL-500MG,0.10
+```
+
+That updates the price and touches nothing else. The importer accepts
+`Pack size`, `Cost price`, `Sell price` and `Reorder level` alongside the
+reference columns, tolerating currency symbols and thousands separators
+(`$0.18`, `1,200`). An explicit `0` is a real value — a reorder level of `0`
+switches the low-stock alert off — whereas an empty cell means "don't change".
 
 ### Regenerating the catalog
 

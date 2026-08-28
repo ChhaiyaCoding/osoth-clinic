@@ -24,6 +24,10 @@ const HEADER_ALIASES: Record<keyof ParsedRow, string[]> = {
   strength: ['strength', 'កម្លាំងថ្នាំ', 'dose', 'dosage'],
   unit: ['unit', 'ឯកតា'],
   note: ['note', 'notes', 'annotation', 'remark', 'remarks', 'កំណត់ចំណាំ'],
+  costPrice: ['cost', 'cost price', 'buy price', 'purchase price', 'ថ្លៃដើម'],
+  sellPrice: ['sell', 'sell price', 'price', 'selling price', 'retail price', 'ថ្លៃលក់'],
+  reorderLevel: ['reorder', 'reorder level', 'min stock', 'minimum stock', 'កម្រិតបញ្ជាទិញ', 'កម្រិតត្រូវបញ្ជាទិញឡើងវិញ'],
+  packSize: ['pack', 'pack size', 'units per pack', 'ចំនួនក្នុងមួយប្រអប់'],
 }
 
 export interface ParsedRow {
@@ -38,6 +42,10 @@ export interface ParsedRow {
   strength: string
   unit: string
   note: string
+  costPrice: string
+  sellPrice: string
+  reorderLevel: string
+  packSize: string
 }
 
 export interface ParseIssue {
@@ -60,6 +68,23 @@ function splitList(value: string): string[] {
     .split(/[,;|]/)
     .map((part) => part.trim())
     .filter(Boolean)
+}
+
+/**
+ * A money or count cell, or `undefined` when the cell is blank.
+ *
+ * The distinction matters: blank must mean "leave what is stored alone", while
+ * an explicit 0 is a real value — a reorder level of 0 turns the low-stock
+ * alert off. Spreadsheets also export money with currency symbols, thousands
+ * separators and stray spaces, all of which are stripped here.
+ */
+function toOptionalNumber(value: string | undefined): number | undefined {
+  if (value == null) return undefined
+  const cleaned = value.replace(/[^\d.,-]/g, '').replace(/,(?=\d{3}\b)/g, '')
+  const normalized = cleaned.replace(',', '.').trim()
+  if (!normalized) return undefined
+  const parsed = Number(normalized)
+  return Number.isFinite(parsed) && parsed >= 0 ? parsed : undefined
 }
 
 /**
@@ -156,6 +181,10 @@ function parseJson(text: string): ParsedFile {
       unit: asText(row.unit) || 'unit',
       isControlled: row.isControlled === true,
       note: asText(row.note),
+      costPrice: toOptionalNumber(asText(row.costPrice) || undefined),
+      sellPrice: toOptionalNumber(asText(row.sellPrice) || undefined),
+      reorderLevel: toOptionalNumber(asText(row.reorderLevel) || undefined),
+      packSize: toOptionalNumber(asText(row.packSize) || undefined),
     })
   })
 
@@ -167,10 +196,18 @@ function parseCsvFile(text: string): ParsedFile {
   if (rows.length === 0) throw new Error('The file is empty.')
 
   const { map, ignored } = buildHeaderMap(rows[0])
-  const fields = [...map.values()]
-  if (!fields.includes('nameEn') && !fields.includes('generic') && !fields.includes('nameKh')) {
-    throw new Error('No name column found. Expected one of: Drug names, Name (English), Name (Khmer).')
+  const present = new Set(map.values())
+  const hasName = present.has('nameEn') || present.has('generic') || present.has('nameKh')
+
+  // A file keyed by code needs no name column: it can only update, and that is
+  // exactly how a price or reorder-level sheet is written.
+  if (!hasName && !present.has('code')) {
+    throw new Error('No name or code column found. Expected Drug names, Name (Khmer), or Code.')
   }
+
+  /** The cell's text, or undefined when the file has no such column at all. */
+  const cell = (row: Partial<ParsedRow>, field: keyof ParsedRow): string | undefined =>
+    present.has(field) ? (row[field] ?? '') : undefined
 
   const entries: CatalogEntry[] = []
   const issues: ParseIssue[] = []
@@ -179,18 +216,19 @@ function parseCsvFile(text: string): ParsedFile {
   rows.slice(1).forEach((cells, index) => {
     // +2: one for the header row, one because spreadsheets count from 1.
     const line = index + 2
-    if (cells.every((cell) => !cell.trim())) return
+    if (cells.every((entry) => !entry.trim())) return
 
-    const row = {} as ParsedRow
+    const row: Partial<ParsedRow> = {}
     for (const [column, field] of map) row[field] = (cells[column] ?? '').trim()
 
     const name = row.nameEn || row.generic || row.nameKh
-    if (!name) {
-      issues.push({ line, message: 'No name — row skipped' })
+    if (!name && !row.code) {
+      issues.push({ line, message: 'No name or code — row skipped' })
       return
     }
 
-    let code = row.code || deriveCode(name, row.strength ?? '')
+    const codeDerived = !row.code
+    let code = row.code || deriveCode(name ?? '', row.strength ?? '')
     if (seen.has(code.toLowerCase())) {
       // Codes must be unique; suffix rather than drop the row.
       let n = 2
@@ -200,21 +238,29 @@ function parseCsvFile(text: string): ParsedFile {
     }
     seen.add(code.toLowerCase())
 
+    const list = (value: string | undefined) => (value === undefined ? undefined : splitList(value))
+    const form = cell(row, 'form')
+
     entries.push({
       code,
-      nameEn: row.nameEn || '',
-      nameJa: row.nameJa || '',
-      generic: row.generic || row.nameEn || '',
-      brandNames: splitList(row.brandNames || ''),
-      classes: splitList(row.classes || ''),
-      form: toForm(row.form || ''),
-      formLabel: row.form || null,
-      strength: row.strength || '',
-      unit: row.unit || 'unit',
-      isControlled: false,
-      note: row.note || '',
-      nameKh: row.nameKh || '',
-    } as CatalogEntry & { nameKh: string })
+      nameEn: cell(row, 'nameEn'),
+      nameKh: cell(row, 'nameKh'),
+      nameJa: cell(row, 'nameJa'),
+      generic: cell(row, 'generic'),
+      brandNames: list(cell(row, 'brandNames')),
+      classes: list(cell(row, 'classes')),
+      form: form === undefined ? undefined : toForm(form),
+      formLabel: form === undefined ? undefined : form || null,
+      strength: cell(row, 'strength'),
+      unit: cell(row, 'unit'),
+      note: cell(row, 'note'),
+      costPrice: toOptionalNumber(row.costPrice),
+      sellPrice: toOptionalNumber(row.sellPrice),
+      reorderLevel: toOptionalNumber(row.reorderLevel),
+      packSize: toOptionalNumber(row.packSize),
+      updateOnly: !name,
+      codeDerived,
+    })
   })
 
   return { entries, issues, ignoredColumns: ignored }
@@ -234,6 +280,10 @@ export function importTemplateCsv(): string {
       'Dosage form',
       'Strength',
       'Unit',
+      'Pack size',
+      'Cost price',
+      'Sell price',
+      'Reorder level',
       'Annotation',
     ],
     [
@@ -247,6 +297,10 @@ export function importTemplateCsv(): string {
       'Tablet',
       '500 mg',
       'tablet',
+      '100',
+      '0.05',
+      '0.15',
+      '200',
       'Usable over 3 months old',
     ],
   ])
