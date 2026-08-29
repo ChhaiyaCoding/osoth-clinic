@@ -39,25 +39,33 @@ usual SPA "redirect everything to index.html" config is unnecessary.
 
 | Host | Base path |
 | --- | --- |
-| Netlify, Cloudflare Pages, Vercel | default (`/`) — nothing to set |
 | GitHub Pages (project site) | `BASE_PATH=/<repo>/ npm run build` |
+| Cloudflare Pages, Netlify, Vercel | default (`/`) — nothing to set |
 
 ### Live site
 
-Deployed to Netlify at **https://osoth-clinic.netlify.app**. The folder is
-linked to that project, so redeploying is:
-
-```bash
-npm run deploy
-```
-
-`netlify.toml` holds the build settings plus the cache headers that matter for a
-PWA: `sw.js` must revalidate every time, or installed phones stay pinned to an
-old build forever, while content-hashed files under `assets/` are immutable.
+**https://chhaiyacoding.github.io/osoth-clinic/**
 
 `.github/workflows/deploy.yml` builds and publishes to GitHub Pages on every
-push to `main`, setting `BASE_PATH` from the repository name automatically.
-GitHub Pages requires a **public** repository unless the account has GitHub Pro.
+push to `main`, setting `BASE_PATH` from the repository name automatically, so
+deploying is just:
+
+```bash
+git push
+```
+
+Use the Actions tab (or `gh workflow run deploy.yml`) to re-publish without a
+commit.
+
+GitHub Pages on the free plan requires a **public** repository — which is why
+this one is public. Nothing clinical lives here: the repository holds only the
+app's code and the published ACMC reference list. Every patient, prescription,
+stock and price record stays in the browser's own IndexedDB on the clinic's
+device and is never uploaded anywhere.
+
+Pages serves `sw.js` with a short cache lifetime of its own, so installed phones
+pick up new builds; the content-hashed files under `assets/` are immutable and
+cached indefinitely.
 
 ### Phones on the local network
 

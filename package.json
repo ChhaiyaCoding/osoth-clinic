@@ -10,8 +10,7 @@
     "preview": "vite preview",
     "icons": "node scripts/generate-icons.mjs",
     "dev:lan": "vite --host",
-    "preview:lan": "vite preview --host",
-    "deploy": "npm run build && netlify deploy --prod --dir=dist"
+    "preview:lan": "vite preview --host"
   },
   "dependencies": {
     "@fontsource/inter": "^5.3.0",
